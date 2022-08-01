@@ -1,4 +1,4 @@
-# Controlling WAYA supply v1
+# Controlling WAYA Supply 
 
 ## Why WAYA has no hard cap
 

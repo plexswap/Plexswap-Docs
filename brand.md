@@ -10,9 +10,12 @@ description: Guidlines and downloadable assets like the PlexSwap logo SVG
 
 ## Intro
 
+As everyone has already noticed, Symplexia's strategy was to try to make the most of all the creation effort already applied to the world of exchanges (mainly Uniswap & PancakeSwap). We try to get away from the temptation to reinvent the wheel, although we think that any attempt in this direction is perfectly possible and plausible. So, everything from PlexSwap is naturally and natively from the Community, so feel free to use in the way you want. The world is yours, the future is ours.
+
+ 
 PlexSwap logo downloads are at the bottom of this page, but please be sure to read these guidelines first.
 
-> Although PlexSwap distributes some of its technology under open-source licenses, **the PlexSwap and WAYA brands are not distributed under the same licenses.**
+> However, be careful to preserve our brands rights.
 
 The following PlexSwap "Brand Assets" are copyrighted material, and you may only use them in accordance with the policy detailed below:
 
@@ -28,7 +31,7 @@ You may use PlexSwap's Brand Assets when you are:
 * 👌 Linking to our official site or products, such as "Trade our token on PlexSwap"
 * 👌 Announcing an official partnership, but only if you have **official approval** by a qualified member of the PlexSwap team
 
-For information on other uses of our Brand Assets, please reach out at info@PlexSwap.com
+For information on other uses of our Brand Assets, please reach out at development@symplexia.com
 
 ## What you may not do
 

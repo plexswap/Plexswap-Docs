@@ -55,7 +55,7 @@
 
 * [WAYA](tokenomics/waya/README.md)
   * [WAYA Tokenomics](tokenomics/waya/waya-tokenomics.md)
-  * [Controlling WAYA supply](tokenomics/waya/controlling-waya-supply.md)
+  * [Controlling WAYA Supply](tokenomics/waya/controlling-waya-supply.md)
 
 ## Developers <a href="#code" id="code"></a>
 
