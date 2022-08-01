@@ -21,18 +21,18 @@
 
 ## Products
 
-* [🔄 Exchange](products/PlexSwap-exchange/README.md)
-  * [Token Swaps](products/PlexSwap-exchange/trade.md)
-  * [How to Trade](products/PlexSwap-exchange/trade-guide.md)
-  * [Liquidity Pools](products/PlexSwap-exchange/PlexSwap-pools.md)
-  * [How to Add/Remove Liquidity](products/PlexSwap-exchange/liquidity-guide.md)
-  * [📝Limit Orders](products/PlexSwap-exchange/limit-orders/README.md)
-    * [Limit Orders FAQ](products/PlexSwap-exchange/limit-orders/limit-orders-faq.md)
-  * [Perpetual Trading](products/PlexSwap-exchange/perpetual-trading/README.md)
-    * [Perpetuals Glossary](products/PlexSwap-exchange/perpetual-trading/perpetuals-glossary.md)
-    * [What is Perpetual Trading?](products/PlexSwap-exchange/perpetual-trading/what-is-perpetual-trading.md)
-    * [How can I use it?](products/PlexSwap-exchange/perpetual-trading/how-can-i-use-it.md)
-    * [Perpetual Trading FAQ](products/PlexSwap-exchange/perpetual-trading/perpetual-trading-faq.md)
+* [🔄 Exchange](products/plexswap-exchange/README.md)
+  * [Token Swaps](products/plexswap-exchange/trade.md)
+  * [How to Trade](products/plexswap-exchange/trade-guide.md)
+  * [Liquidity Pools](products/plexswap-exchange/PlexSwap-pools.md)
+  * [How to Add/Remove Liquidity](products/plexswap-exchange/liquidity-guide.md)
+  * [📝Limit Orders](products/plexswap-exchange/limit-orders/README.md)
+    * [Limit Orders FAQ](products/plexswap-exchange/limit-orders/limit-orders-faq.md)
+  * [Perpetual Trading](products/plexswap-exchange/perpetual-trading/README.md)
+    * [Perpetuals Glossary](products/plexswap-exchange/perpetual-trading/perpetuals-glossary.md)
+    * [What is Perpetual Trading?](products/plexswap-exchange/perpetual-trading/what-is-perpetual-trading.md)
+    * [How can I use it?](products/plexswap-exchange/perpetual-trading/how-can-i-use-it.md)
+    * [Perpetual Trading FAQ](products/plexswap-exchange/perpetual-trading/perpetual-trading-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
@@ -44,7 +44,7 @@
   * [Other Gaya Pools](products/gaya-pool/gaya-pool-guide/README.md)
     * [Gaya Pool FAQ & Troubleshooting](products/gaya-pool/gaya-pool-guide/gaya-pool-faq.md)
 * [📈 Analytics (Info)](products/info/README.md)
-  * [Analytics](products/info/PlexSwap-analytics.md)
+  * [Analytics](products/info/plexwwap-analytics.md)
 * [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
@@ -62,17 +62,17 @@
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [Smart Contracts](code/smart-contracts/README.md)
-  * [PlexSwap Exchange](code/smart-contracts/PlexSwap-exchange/README.md)
-    * [Factory v2](code/smart-contracts/PlexSwap-exchange/factory-v2.md)
-    * [Router v2](code/smart-contracts/PlexSwap-exchange/router-v2.md)
+  * [PlexSwap Exchange](code/smart-contracts/plexswap-exchange/README.md)
+    * [Factory v2](code/smart-contracts/plexswap-exchange/factory-v2.md)
+    * [Router v2](code/smart-contracts/plexswap-exchange/router-v2.md)
   * [Main Staking/Gaya Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
   * [WAYA pool](code/smart-contracts/fixed-term-staking-waya-pool.md)
   * [Auto WAYA Pool (WayaVault)](code/smart-contracts/wayavault.md)
 
 ## Reference
 
-* [WAYA Tokenomics](reference/old-tokenomics/waya-tokenomics-v1.md)
-* [Controlling WAYA supply](reference/old-tokenomics/waya-tokenomics-v1-controlling-waya-supply.md)
+* [WAYA Tokenomics](reference/tokenomics/waya-tokenomics.md)
+* [Controlling WAYA supply](reference/tokenomics/waya-control-supply.md)
 
 ## Contract Governance <a href="#governance" id="governance"></a>
 
