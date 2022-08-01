@@ -4,7 +4,7 @@
 
 ### What is the value contribution of this new feature to the cake holders?&#x20;
 
-We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. 20% of all trading fees from users who sign up on PancakeSwap will be converted to CAKE and burnt.
+We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. 20% of all trading fees from users who sign up on PlexSwap will be converted to CAKE and burnt.
 
 **And the rest of it?**&#x20;
 
@@ -23,7 +23,7 @@ Remember that you must first deposit your funds into the Futures account!
 
 ### I've deposited funds and still can't see them! What happened?
 
-ApolloX is providing the [support ticket system](https://pancakeswaphelp.zendesk.com/hc/en-us/requests/new) for our perpetual's market! If this is happening to you, click on the headset icon in the top right of the perpetuals page to place a ticket!  
+ApolloX is providing the [support ticket system](https://PlexSwaphelp.zendesk.com/hc/en-us/requests/new) for our perpetual's market! If this is happening to you, click on the headset icon in the top right of the perpetuals page to place a ticket!  
 
 ![](../../../.gitbook/assets/ApolloXSupportTicket_Fix.png)
 

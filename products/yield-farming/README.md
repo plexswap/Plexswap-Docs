@@ -2,9 +2,9 @@
 
 ![](../../.gitbook/assets/yield-farms-header.png)
 
-Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
+Yield Farms allow users to earn CAKE while supporting PlexSwap by staking LP Tokens.
 
-Check out our [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
+Check out our [How to Use Farms guide](https://docs.PlexSwap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
 
 Learn [how to find Farm smart contracts](./)
 

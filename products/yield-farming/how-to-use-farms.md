@@ -1,12 +1,12 @@
 ---
-description: Yield Farming on PancakeSwap is easy!
+description: Yield Farming on PlexSwap is easy!
 ---
 
 # How to Use Farms
 
 ![](../../.gitbook/assets/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+Yield Farming in Farms is a great way to earn CAKE rewards on PlexSwap.
 
 Unlike Syrup Pools, Farms require you to stake **two tokens** to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
 
@@ -28,7 +28,7 @@ It may sound intimidating, but it's not too complicated. Let's go through step b
 
 ### Finding your Farm
 
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
+Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://PlexSwap.finance/farms) and you’ll see a list of available Farms.
 
 ![](https://lh5.googleusercontent.com/oxanafasV3-ifV5DlpPn1enB42kOdyZPOn1VJbtGts\_MTnyaZ9CK0lqYn9CFuZyQuUUqhLr6mIvzPfLFQXN3zrk4tppm\_Y2ESkAWF29sft9gAMgweJqceauttEoJDIhv7Usp\_CqM)
 
@@ -47,7 +47,7 @@ Now that you've found a Farm to stake in, you will need to add liquidity to get 
 
 ![](<../../.gitbook/assets/image (153) (1).png>)
 
-This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](https://docs.pancakeswap.finance/get-started/liquidity-guide) you can follow to get your LP Tokens.
+This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](https://docs.PlexSwap.finance/get-started/liquidity-guide) you can follow to get your LP Tokens.
 
 ## Putting your LP Tokens into a farm
 
@@ -55,7 +55,7 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 ### Putting your LP Tokens into the Farm
 
-1. Go back to the [Farms page](https://pancakeswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
+1. Go back to the [Farms page](https://PlexSwap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
 
 ![](https://lh4.googleusercontent.com/DbdKZLxqqILLzovnQ752Ed8VFtx3dTh-tZSCfOmQ2BZG7M6hvOLXDzUOYpGFJgNeIbOXBxyryvhhAtXXTppwtOev\_lUqZWikbxLQVJy6kqDz2y3Q360YAVHdLlNkm6yfdNBYi7tQ)
 
@@ -79,7 +79,7 @@ Type the amount of LP Tokens you would like to farm with into the field, or just
 
 You may decide you would like to add more LP Tokens to a Farm at a later date, or to take some out of a Farm. You can do this very easily whenever you'd like.
 
-1. Return to the [Yield Farms page](https://pancakeswap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
+1. Return to the [Yield Farms page](https://PlexSwap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
 
 ![](<../../.gitbook/assets/image (34).png>)
 
@@ -106,7 +106,7 @@ You can harvest your Farm and Syrup Pool rewards together from the Home page. If
 
 To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
 
-1. Return to the Farms page [here](https://pancakeswap.finance/farms).
+1. Return to the Farms page [here](https://PlexSwap.finance/farms).
 2. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Cake earned”.
 
 ![](https://lh5.googleusercontent.com/nBfqNjKcuqvj-LhW76CPmV2pyGS-SwGsf1U\_9top7OS7wnl24xQRzudcOgZbQvNc0P8rQetAU9\_52mB9TatXqyMcdCRyMk0nRzel8BqWPGNyiTBGB8Z-c3LcHTJVXaAb5CWyD5J4)
@@ -123,6 +123,6 @@ You can see this fee in your wallet when confirming after clicking **Harvest**.
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
-And that's all there is to it! You may also want to look at [how to use PancakeSwap Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) to earn rewards.
+And that's all there is to it! You may also want to look at [how to use PlexSwap Syrup Pools](https://docs.PlexSwap.finance/get-started/syrup-pool-guide) to earn rewards.
 
 Happy farming!

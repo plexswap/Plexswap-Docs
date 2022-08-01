@@ -1,9 +1,9 @@
-# PancakeSwap Intro
+# PlexSwap Intro
 
 ![](.gitbook/assets/intro-header.png)
 
 {% hint style="success" %}
-**PancakeSwap helps you make the most out of your crypto in three ways:**
+**PlexSwap helps you make the most out of your crypto in three ways:**
 
 **Trade, Earn, and Win.**
 {% endhint %}
@@ -14,17 +14,17 @@
 
 ### The people's choice
 
-PancakeSwap is the leading decentralized exchange on BNB Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PlexSwap is the leading decentralized exchange on BNB Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Low fees
 
-Why pay more? PancakeSwap runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.\
+Why pay more? PlexSwap runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.\
 Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
 ### Decentralized
 
 Trade directly from your wallet app.\
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
+Unlike centralized exchanges like Binance or Coinbase, PlexSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
 
 ## 💸 Earn
 
@@ -45,11 +45,11 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 
 ## 🎲 Win
 
-> PancakeSwap makes making money fun.
+> PlexSwap makes making money fun.
 
 ### Lottery
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.\
+**Millions of dollars** regularly go up for grabs on the PlexSwap Lottery.\
 Join as many as **11,000 daily players** for your chance to win big!
 
 ### NFT Collectibles
@@ -61,18 +61,18 @@ Win collectible NFTs for participating in trading competitions and more fun & ga
 Win BNB if you can predict whether the BNB price will rise or fall.\
 New rounds every 5 minutes!
 
-## Is PancakeSwap safe?
+## Is PlexSwap safe?
 
 See for yourself:
 
-* Check out these PancakeSwap security audits:
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
-  * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
+* Check out these PlexSwap security audits:
+  * [Certik’s security audit of PlexSwap](https://www.certik.org/projects/PlexSwap) and [Certik's Shield insurance](https://shield.certik.foundation)
+  * [Slowmist's security audit of PlexSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PlexSwap.pdf)
   * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
-  * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-PredictionV2-v1.0.pdf)
-  * [Pecksheild's New CAKE Pool security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-CakePool-v1.0.pdf)
-  * [SlowMist's New CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20Pancakeswap-CakePool\_en-us.pdf)
-  * [Pecksheild's New MasterChef security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-MasterChefV2-v1.0.pdf)
+  * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PlexSwap-PredictionV2-v1.0.pdf)
+  * [Pecksheild's New CAKE Pool security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PlexSwap-CakePool-v1.0.pdf)
+  * [SlowMist's New CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PlexSwap-CakePool\_en-us.pdf)
+  * [Pecksheild's New MasterChef security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PlexSwap-MasterChefV2-v1.0.pdf)
   * [SlowMist's New MasterChef security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20MasterChef%20v2\_en-us.pdf)
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.

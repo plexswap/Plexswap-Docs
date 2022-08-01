@@ -1,12 +1,12 @@
 ---
-description: Thank you for expressing your interest in contributing to PancakeSwap!
+description: Thank you for expressing your interest in contributing to PlexSwap!
 ---
 
 # Contributing
 
 ![](../../.gitbook/assets/developers-header.png)
 
-PancakeSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the PancakeSwap team 🥞
+PlexSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the PlexSwap team 🥞
 
 Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team.
 
@@ -14,7 +14,7 @@ Before starting any development, we highly encourage you to submit an issue on G
 
 Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) If you haven't.
 
-1.  Fork and clone the [repository](https://github.com/pancakeswap/pancake-frontend)
+1.  Fork and clone the [repository](https://github.com/PlexSwap/pancake-frontend)
 
     ```bash
     $ git clone [fork_repo_url]
@@ -22,7 +22,7 @@ Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) If you haven't
 2.  Add [upstream](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork) remote. E.g.
 
     ```bash
-    $ git remote add upstream git@github.com:pancakeswap/pancake-frontend.git
+    $ git remote add upstream git@github.com:PlexSwap/pancake-frontend.git
     ```
 3.  Make sure you have the latest version of the default branch ( `develop` )
 
@@ -45,14 +45,14 @@ We try to maintain as much consistency as we can between each of our repository.
 ### Use the UIKit
 
 {% hint style="warning" %}
-Check the [UI Kit](https://github.com/pancakeswap/pancake-frontend/tree/master/packages/uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
+Check the [UI Kit](https://github.com/PlexSwap/pancake-frontend/tree/master/packages/uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
 {% endhint %}
 
 If a variant of a component needs to be created, use the corresponding component in the UI Kit as a base. For example:
 
 ```javascript
 import styled from 'styled-components'
-import { Button } from '@pancakeswap/uikit'
+import { Button } from '@PlexSwap/uikit'
 
 const NewButtonVariant = styled(Button)`
   // custom styles here
@@ -103,4 +103,4 @@ _More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96
 | **style**    | Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)      |
 | **test**     | Adding missing tests or correcting existing tests                                                           |
 
-**Thanks for helping us making PancakeSwap even more awesome** ❤
+**Thanks for helping us making PlexSwap even more awesome** ❤

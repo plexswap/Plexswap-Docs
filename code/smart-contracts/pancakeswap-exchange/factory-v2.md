@@ -1,7 +1,7 @@
 # Factory v2
 
 {% hint style="warning" %}
-PancakeSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://uniswap.org/docs/v2/).  
+PlexSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://uniswap.org/docs/v2/).  
 For more in-depth information on the core contract logic, read the [Uniswap v2 Core whitepaper](https://uniswap.org/whitepaper.pdf).
 {% endhint %}
 
@@ -10,9 +10,9 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 **Contract name:** PancakeFactory  
 **Contract address:** 0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73
 
-View [PancakeFactory.sol on GitHub](https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/PancakeFactory.sol).
+View [PancakeFactory.sol on GitHub](https://github.com/PlexSwap/pancake-swap-core/blob/master/contracts/PancakeFactory.sol).
 
-View the [PancakeSwap: Factory v2 contract on BscScan](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
+View the [PlexSwap: Factory v2 contract on BscScan](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
 
 ## Read functions
 

@@ -2,50 +2,50 @@
 
 ![](../.gitbook/assets/socials-communities-header.png)
 
-Here you'll find a list of PancakeSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
+Here you'll find a list of PlexSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
 
 ## 🐦 Twitter
 
-[https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
+[https://twitter.com/PlexSwap](https://twitter.com/PlexSwap)
 
 ## 📰 Blog (Medium)
 
-{% embed url="https://medium.com/pancakeswap" %}
+{% embed url="https://medium.com/PlexSwap" %}
 
 ## 👽 Reddit
 
-{% embed url="https://reddit.com/r/pancakeswap" %}
+{% embed url="https://reddit.com/r/PlexSwap" %}
 
 ## 🤳 Instagram
 
-{% embed url="https://www.instagram.com/pancakeswap_official/" %}
+{% embed url="https://www.instagram.com/PlexSwap_official/" %}
 
 ## 🤖Discord
 
 Newly launched on 24th Nov! The below is the only link for our discord server!
 
-[https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
+[https://discord.gg/PlexSwap](https://discord.gg/PlexSwap)
 
 ## 💬 Telegram
 
 **Official Telegram Groups:**
 
-* 📣 Announcement Channel ([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn))
-* 🥞 English ([http://t.me/pancakeswap](http://t.me/pancakeswap))
-* 🇯🇵 Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
-* 🇨🇳 Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap\_CN))
-* 🇮🇩 Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
-* 🇻🇳 Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
-* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
-* 🇷🇺 Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap\_ru))
-* 🇧🇷 🇵🇹 Portuguese/Brazilian ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
-* 🇫🇷 French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr))
-* 🇮🇹 Italiano ([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap\_ita))
-* 🇹🇷 Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))
-* 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PancakeSwap\_DE](https://t.me/PancakeSwap\_DE))
-* 🇵🇭 Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap\_Ph))
-* 🇬🇪 Georgia ([https://t.me/PancakeSwapGeorgia](https://t.me/PancakeSwapGeorgia))
-* 🇮🇳 India ([https://t.me/PancakeSwapINDIA](https://t.me/PancakeSwapINDIA))
+* 📣 Announcement Channel ([http://t.me/PlexSwapAnn](http://t.me/PlexSwapAnn))
+* 🥞 English ([http://t.me/PlexSwap](http://t.me/PlexSwap))
+* 🇯🇵 Japanese ([https://t.me/PlexSwapJP](https://t.me/PlexSwapJP))
+* 🇨🇳 Chinese ([http://t.me/PlexSwap\_CN](http://t.me/PlexSwap\_CN))
+* 🇮🇩 Indonesian ([http://t.me/PlexSwapIndonesia](http://t.me/PlexSwapIndonesia))
+* 🇻🇳 Việt Nam ([https://t.me/PlexSwapVN](https://t.me/PlexSwapVN))
+* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PlexSwapES](https://t.me/PlexSwapES))
+* 🇷🇺 Russian ([http://t.me/PlexSwap\_ru](http://t.me/PlexSwap\_ru))
+* 🇧🇷 🇵🇹 Portuguese/Brazilian ([https://t.me/PlexSwapPortuguese](https://t.me/PlexSwapPortuguese))
+* 🇫🇷 French ([https://t.me/PlexSwapfr](https://t.me/PlexSwapfr))
+* 🇮🇹 Italiano ([https://t.me/PlexSwap\_ita](https://t.me/PlexSwap\_ita))
+* 🇹🇷 Türkiye ([https://t.me/PlexSwapturkiye](https://t.me/PlexSwapturkiye))
+* 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PlexSwap\_DE](https://t.me/PlexSwap\_DE))
+* 🇵🇭 Filipino ([https://t.me/PlexSwap\_Ph](https://t.me/PlexSwap\_Ph))
+* 🇬🇪 Georgia ([https://t.me/PlexSwapGeorgia](https://t.me/PlexSwapGeorgia))
+* 🇮🇳 India ([https://t.me/PlexSwapINDIA](https://t.me/PlexSwapINDIA))
 * 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
 
 {% hint style="danger" %}

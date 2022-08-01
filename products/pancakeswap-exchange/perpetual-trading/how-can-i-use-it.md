@@ -1,12 +1,12 @@
 # How can I use it?
 
-![](../../../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
+![](../../../.gitbook/assets/how-to-PlexSwap-without-cex-header.png)
 
 Using this functionality is really easy (the difficult thing is to trade well). We will only have to follow a series of steps so that our experience is complete
 
 ### Go to Perpetual Trading page&#x20;
 
-You can enter from the [site](https://pancakeswap.finance), in the Trade → Perpetual section, or through this [link  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
+You can enter from the [site](https://PlexSwap.finance), in the Trade → Perpetual section, or through this [link  ](https://perp.PlexSwap.finance/en/futures/BTCUSDT)
 
 ### Deposit funds&#x20;
 
@@ -88,7 +88,7 @@ You can also choose the reference currency to see your position
 
 
 
-> Note: there are a few more options to consider, but you can see that within the [trading glossary](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-1972196547/\~/changes/kV67VeywrXQ7vYfX5se0/products/pancakeswap-exchange/perpetual-trading/glossary) \
+> Note: there are a few more options to consider, but you can see that within the [trading glossary](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-1972196547/\~/changes/kV67VeywrXQ7vYfX5se0/products/PlexSwap-exchange/perpetual-trading/glossary) \
 >
 
 

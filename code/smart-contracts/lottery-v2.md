@@ -2,22 +2,22 @@
 
 ## Contract info
 
-**Contract name:** PancakeSwapLottery  
+**Contract name:** PlexSwapLottery  
 **Contract address:** 0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c  
 **Random number generator address:** 0x8c6375Aab6e5B26a30bF241EBBf29AD6e6c503c2  
 \(_Random number generator contract must be deployed first_\)
 
-View [PancakeSwapLottery.sol on BscScan](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c#code).
+View [PlexSwapLottery.sol on BscScan](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c#code).
 
-View the [PancakeSwap: Lottery contract on BscScan](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c).
+View the [PlexSwap: Lottery contract on BscScan](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c).
 
 ## Audits
 
-The PancakeSwap Lottery V2 has been audited twice so far. View the results below:
+The PlexSwap Lottery V2 has been audited twice so far. View the results below:
 
-[Peckshield's Lottery V2 Audit](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PancakeswapLottery-v1.0.pdf)
+[Peckshield's Lottery V2 Audit](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PlexSwapLottery-v1.0.pdf)
 
-[Slowmist's Lottery V2 Audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20PancakeSwap%20Lottery.pdf)
+[Slowmist's Lottery V2 Audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20PlexSwap%20Lottery.pdf)
 
 ## Lottery Status states
 
