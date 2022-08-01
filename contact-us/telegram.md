@@ -46,7 +46,7 @@ Newly launched on 24th Nov! The below is the only link for our discord server!
 * 🇵🇭 Filipino ([https://t.me/PlexSwap\_Ph](https://t.me/PlexSwap\_Ph))
 * 🇬🇪 Georgia ([https://t.me/PlexSwapGeorgia](https://t.me/PlexSwapGeorgia))
 * 🇮🇳 India ([https://t.me/PlexSwapINDIA](https://t.me/PlexSwapINDIA))
-* 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
+* 😤 Ban Appeal ([https://t.me/plexswapbanappeal](https://t.me/plexswapbanappeal))
 
 {% hint style="danger" %}
 Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.

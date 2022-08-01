@@ -25,8 +25,8 @@ Due to considerations of security and confidentiality, some items are not includ
 ### Ongoing/Recurring
 
 * Regular IFOs
-* Regular new Farms and Syrup Pools \
-  Some are now Syrup pool only
+* Regular new Farms and Gaya Pools \
+  Some are now Gaya pool only
 * Farm Auctions
 * UI/UX, Performance Upgrades & Bug Fixes
 
@@ -38,7 +38,7 @@ Due to considerations of security and confidentiality, some items are not includ
 * Lottery Upgrades\
   Lottery by staking & more&#x20;
 * Multichain\
-  Exploring the possibilities of hopping further while flipping more CAKE
+  Exploring the possibilities of hopping further while flipping more WAYA
 * Stablecoin Swap\
   A better swap experience, optimized for stablecoins
 
@@ -64,15 +64,15 @@ Due to considerations of security and confidentiality, some items are not includ
 
 #### Earn
 
-* CAKE Staking\
-  with CAKE Side Pool - Flexible CAKE staking on the side of locked staking
+* WAYA Staking\
+  with WAYA Side Pool - Flexible WAYA staking on the side of locked staking
 * Fixed-Term Staking Benefits&#x20;
-  * iCAKE, IFO benefits&#x20;
+  * iWAYA, IFO benefits&#x20;
   * Events with well-known projects
 * Core Pools, Farms
-* Community Pools: Host BSC community project Pools, support with 0.1-0.2x CAKE farms
-* Auto-compounding CAKE-CAKE Syrup Pool
-* Syrup Pool Boosts
+* Community Pools: Host BSC community project Pools, support with 0.1-0.2x WAYA farms
+* Auto-compounding WAYA-WAYA Gaya Pool
+* Gaya Pool Boosts
 * APR/APY Calculator v2
 * Harvest all function
 
@@ -80,7 +80,7 @@ Due to considerations of security and confidentiality, some items are not includ
 
 * Lottery v2
 * Prediction v0.2\
-  Duo currency with BNB and CAKE\
+  Duo currency with BNB and WAYA\
   with Chainlink Price Chart and Chainlink Keepers
 
 #### NFT Ecosystem
@@ -88,14 +88,14 @@ Due to considerations of security and confidentiality, some items are not includ
 * NFT Market Phase 1 & 2(buy & sell whitelisted NFT collections)
 * Customizable User Profile
 * NFT drops
-* Pancake Squad generative NFT collection
+* Plexswap Squad generative NFT collection
 
-#### Site Upgrades / CAKE / Other Products
+#### Site Upgrades / WAYA / Other Products
 
 * Mobile-first navigation & site overhaul
 * Analytics: Info site
 * Voting v2
-* IFO CAKE Pool & IFO 3.0
-* IFO 3.1 - Private Sales with NFT Utility and IFO Syrup Pool
+* IFO WAYA Pool & IFO 3.0
+* IFO 3.1 - Private Sales with NFT Utility and IFO Gaya Pool
 * PCS Mini-Program in Binance App
 

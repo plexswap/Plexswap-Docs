@@ -2,7 +2,7 @@
 
 Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
 
-Futures trading allows users to enter positions on margin (leverage) using borrowed funds to optimize capital. Using leverage allows for a user to enter a position with a larger size than their account balance. For example, a user could take 10x leverage and trade 100 CAKE for the price of 10 CAKE. In this example, the initial margin would be 10 CAKE which is used to collateralize the leveraged position. .
+Futures trading allows users to enter positions on margin (leverage) using borrowed funds to optimize capital. Using leverage allows for a user to enter a position with a larger size than their account balance. For example, a user could take 10x leverage and trade 100 WAYA for the price of 10 WAYA. In this example, the initial margin would be 10 WAYA which is used to collateralize the leveraged position. .
 
 In addition to leverage, futures open the possibility of trading in both directions, buying (long) and selling (short) perpetuals.. Additionally, itallows PlexSwap to offer more assets to trade even assets not currently on BNB Smart Chain (BSC). Perpetual contracts don’t expire and allow the holder to enjoy trading price action of the underlying asset without owning it.\
 

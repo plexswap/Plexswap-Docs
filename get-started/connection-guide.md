@@ -31,7 +31,7 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 1. PlexSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
 
 {% hint style="warning" %}
-If you find you are unable to connect at step 4, go back to the DApps menu and find "PlexSwap" again. Using "Pancake Swap" from the "History" section may result in the same problem.
+If you find you are unable to connect at step 4, go back to the DApps menu and find "PlexSwap" again. Using "Plexswap Swap" from the "History" section may result in the same problem.
 {% endhint %}
 
 ### iOS

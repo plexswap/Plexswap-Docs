@@ -12,9 +12,9 @@ Sometimes you may find yourself facing a problem that doesn't have a clear solut
 
 ### **INSUFFICIENT\_OUTPUT\_AMOUNT**
 
-> The transaction cannot succeed due to error: PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.
+> The transaction cannot succeed due to error: PlexswapRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.
 >
-> the transaction cannot succeed due to error: execution reverted: pancakerouter: insufficient\_output\_amount.
+> the transaction cannot succeed due to error: execution reverted: plexswaprouter: insufficient\_output\_amount.
 
 You're trying to swap tokens, but your slippage tolerance is too low or liquidity is too low.
 
@@ -39,9 +39,9 @@ However, there's also the chance that you're trying to trade a scam token which 
 
 ### **INSUFFICIENT\_A\_AMOUNT or INSUFFICIENT\_B\_AMOUNT**
 
-> Fail with error 'PancakeRouter: INSUFFICIENT\_A\_AMOUNT'\
+> Fail with error 'PlexswapRouter: INSUFFICIENT\_A\_AMOUNT'\
 > or\
-> Fail with error 'PancakeRouter: INSUFFICIENT\_B\_AMOUNT'
+> Fail with error 'PlexswapRouter: INSUFFICIENT\_B\_AMOUNT'
 
 You're trying to add/remove liquidity from a liquidity pool (LP), but there isn't enough of one of the two tokens in the pair.
 
@@ -110,27 +110,27 @@ This can cause very high slippage, and can cause the user to lose some funds if 
 {% endtab %}
 {% endtabs %}
 
-### PancakeRouter: EXPIRED
+### PlexswapRouter: EXPIRED
 
-> The transaction cannot succeed due to error: PancakeRouter: EXPIRED. This is probably an issue with one of the tokens you are swapping.
+> The transaction cannot succeed due to error: PlexswapRouter: EXPIRED. This is probably an issue with one of the tokens you are swapping.
 
 Try again, but confirm (sign and broadcast) the transaction as soon as you generate it.
 
 This happened because you started making a transaction, but you didn't sign and broadcast it until it was past the deadline. That means you didn't hit "Confirm" quickly enough.
 
-### Pancake: K
+### Plexswap: K
 
-> The transaction cannot succeed due to error: Pancake: K. This is probably an issue with one of the tokens you are swapping.
+> The transaction cannot succeed due to error: Plexswap: K. This is probably an issue with one of the tokens you are swapping.
 
 Try modifying the amount on “To” field. Therefore putting "(estimated)" symbol on “From”. Then initiate the swap immediately.
 
-![](<../.gitbook/assets/pancake-k-solution (2).png>)
+![](<../.gitbook/assets/plexswap-k-solution (2).png>)
 
 This usually happen when you are trying to swap a token with its own fee.
 
-### Pancake: TRANSFER\_FAILED
+### Plexswap: TRANSFER\_FAILED
 
-> The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
+> The transaction cannot succeed due to error: execution reverted: Plexswap: TRANSFER\_FAILED.
 
 Make sure you have 30% more tokens in your wallet than you intend to trade, or try to trade a lower amount. If you want to sell the maximum possible, try 70% or 69% instead of 100%.\
 Caused by the design of Restorative Rebase tokens like tDoge or tBTC.\
@@ -211,17 +211,17 @@ If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, 
 {% endtab %}
 {% endtabs %}
 
-## **Issues with Syrup Pools**
+## **Issues with Gaya Pools**
 
 ### BEP20: burn amount exceeds balance
 
 > Fail with error 'BEP20: burn amount exceeds balance'
 
-You don't have enough SYRUP in your wallet to unstake from the CAKE-CAKE pool.
+You don't have enough GAYA in your wallet to unstake from the WAYA-WAYA pool.
 
-**Get at least as much SYRUP as the amount of CAKE that you’re trying to unstake.**
+**Get at least as much GAYA as the amount of WAYA that you’re trying to unstake.**
 
-1. Buy SYRUP on the exchange. If you want to unstake 100 CAKE, you need at least 100 SYRUP.
+1. Buy GAYA on the exchange. If you want to unstake 100 WAYA, you need at least 100 GAYA.
 2. Try unstaking again.
 
 If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
@@ -230,15 +230,15 @@ If that still fails, you can perform an “emergencyWithdraw” from the contrac
 2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
 3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
 
-This will unstake your staked tokens and lose any uncollected CAKE yield.
+This will unstake your staked tokens and lose any uncollected WAYA yield.
 
 {% hint style="warning" %}
 **This will lose any yield that you haven’t harvested yet.**
 {% endhint %}
 
-To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake CAKE Earn CAKE” pool.
+To stop this happening again, **don’t sell your GAYA.** You still need it to unstake from the “Stake WAYA Earn WAYA” pool.
 
-This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to CAKE when you stake in the CAKE-CAKE Syrup Pool. SYRUP must be burned at a 1:1 ratio to CAKE when calling leaveStaking (unstaking your CAKE from the pool), so if you don't have enough, you can't unstake from the pool.
+This error has happened because you have sold or transferred GAYA tokens. GAYA is minted in a 1:1 ratio to WAYA when you stake in the WAYA-WAYA Gaya Pool. GAYA must be burned at a 1:1 ratio to WAYA when calling leaveStaking (unstaking your WAYA from the pool), so if you don't have enough, you can't unstake from the pool.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
 <img src="https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO" alt="" data-size="original">
@@ -288,7 +288,7 @@ This happens when you set a limit on your spend allowance when you first approve
 
 > Fail with error 'BEP20: transfer amount exceeds balance'
 
-You're probably trying to unstake from a Syrup Pool with low rewards in it. Solution below.
+You're probably trying to unstake from a Gaya Pool with low rewards in it. Solution below.
 
 If not, you may be trying to send tokens that you don't have in your wallet (for example, trying to send a token that is already assigned to a pending transaction). In this case, just make sure you have the tokens you're trying to use.
 
@@ -298,7 +298,7 @@ Firstly,[ let the team know](../contact-us/telegram.md) which pool you're trying
 
 You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
-1. Find the contract address of the Syrup Pool you're trying to unstake from. You can find it in your wallet's transaction log.
+1. Find the contract address of the Gaya Pool you're trying to unstake from. You can find it in your wallet's transaction log.
 2. Go to [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) and in the search bar, enter the contract address.
 3. Select **Write Contract.**
 4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
@@ -312,7 +312,7 @@ This will unstake your staked tokens and lose any uncollected yield.
 {% endtab %}
 
 {% tab title="Reason" %}
-This error tends to appear when you're trying to unstake from an old Syrup Pool, but there aren't enough rewards in the pool left for you to harvest when withdrawing. This causes the transaction to fail.
+This error tends to appear when you're trying to unstake from an old Gaya Pool, but there aren't enough rewards in the pool left for you to harvest when withdrawing. This causes the transaction to fail.
 {% endtab %}
 {% endtabs %}
 
@@ -380,7 +380,7 @@ Cause unclear. Try these steps before trying again:
 
 ## **Issues with Profile**
 
-### Oops! We couldn't find any Pancake Collectibles in your wallet.
+### Oops! We couldn't find any Plexswap Collectibles in your wallet.
 
 We're investigating the logic behind this issue. Meanwhile please try the workaround.
 

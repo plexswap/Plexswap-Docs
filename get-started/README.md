@@ -19,7 +19,7 @@ Once you have a wallet set up and connected to PlexSwap, feel free to check our 
 [How to Trade](https://docs.PlexSwap.finance/products/PlexSwap-exchange/trade-guide)\
 [How to Add/Remove Liquidity](https://docs.PlexSwap.finance/products/PlexSwap-exchange/liquidity-guide)\
 [How to Use Farms](https://docs.PlexSwap.finance/products/yield-farming/how-to-use-farms)\
-[How to Stake in Syrup Pools](https://docs.PlexSwap.finance/products/syrup-pool/syrup-pool-guide)\
+[How to Stake in Gaya Pools](https://docs.PlexSwap.finance/products/gaya-pool/gaya-pool-guide)\
 [How to Play the Lottery](https://docs.PlexSwap.finance/products/lottery/lottery-guide)\
 [How to Use Prediction](https://docs.PlexSwap.finance/products/prediction/prediction-guide)\
 [How to Participate in an IFO](https://docs.PlexSwap.finance/products/ifo-initial-farm-offering/ifo-guide)\

@@ -7,10 +7,10 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 
 ## Contract info
 
-**Contract name:** PancakeRouter\
+**Contract name:** PlexswapRouter\
 **Contract address:** 0x10ED43C718714eb63d5aA57B78B54704E256024E
 
-View [PancakeRouter.sol on GitHub](https://github.com/PlexSwap/pancake-swap-periphery/blob/master/contracts/PancakeRouter.sol).
+View [PlexswapRouter.sol on GitHub](https://github.com/PlexSwap/plexswap-swap-periphery/blob/master/contracts/PlexswapRouter.sol).
 
 View the [PlexSwap: Router v2 contract on BscScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
 
@@ -26,7 +26,7 @@ Returns the canonical address for [Binance: WBNB token](https://bscscan.com/addr
 
 `function factory() external pure returns (address);`
 
-Returns the canonical address for [PancakeFactory](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
+Returns the canonical address for [PlexswapFactory](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
 
 {% hint style="warning" %}
 For explanations of the following, view the [Uniswap v2 Internal Functions documentation](https://uniswap.org/docs/v2/smart-contracts/library/#internal-functions).
@@ -456,13 +456,13 @@ Receive an exact amount of output tokens for as few input tokens as possible.
 ## Interface
 
 ```
-import '@uniswap/v2-core/contracts/interfaces/IPancakeRouter.sol';
+import '@uniswap/v2-core/contracts/interfaces/IPlexswapRouter.sol';
 ```
 
 ```
 pragma solidity >=0.6.2;
 
-interface IPancakeRouter01 {
+interface IPlexswapRouter01 {
     function factory() external pure returns (address);
     function WETH() external pure returns (address);
 
@@ -556,11 +556,11 @@ interface IPancakeRouter01 {
     function getAmountsIn(uint amountOut, address[] calldata path) external view returns (uint[] memory amounts);
 }
 
-// File: contracts\interfaces\IPancakeRouter02.sol
+// File: contracts\interfaces\IPlexswapRouter02.sol
 
 pragma solidity >=0.6.2;
 
-interface IPancakeRouter02 is IPancakeRouter01 {
+interface IPlexswapRouter02 is IPlexswapRouter01 {
     function removeLiquidityETHSupportingFeeOnTransferTokens(
         address token,
         uint liquidity,

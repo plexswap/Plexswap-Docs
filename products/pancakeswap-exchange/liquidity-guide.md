@@ -4,7 +4,7 @@
 
 "Liquidity" is central to how PlexSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can [stake in Farms](https://docs.PlexSwap.finance/products/yield-farming/farms) to earn CAKE rewards!
+In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can [stake in Farms](https://docs.PlexSwap.finance/products/yield-farming/farms) to earn WAYA rewards!
 
 ### **Adding liquidity**
 
@@ -12,7 +12,7 @@ To provide liquidity, you’ll need to commit an amount of any token pair you li
 
 You can easily trade for any tokens you need. Visit our [How to Trade on PlexSwap](https://docs.PlexSwap.finance/get-started/trade-guide) guide if you need to.
 
-In this example, we will add liquidity using BNB and CAKE.\
+In this example, we will add liquidity using BNB and WAYA.\
 ****
 
 1\. Visit the [Liquidity page](https://exchange.PlexSwap.finance/#/pool).
@@ -27,7 +27,7 @@ In this example, we will add liquidity using BNB and CAKE.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_03.png)
 
-4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use CAKE as an example.
+4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use WAYA as an example.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_04.png)
 
@@ -39,7 +39,7 @@ In this example, we will add liquidity using BNB and CAKE.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_06.png)
 
-6\. Click the **Enable CAKE** button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+6\. Click the **Enable WAYA** button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_07.png)
 

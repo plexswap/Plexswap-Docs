@@ -28,16 +28,16 @@ Unlike centralized exchanges like Binance or Coinbase, PlexSwap doesn’t hold y
 
 ## 💸 Earn
 
-> Earn CAKE and other tokens for free with super high interest rates.
+> Earn WAYA and other tokens for free with super high interest rates.
 
-### Earn tokens with Syrup Pools
+### Earn tokens with Gaya Pools
 
-Stake CAKE, earn free tokens. It’s really that easy.\
-CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
+Stake WAYA, earn free tokens. It’s really that easy.\
+WAYA holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
 
-### Earn CAKE with Yield Farms
+### Earn WAYA with Yield Farms
 
-Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+Stake LP tokens, earn WAYA. You take on a little more exposure to market fluctuations than with the Gaya Pools, but can earn higher APR to offset the risk.
 
 ### Earn Trading Fees
 
@@ -68,10 +68,10 @@ See for yourself:
 * Check out these PlexSwap security audits:
   * [Certik’s security audit of PlexSwap](https://www.certik.org/projects/PlexSwap) and [Certik's Shield insurance](https://shield.certik.foundation)
   * [Slowmist's security audit of PlexSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PlexSwap.pdf)
-  * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
+  * [Slowmist's Auto-WAYA Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20WayaVault.pdf)
   * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PlexSwap-PredictionV2-v1.0.pdf)
-  * [Pecksheild's New CAKE Pool security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PlexSwap-CakePool-v1.0.pdf)
-  * [SlowMist's New CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PlexSwap-CakePool\_en-us.pdf)
+  * [Pecksheild's New WAYA Pool security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PlexSwap-WayaPool-v1.0.pdf)
+  * [SlowMist's New WAYA Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PlexSwap-WayaPool\_en-us.pdf)
   * [Pecksheild's New MasterChef security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PlexSwap-MasterChefV2-v1.0.pdf)
   * [SlowMist's New MasterChef security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20MasterChef%20v2\_en-us.pdf)
 * Transparent:

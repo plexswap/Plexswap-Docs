@@ -14,7 +14,7 @@ Before starting any development, we highly encourage you to submit an issue on G
 
 Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) If you haven't.
 
-1.  Fork and clone the [repository](https://github.com/PlexSwap/pancake-frontend)
+1.  Fork and clone the [repository](https://github.com/PlexSwap/plexswap-frontend)
 
     ```bash
     $ git clone [fork_repo_url]
@@ -22,7 +22,7 @@ Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) If you haven't
 2.  Add [upstream](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork) remote. E.g.
 
     ```bash
-    $ git remote add upstream git@github.com:PlexSwap/pancake-frontend.git
+    $ git remote add upstream git@github.com:PlexSwap/plexswap-frontend.git
     ```
 3.  Make sure you have the latest version of the default branch ( `develop` )
 
@@ -45,7 +45,7 @@ We try to maintain as much consistency as we can between each of our repository.
 ### Use the UIKit
 
 {% hint style="warning" %}
-Check the [UI Kit](https://github.com/PlexSwap/pancake-frontend/tree/master/packages/uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
+Check the [UI Kit](https://github.com/PlexSwap/plexswap-frontend/tree/master/packages/uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
 {% endhint %}
 
 If a variant of a component needs to be created, use the corresponding component in the UI Kit as a base. For example:

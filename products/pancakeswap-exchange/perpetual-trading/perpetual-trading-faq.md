@@ -2,9 +2,9 @@
 
 ![](../../../.gitbook/assets/general-faq-header.png)
 
-### What is the value contribution of this new feature to the cake holders?&#x20;
+### What is the value contribution of this new feature to the waya holders?&#x20;
 
-We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. 20% of all trading fees from users who sign up on PlexSwap will be converted to CAKE and burnt.
+We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our WAYA token on top of offering the trading fee discount. 20% of all trading fees from users who sign up on PlexSwap will be converted to WAYA and burnt.
 
 **And the rest of it?**&#x20;
 
@@ -19,7 +19,7 @@ Remember that you must first deposit your funds into the Futures account!
 | ------ | -------- | ------------ |
 | USDT   | No Limit | 99.99%       |
 | BUSD   | No Limit | 100%         |
-| CAKE   | 5000 CAKE| 90%          |
+| WAYA   | 5000 WAYA| 90%          |
 
 ### I've deposited funds and still can't see them! What happened?
 

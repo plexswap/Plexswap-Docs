@@ -6,12 +6,12 @@ description: Yield Farming on PlexSwap is easy!
 
 ![](../../.gitbook/assets/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PlexSwap.
+Yield Farming in Farms is a great way to earn WAYA rewards on PlexSwap.
 
-Unlike Syrup Pools, Farms require you to stake **two tokens** to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
+Unlike Gaya Pools, Farms require you to stake **two tokens** to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn WAYA while still keeping a position in your other tokens!
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+Yield farming can give better rewards than Gaya Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
 
 Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
 {% endhint %}
@@ -20,9 +20,9 @@ Check out this great [article about Impermanent Loss ](https://academy.binance.c
 
 Yield farming takes a little work to get set up.
 
-You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the CAKE-BNB Farm will only accept CAKE-BNB LP Tokens.
+You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the WAYA-BNB Farm will only accept WAYA-BNB LP Tokens.
 
-To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get CAKE-BNB LP Tokens, you'll first have to provide liquidity for the CAKE-BNB pair.
+To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get WAYA-BNB LP Tokens, you'll first have to provide liquidity for the WAYA-BNB pair.
 
 It may sound intimidating, but it's not too complicated. Let's go through step by step.
 
@@ -32,11 +32,11 @@ Before you proceed, you'll want to choose a Farm that's right for you. [Visit th
 
 ![](https://lh5.googleusercontent.com/oxanafasV3-ifV5DlpPn1enB42kOdyZPOn1VJbtGts\_MTnyaZ9CK0lqYn9CFuZyQuUUqhLr6mIvzPfLFQXN3zrk4tppm\_Y2ESkAWF29sft9gAMgweJqceauttEoJDIhv7Usp\_CqM)
 
-CAKE-BNB and BUSD-BNB are pinned to the top of the list with the default **Hot** sorting. After the pinned Farms, Hot will show other Farms in order of how new they are.
+WAYA-BNB and BUSD-BNB are pinned to the top of the list with the default **Hot** sorting. After the pinned Farms, Hot will show other Farms in order of how new they are.
 
 You can choose another sorting option if you like, such as by **APR** for the Farms with the highest reward rate currently.
 
-When you find a Farm that you'd like to use, note down the trading pair, e.g. BNB-CAKE in case you need it later.
+When you find a Farm that you'd like to use, note down the trading pair, e.g. BNB-WAYA in case you need it later.
 
 ### Providing liquidity to get LP Tokens
 
@@ -98,20 +98,20 @@ You should now only see the pairs you have LP Tokens in on the list, making it e
 
 ## Collecting your farming rewards
 
-Farming will bring you CAKE rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Syrup Pools, use them to play Lottery, or anything else you’d like.
+Farming will bring you WAYA rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Gaya Pools, use them to play Lottery, or anything else you’d like.
 
 ### Returning to your Farm to Harvest
 
-You can harvest your Farm and Syrup Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
+You can harvest your Farm and Gaya Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
 
-To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
+To collect your rewards, you’ll need to visit your chosen Farm and collect the WAYA waiting for you.
 
 1. Return to the Farms page [here](https://PlexSwap.finance/farms).
-2. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Cake earned”.
+2. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Waya earned”.
 
 ![](https://lh5.googleusercontent.com/nBfqNjKcuqvj-LhW76CPmV2pyGS-SwGsf1U\_9top7OS7wnl24xQRzudcOgZbQvNc0P8rQetAU9\_52mB9TatXqyMcdCRyMk0nRzel8BqWPGNyiTBGB8Z-c3LcHTJVXaAb5CWyD5J4)
 
-1. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
+1. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the WAYA will be claimed to your wallet for you to use as you like.
 
 ### How often should I harvest my rewards?
 
@@ -123,6 +123,6 @@ You can see this fee in your wallet when confirming after clicking **Harvest**.
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
-And that's all there is to it! You may also want to look at [how to use PlexSwap Syrup Pools](https://docs.PlexSwap.finance/get-started/syrup-pool-guide) to earn rewards.
+And that's all there is to it! You may also want to look at [how to use PlexSwap Gaya Pools](https://docs.PlexSwap.finance/get-started/gaya-pool-guide) to earn rewards.
 
 Happy farming!

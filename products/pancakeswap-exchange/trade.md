@@ -12,4 +12,4 @@ When you make a token swap (trade) on the exchange you will pay a **0.25% tradin
 
 **0.03%** - Sent to the PlexSwap Treasury.
 
-**0.05%** - Sent towards CAKE buyback and burn.
+**0.05%** - Sent towards WAYA buyback and burn.

@@ -1,4 +1,4 @@
-# Main Staking/Syrup Pool/MasterChef Contract
+# Main Staking/Gaya Pool/MasterChef Contract
 
 ## Contract info
 

@@ -11,7 +11,7 @@ See for yourself:
 * Check out these PlexSwap security audits:
   * [Certik’s security audit of PlexSwap](https://www.certik.org/projects/PlexSwap) and [Certik's Shield insurance](https://shield.certik.foundation)
   * [Slowmist's security audit of PlexSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PlexSwap.pdf)
-  * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
+  * [Slowmist's Auto-WAYA Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20WayaVault.pdf)
   * [Peckshield's Lottery V2 Audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PlexSwapLottery-v1.0.pdf)
   * [Slowmist's Lottery V2 Audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20PlexSwap%20Lottery.pdf)
 * Transparent:
@@ -21,20 +21,20 @@ See for yourself:
   * The chefs use multisig for all contracts.
   * Our contracts’ time-lock gives you peace of mind.
 
-## How can I stake CAKE?
+## How can I stake WAYA?
 
-You can stake your CAKE in PlexSwap Syrup Pools. Visit the [Syrup Pools page](https://PlexSwap.finance/pools).
+You can stake your WAYA in PlexSwap Gaya Pools. Visit the [Gaya Pools page](https://PlexSwap.finance/pools).
 
-Read our [How to Stake in Syrup Pools guide](https://docs.PlexSwap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
+Read our [How to Stake in Gaya Pools guide](https://docs.PlexSwap.finance/products/gaya-pool/gaya-pool-guide) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming?
 
-Staking in Syrup Pools and farming with Yield Farming are both ways to earn more CAKE by supporting PlexSwap.
+Staking in Gaya Pools and farming with Yield Farming are both ways to earn more WAYA by supporting PlexSwap.
 
-Staking only needs some CAKE to be added to a Syrup Pool to earn CAKE or other tokens.\
-[Learn more about Syrup Pool staking.](https://docs.PlexSwap.finance/products/syrup-pool)
+Staking only needs some WAYA to be added to a Gaya Pool to earn WAYA or other tokens.\
+[Learn more about Gaya Pool staking.](https://docs.PlexSwap.finance/products/gaya-pool)
 
-Farming is more complicated and needs LP Tokens to earn CAKE.\
+Farming is more complicated and needs LP Tokens to earn WAYA.\
 [Learn more about Yield Farming.](https://docs.PlexSwap.finance/products/yield-farming)
 
 ## How do I farm?
@@ -93,11 +93,11 @@ If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](htt
 
 To learn more about voting, you can [read our section on Voting](https://docs.PlexSwap.finance/products/voting), including voting guides.
 
-## What is the max supply of CAKE?
+## What is the max supply of WAYA?
 
-$CAKE does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.\
+$WAYA does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.\
 \
-Read this to [learn more about PlexSwap's tokenomics](https://docs.PlexSwap.finance/tokenomics/cake).
+Read this to [learn more about PlexSwap's tokenomics](https://docs.PlexSwap.finance/tokenomics/waya).
 
 ## What are the treasury funds used for?
 
@@ -111,7 +111,7 @@ Analytics: [https://PlexSwap.info/](https://PlexSwap.info)
 
 ## Is PlexSwap protected from flashloan attacks?
 
-PlexSwap's vault has anti-flashloan protection. PlexSwap’s CAKE token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, CAKE token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of MasterChef contract.
+PlexSwap's vault has anti-flashloan protection. PlexSwap’s WAYA token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, WAYA token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of MasterChef contract.
 
 PlexSwap’s other smart contracts, like IFO and AutoPool, are protected as well; they prevent other contracts from interacting with them, reducing the scope of vector attacks.
 
@@ -121,9 +121,9 @@ Check the [Become a Chef](https://docs.PlexSwap.finance/hiring/become-a-chef) ar
 
 We advertise new positions we're looking to fill on our [official social media channels](https://docs.PlexSwap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
 
-## What is SYRUP?
+## What is GAYA?
 
-SYRUP was a part of the staking process earlier in PlexSwap's life. SYRUP was discontinued when a security issue was discovered and is no longer a part of PlexSwap.
+GAYA was a part of the staking process earlier in PlexSwap's life. GAYA was discontinued when a security issue was discovered and is no longer a part of PlexSwap.
 
 ## I can't find an answer for my question. Where do I find an answer?
 

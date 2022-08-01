@@ -7,10 +7,10 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 
 ## Contract info
 
-**Contract name:** PancakeFactory  
+**Contract name:** PlexswapFactory  
 **Contract address:** 0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73
 
-View [PancakeFactory.sol on GitHub](https://github.com/PlexSwap/pancake-swap-core/blob/master/contracts/PancakeFactory.sol).
+View [PlexswapFactory.sol on GitHub](https://github.com/PlexSwap/plexswap-swap-core/blob/master/contracts/PlexswapFactory.sol).
 
 View the [PlexSwap: Factory v2 contract on BscScan](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
 
@@ -89,14 +89,14 @@ The final `uint` log value will be `1` for the first pair created, `2` for the s
 ## Interface
 
 ```text
-import '@uniswap/v2-core/contracts/interfaces/IPancakeFactory.sol';
+import '@uniswap/v2-core/contracts/interfaces/IPlexswapFactory.sol';
 ```
 
 ```text
 pragma solidity =0.5.16;
 
 
-interface IPancakeFactory {
+interface IPlexswapFactory {
     event PairCreated(address indexed token0, address indexed token1, address pair, uint);
 
     function feeTo() external view returns (address);
