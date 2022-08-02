@@ -12,7 +12,6 @@
   * [Troubleshooting Errors](help/troubleshooting.md)
   * [General FAQ](help/faq.md)
   * [Fixing Stuck Pending Transactions on MetaMask](help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
-  * [Binance Academy Guide](help/binance-academy-guide.md)
 * [Contact Us](contact-us/README.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [Customer Support](contact-us/customer-support.md)
@@ -67,9 +66,3 @@
 * [WAYA Tokenomics](reference/tokenomics/waya-tokenomics.md)
 * [Controlling WAYA supply](reference/tokenomics/waya-control-supply.md)
 
-## Contract Governance <a href="#governance" id="governance"></a>
-
-* [Farms](governance/farms.md)
-* [Gaya Pools](governance/gaya-pools/README.md)
-  * [SmartChefInitializable](governance/gaya-pools/smartchefinitializable.md)
-  * [PoolDeployer](governance/gaya-pools/pooldeployer.md)
