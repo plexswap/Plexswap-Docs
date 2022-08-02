@@ -16,23 +16,18 @@
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
 * [The Kitchen Team](the-kitchen-team.md)
-* [Roadmap](roadmap.md)
+* [Next Steps](roadmap.md)
 * [Brand & Logos](brand.md)
 
 ## Products
 
 * [🔄 Exchange](products/exchange/README.md)
   * [Token Swaps](products/exchange/token-swaps.md)
-  * [How to Trade](products/exchange/how-to-trade.md)
+  * [How to Trade](products/exchange/trade-guide.md)
   * [Liquidity Pools](products/exchange/liquidity-pools.md)
-  * [How to Add/Remove Liquidity](products/exchange/how-to-add-remove-liquidity.md)
+  * [How to Add/Remove Liquidity](products/exchange/liquidity-guide.md)
   * [📝Limit Orders](products/exchange/limit-orders/README.md)
     * [Limit Orders FAQ](products/exchange/limit-orders/limit-orders-faq.md)
-  * [Perpetual Trading](products/exchange/perpetual-trading/README.md)
-    * [Perpetuals Glossary](products/exchange/perpetual-trading/perpetuals-glossary.md)
-    * [What is Perpetual Trading?](products/exchange/perpetual-trading/what-is-perpetual-trading.md)
-    * [How can I use it?](products/exchange/perpetual-trading/how-can-i-use-it.md)
-    * [Perpetual Trading FAQ](products/exchange/perpetual-trading/perpetual-trading-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
@@ -43,13 +38,9 @@
     * [WAYA Gaya Pool FAQ](products/gaya-pools-stake-waya/new-waya-pool/waya-gaya-pool-faq.md)
   * [Other Gaya Pools](products/gaya-pools-stake-waya/other-gaya-pools/README.md)
     * [Gaya Pool FAQ & Troubleshooting](products/gaya-pools-stake-waya/other-gaya-pools/gaya-pool-faq-and-troubleshooting.md)
-* [📈 Analytics (Info)](products/info/README.md)
-  * [Analytics](products/info/analytics.md)
 * [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
-* [🍳 Coming Soon!](products/coming-soon/README.md)
-  * [Zap](products/coming-soon/zap.md)
 
 ## Tokenomics
 
