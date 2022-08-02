@@ -50,7 +50,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](../.gitbook/assets/image%20\(36\).png)
+![](<../.gitbook/assets/image (36).png>)
 
 Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
 
@@ -198,7 +198,7 @@ Now you have your private key ready to import your wallet into the desktop versi
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](../.gitbook/assets/image%20\(26\)%20\(1\).png)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
 
