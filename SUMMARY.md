@@ -1,5 +1,7 @@
 # Table of contents
 
+## Plexswap
+
 * [PlexSwap Intro](README.md)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
@@ -15,7 +17,7 @@
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
-* [The Kitchen Team](the-kitchen-team.md)
+* [The Farm Workers](farm-workers.md)
 * [Next Steps](roadmap.md)
 * [Brand & Logos](brand.md)
 
@@ -54,11 +56,11 @@
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [Smart Contracts](code/smart-contracts/README.md)
   * [PlexSwap Exchange](code/smart-contracts/plexswap-exchange/README.md)
-    * [Factory v2](code/smart-contracts/plexswap-exchange/factory-v2.md)
-    * [Router v2](code/smart-contracts/plexswap-exchange/router-v2.md)
-  * [Main Staking/Gaya Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
+    * [Factory](code/smart-contracts/plexswap-exchange/factory.md)
+    * [Router](code/smart-contracts/plexswap-exchange/router.md)
+  * [Main Staking/Gaya Pool/MasterChef Contract](code/smart-contracts/taskmaster-contract.md)
   * [WAYA pool](code/smart-contracts/waya-pool.md)
-  * [Auto WAYA Pool (WayaVault)](code/smart-contracts/auto-waya-pool-wayavault.md)
+  * [Auto WAYA Pool (WayaVault)](code/smart-contracts/wayavault.md)
 
 ## Reference
 

@@ -20,7 +20,7 @@ The following links will take you to the BscScan page for PlexSwap's main smart 
 
 Each Farm used by PlexSwap has its own smart contract. Follow the steps below to view a Farm's smart contract.
 
-1. Go to the [PlexSwap Farms page](https://PlexSwap.finance/farms) and click the row of the Farm you want to see the contract for.
+1. Go to the [PlexSwap Farms page](https://swap.plexfinance.us/farms) and click the row of the Farm you want to see the contract for.
 
 ![](<../../.gitbook/assets/image (126).png>)
 
@@ -34,13 +34,13 @@ IFO contracts are unique to each new IFO. Follow the steps below to view an IFO'
 
 ### Current or most recent IFO
 
-Go to the [PlexSwap IFO page](https://PlexSwap.finance/ifo) and look on the bottom right of the IFO information for a **View Contract** link.
+Go to the [PlexSwap IFO page](https://swap.plexfinance.us/ifo) and look on the bottom right of the IFO information for a **View Contract** link.
 
 ![](<../../.gitbook/assets/image (128).png>)
 
 ### Previous IFOs
 
-1. Go to the [PlexSwap IFO page](https://PlexSwap.finance/ifo) and click the **Past IFOs** toggle at the top of the page.
+1. Go to the [PlexSwap IFO page](https://swap.plexfinance.us/ifo) and click the **Past IFOs** toggle at the top of the page.
 
 ![](<../../.gitbook/assets/image (129).png>)
 
