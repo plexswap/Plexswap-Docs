@@ -70,9 +70,3 @@ Download the official PlexSwap and WAYA logos.
 
 By downloading this file, you confirm that you will only use it to the extent permitted by the Terms detailed in this page.
 
-{% hint style="info" %}
-As of November 1st, the WAYA token logo will also be represented by the PlexSwap Rabbit icon.
-
-The previous WAYA icon, representing plexswaps, has been depracated.
-{% endhint %}
-

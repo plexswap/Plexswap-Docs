@@ -47,39 +47,16 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 
 > PlexSwap makes making money fun.
 
-### Lottery
-
-**Millions of dollars** regularly go up for grabs on the PlexSwap Lottery.\
-Join as many as **11,000 daily players** for your chance to win big!
-
-### NFT Collectibles
-
-Win collectible NFTs for participating in trading competitions and more fun & games.
-
-### Prediction
-
-Win BNB if you can predict whether the BNB price will rise or fall.\
-New rounds every 5 minutes!
 
 ## Is PlexSwap safe?
 
 See for yourself:
 
-* Check out these PlexSwap security audits:
-  * [Certik’s security audit of PlexSwap](https://www.certik.org/projects/PlexSwap) and [Certik's Shield insurance](https://shield.certik.foundation)
-  * [Slowmist's security audit of PlexSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PlexSwap.pdf)
-  * [Slowmist's Auto-WAYA Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20WayaVault.pdf)
-  * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PlexSwap-PredictionV2-v1.0.pdf)
-  * [Pecksheild's New WAYA Pool security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PlexSwap-WayaPool-v1.0.pdf)
-  * [SlowMist's New WAYA Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PlexSwap-WayaPool\_en-us.pdf)
-  * [Pecksheild's New MasterChef security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PlexSwap-MasterChefV2-v1.0.pdf)
-  * [SlowMist's New MasterChef security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20MasterChef%20v2\_en-us.pdf)
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
   * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
 * Security best practices:
   * The chefs use multisig for all contracts.
-  * Our contracts’ time-locks give you peace of mind.
 
 **Sounds like fun?**\
 **Then get flipping!** 🐰 🥞
