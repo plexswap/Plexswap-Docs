@@ -45,16 +45,16 @@ See for yourself:
 * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
 * Our contracts are verified on BscScan so you know that what you see is what you get:\
 
- [Plex Router](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)\
- [Plex Factory](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812)\
- [Chief Farmer](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code)\
- [Task Master](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)\
- [Task Assistant](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)\
- [Plex Pair](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code)\
- [Waya Token](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code)\
- [Gaya Token](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code)\
+  *  [Plex Router](https://bscscan.com/address/0x4bAa3F9f24B97aa67B0A0f080bA3A9c994c6AE93#code)
+  *  [Plex Factory](https://bscscan.com/address/0x580B12Fcc6247E7bA7a02324Ea6Aa6604d0BEC7A#code)
+  *  [Chief Farmer](https://bscscan.com/address/0x4Ba4EFa9C4E44b94ea232Fd5F5f7F4A4961904e5#code)
+  *  [Task Master](https://bscscan.com/address/0x5a30a7CeA5B5e78C7ECb86cEA6EBA50577412B2c#code)
+  *  [Task Assistant](https://bscscan.com/address/0xfd5044541EFdCf6B6a83e6ecBF3f477C8cEC6433#code)
+  *  [Plex Pair](https://bscscan.com/address/0x539Df50cf6fc29d560413d669A5Bb78cB342029B#code)
+  *  [Waya Token](https://bscscan.com/address/0x0581c0dae41F19Fb4602E7ba0A803B7AE50f02E8#code)
+  *  [Gaya Token](https://bscscan.com/address/0x45eE7bb74220D55a09e99ce6e9a8a8Dd2ac3105D#code)
 
 * Security best practices:
-  * The farmworkers use multisig for all contracts.
+  * All farmworkers use multisig for all contracts.
 
 ***
