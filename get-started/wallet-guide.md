@@ -7,9 +7,9 @@ To get started on PlexSwap, the first thing you'll need is to set up a wallet th
 {% hint style="danger" %}
 **When you're setting up a wallet, be sure to:**
 
-* ✅ **Download and install only the latest version from an official source.**
-* ✅ **Follow the setup guide carefully.**
-* ✅ **Safely back up your recovery phrases.**
+* 👌 **Download and install only the latest version from an official source.**
+* 👌 **Follow the setup guide carefully.**
+* 👌 **Safely back up your recovery phrases.**
 * ❌ **NEVER share your recovery phrases with anyone, under any circumstances.**
 * ❌ **NEVER input your recovery phrase to a website or app, other than your wallet app.**
 {% endhint %}
