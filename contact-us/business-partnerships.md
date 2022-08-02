@@ -1,6 +1,6 @@
 # Business Partnerships
 
-![](../.gitbook/assets/business-partnerships-header.png)
+![](broken-reference)
 
 ## Farms and Gaya Pools
 
@@ -12,7 +12,7 @@ These two products go hand-in-paw on PlexSwap: when a project provides their tok
 
 **​**[**Apply to run a Farm or Gaya Pool**](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform)**​**
 
-* Please don't email us to apply - we only respond to applications via the application form.&#x20;
+* Please don't email us to apply - we only respond to applications via the application form.
 * Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
 ### How long will it take to get a response?
@@ -33,7 +33,7 @@ If you’ve already got an ongoing Pool and Farm, you may be able to extend the 
 
 ## IFOs (Token Sales)
 
-"IFO" (Initial Farm Offering) is a new model of token sale pioneered by PlexSwap. Here's how it works, in short:&#x20;
+"IFO" (Initial Farm Offering) is a new model of token sale pioneered by PlexSwap. Here's how it works, in short:
 
 * Users buy your token with WAYA tokens.
 * After the sale, we distribute the WAYA to you.
@@ -42,7 +42,7 @@ Learn more about [how IFOs work.](https://medium.com/PlexSwap/initial-farm-offer
 
 [Apply to run an IFO](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
 
-* Please don't email us to apply - we only respond to applications via the application form.&#x20;
+* Please don't email us to apply - we only respond to applications via the application form.
 * Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
 ### How long will it take to get a response?

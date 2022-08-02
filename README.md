@@ -1,6 +1,6 @@
 # PlexSwap Intro
 
-![](.gitbook/assets/intro-header.png)
+![](.gitbook/assets/The\_Beginning\_Road.png)
 
 {% hint style="success" %}
 **PlexSwap helps you make the most out of your crypto in three ways:**
@@ -46,7 +46,6 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 ## 🎲 Win
 
 > PlexSwap makes making money fun.
-
 
 ## Is PlexSwap safe?
 
