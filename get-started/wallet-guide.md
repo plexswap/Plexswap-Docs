@@ -293,7 +293,7 @@ Token Pocket is a standalone application available for both Mac OS and Win64 dev
 * Has some issues with the English translation
 * Has fewer online resources than more established wallets
 
-[**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) (MacOS or Win64)
+[**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) (MacOS or Win64)\
 [**Token Pocket Setup Guide**](https://tokenpocket-gm.medium.com/tokenpocket-cloud-wallet-user-guide-a25cdcab25d8)
 {% endtab %}
 {% endtabs %}
