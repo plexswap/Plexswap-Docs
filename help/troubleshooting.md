@@ -54,7 +54,7 @@ Still doesn't work?
 1. Tap the settings icon on the liquidity page.
 2. Increase your slippage tolerance a little and try again.
 
-![](<../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1) (1) (2) (3).png>)
+![](<../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1) (1) (2) (1).png>)
 {% endtab %}
 
 {% tab title="Reason" %}
