@@ -4,7 +4,7 @@ description: Guidlines and downloadable assets like the PlexSwap logo SVG
 
 # Brand & Logos
 
-![](.gitbook/assets/logo.png)
+![](.gitbook/assets/Brand\_Logo-Guidelines.png)
 
 ## Intro
 
