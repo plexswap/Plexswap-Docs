@@ -1,0 +1,2 @@
+# Gaya Pool FAQ & Troubleshooting
+

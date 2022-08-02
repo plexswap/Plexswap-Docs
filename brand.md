@@ -4,16 +4,13 @@ description: Guidlines and downloadable assets like the PlexSwap logo SVG
 
 # Brand & Logos
 
-![](<.gitbook/assets/Frame 6.png>)
+![](.gitbook/assets/Frame%206.png)
 
 👇[ Jump to logo download](brand.md#PlexSwap-logo-downloads)
 
 ## Intro
 
 As everyone has already noticed, Symplexia's strategy was to try to make the most of all the creation effort already applied to the world of exchanges (mainly Uniswap & PancakeSwap). We try to get away from the temptation to reinvent the wheel, although we think that any attempt in this direction is perfectly possible and plausible. So, everything from PlexSwap is naturally and natively from the Community, so feel free to use in the way you want. The world is yours, the future is ours.
-
- 
-PlexSwap logo downloads are at the bottom of this page, but please be sure to read these guidelines first.
 
 > However, be careful to preserve our brands rights.
 
@@ -39,7 +36,7 @@ While we strongly believe in and follow the open source ethos, **protecting the 
 
 Here are a few examples of forbidden uses of our Brand Assets:
 
-* ⛔️ **Don't use our Brand Assets in your products' name, logo, NFTs, etc.**&#x20;
+* ⛔️ **Don't use our Brand Assets in your products' name, logo, NFTs, etc.**
   * For example, making an app called "PlexSwap Engine" or "WAYA Child" are not allowed.
   * Don't use the PlexSwap logo in whole or in part as part of your products' logos, marketing material, website, or other.
   * Logos with a strong resemblence to the PlexSwap Icon are also forbidden.
@@ -57,16 +54,3 @@ Here are a few examples of forbidden uses of our Brand Assets:
 Use your common sense and creativity. If you want to make something relating to the PlexSwap ecosystem, make it your own.
 
 Have fun making a unique brand that's clearly yours -- if your product is strong, you won't need to rely on remixing PlexSwap's brand.
-
-## PlexSwap Logo Downloads
-
-![](<.gitbook/assets/Frame 4.png>)
-
-Once you've read all the above, download the PlexSwap and WAYA logos below.
-
-{% file src=".gitbook/assets/PlexSwap Logos.zip" %}
-Download the official PlexSwap and WAYA logos.
-{% endfile %}
-
-By downloading this file, you confirm that you will only use it to the extent permitted by the Terms detailed in this page.
-
