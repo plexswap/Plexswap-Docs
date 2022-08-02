@@ -142,60 +142,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 * Has fewer online resources than more established wallets
 
 [**Download Token Pocket App**](https://www.tokenpocket.pro/en/download/app) (Automatically detects device)
-
-**Token Pocket Mobile Setup Guide**
-
-1. Visit the Token Pocket website and tap **Mobile**.
-
-![](https://lh5.googleusercontent.com/fTsZdwOn3cgT7au7KaoTxY-Ib1KMEfVP9MifMszobGFJ6BTQ0iPlQLl01CYuS3vbAVPmTz9vC3Hnw1lApk1m1I1SDG2fIfi-nN3CIE4oImXU82WCcZWVhLhq2LqY79W1UuN3oefD)
-
-1. Your device will be automatically detected. Tap the **Google Play** or **App Store** button and install the Token Pocket app.
-2. Once Token Pocket is installed, open it. You’ll be met by a screen asking whether you have an existing wallet or would like to create a new one. Tap **No accounts, Create Now**.
-
-If you do have an existing wallet to import, use the top option instead.
-
-![](https://lh3.googleusercontent.com/FdtGOB7N7ZKROD0EIKy5roklxcqtYwq26lZ4RX\_8RxUdt-caGPAr03HNTdOtTqpD82hkBcX9umQI1VcL6n0jXky4uVy\_dFDr8pReadLE80AHXkvm4mbvZZN2vxnzeaUmHXATx3GC)
-
-1. On the next page, find **BNB Smart Chain** in the list and tap it.
-
-![](https://lh5.googleusercontent.com/TGpsjTq\_B1rLK-A8Cqzq9sC0IACpDZFCbpwN5\_GD4r8sCRmaqAdbswC-OmWAM7YiKATEaHTHviODFueMA6sCDSGlvNslYjGWQIrX5X8oR\_5pGPuMJ6X7\_Gz-rEoJwzmS9exEybbs)
-
-1. Next, on the “Create way” page, tap **Create Wallet**.
-
-![](https://lh4.googleusercontent.com/AvN\_ssg1eWtArzqvT0oaxWGC-GR6lfG6GjzhIbvIpYO6b2om9ZYtNa5GWlU7KW31cKjPqFmSsx8zSjvT\_Bxw2zAqvVSMylbQWCCXYwnJOVM5jOxg9u7lt6\_Yy5AySM72HSS99v0n)
-
-1. You’ll be asked to enter a password. For your security, make sure your password is judged as “Strong”. You can also add a hint, but make sure it’s something only you will understand. When you’re ready, tap **Create Wallet**.
-
-And that’s it, all done!
-
-To connect to BNB Smart Chain and use PlexSwap, you can follow the TokenPocket section of our Connect Your Wallet to PlexSwap guide [https://docs.PlexSwap.finance/get-started/connection-guide](https://docs.plexswap.finance/get-started/connection-guide).
-
-**Getting private key from mobile to import to desktop**
-
-Token Pocket lets you use both a desktop and mobile wallet. This section will cover how to get your private key from your mobile wallet to import into your desktop wallet.
-
-{% hint style="warning" %}
-Please be extremely careful with how you handle your private keys. Giving your private keys to someone will give them full access to your coins! Token Pocket is an open source project and will use your private key to import your wallet. Even so, only use your private key with applications you trust and can verify are legitimate!
-{% endhint %}
-
-1. Tap the **Me** tab on the bottom ribbon and tap **Manage Wallets**.
-
-![](https://lh3.googleusercontent.com/\_DE3EO8bsI5wKZlkTeJv3zZ77LR8SVQYOwB4EXbY\_GhKzz4PSZpo3MdlvrU8sLoLyPcRQjdjOA24VPjAa\_UZdt-JaiRgPMk67uBs7JIi5gp9gV1\_wDB7fW7FQoFogTMZ\_EQJYxcQ)
-
-1. On the next page, tap the **BNB Smart Chain** entry. Be careful not to tap the address part, or you’ll only copy that to clipboard instead.
-
-![](https://lh4.googleusercontent.com/jLhXL03uhZHBKbHaPvy3ZrD1EmYCR8ECqwMxQIzTKnUtxMNntaDA8Dx4oVlXSadoFhhJqZACsYWVPfvITBEpWfkCfwntcQY3Fw5EYgGH-tmva8PZbvYbBRCy\_c5V7E1yQHvXiU0F)
-
-1. When the menu appears, find and tap the **Export Private Key** option. Type in your password to get your private key.
-
-{% hint style="danger" %}
-\*\*NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
-
-The genuine PlexSwap site and staff will never ask you to input your seed phrase.\*\*
-{% endhint %}
-
-Now you have your private key ready to import your wallet into the desktop version of Token Pocket.
-{% endtab %}
+[**Token Pocket Setup Guide**](https://www.coincarp.com/learn/how-to-use-tokenpocket-a-beginners-guide/)
 
 {% tab title="SafePal" %}
 ![](<../.gitbook/assets/image (26) (1).png>)
