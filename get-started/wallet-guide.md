@@ -144,6 +144,8 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 [**Download Token Pocket App**](https://www.tokenpocket.pro/en/download/app) (Automatically detects device)
 [**Token Pocket Setup Guide**](https://www.coincarp.com/learn/how-to-use-tokenpocket-a-beginners-guide/)
 
+{% endtab %}
+
 {% tab title="SafePal" %}
 ![](<../.gitbook/assets/image (26) (1).png>)
 
