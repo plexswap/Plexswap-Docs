@@ -1,10 +1,10 @@
 # 🚜 Yield Farming
 
-![](../../.gitbook/assets/yield-farms-header.png)
+![](../../.gitbook/assets/Yield\_Farming-II.png)
 
 Yield Farms allow users to earn WAYA while supporting PlexSwap by staking LP Tokens.
 
-Check out our [How to Use Farms guide](https://docs.PlexSwap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
+Check out our [How to Use Farms guide](https://docs.plexswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
 
 Learn [how to find Farm smart contracts](./)
 
@@ -23,7 +23,7 @@ Yield Farm APR calculations include both:
 
 Why? Because when you stake your LP tokens in a farm to earn WAYA, you're still providing liquidity to the liquidity pool, so you earn LP rewards as well!
 
-![](<../../.gitbook/assets/Frame 1 (3).png>)
+![](../../.gitbook/assets/Frame%201%20\(3\).png)
 
 So how do we calculate those figures?
 

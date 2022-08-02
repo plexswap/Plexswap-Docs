@@ -47,7 +47,7 @@ Read the [Trust Wallet guide to connecting to PlexSwap via WalletConnect](https:
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png>)
+![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (4).png>)
 
 To connect MetaMask to PlexSwap follow the steps below.
 
@@ -118,7 +118,7 @@ To connect MetaMask to PlexSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (5).png>)
+![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -170,7 +170,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (3).png>)
+![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (6).png>)
 
 #### Chrome and Firefox
 
@@ -230,7 +230,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (1) (1) (1) (1) (5).png>)
+![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (1) (1) (1) (1) (8).png>)
 
 1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
    ![](../.gitbook/assets/cb-desktop-1.png)
@@ -250,7 +250,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png>)
+![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (5).png>)
 
 #### Desktop Application
 
