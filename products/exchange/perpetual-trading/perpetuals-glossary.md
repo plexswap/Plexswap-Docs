@@ -1,2 +1,0 @@
-# Perpetuals Glossary
-
