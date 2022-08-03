@@ -1,6 +1,6 @@
 # PlexSwap Intro
 
-![](.gitbook/assets/Where\_the\_Crops\_Begin-IIIa.png)
+![](.gitbook/assets/Where\_the\_Crops\_Begin-T.png)
 
 {% hint style="success" %}
 **PlexSwap helps you make the most out of your crypto in three ways:**
