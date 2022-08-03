@@ -1,6 +1,6 @@
 # Connect Your Wallet to PlexSwap
 
-![](../.gitbook/assets/how-to-connect-wallet-header.png)
+![](../.gitbook/assets/Connect\_Wallet.png)
 
 You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with PlexSwap and you're good to go!
 
