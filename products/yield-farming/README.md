@@ -1,6 +1,6 @@
 # 🚜 Yield Farming
 
-![](../../.gitbook/assets/Yield\_Farming-II.png)
+![](../../.gitbook/assets/Where\_the\_Crops\_Begin.png)
 
 Yield Farms allow users to earn WAYA while supporting PlexSwap by staking LP Tokens.
 
