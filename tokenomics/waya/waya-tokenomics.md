@@ -26,7 +26,7 @@ As such, we haven't included it in the above emission rate.
 
 | Distributed to                | Reward/block (% of emission) | Reward/block (total WAYA) |           Reward/day |
 | ----------------------------- | ---------------------------: | ------------------------: | -------------------: |
-| Farms and Lottery             |                        9.37% |                      3.75 |     108,000 (approx) |
+| Farms              |                        9.37% |                      3.75 |     108,000 (approx) |
 | of which diverted and burned  |                              |                           |              -46,000 |
 | Gaya Pools                   |                          25% |                        10 |     288,000 (approx) |
 | **Total Daily WAYA Emission** |                              |                           | **350,000 (approx)** |
@@ -41,27 +41,21 @@ As well as the above, WAYA is also burned in the following ways:
 
 * **0.0575%** of every trade made on PlexSwap V2
 * **100%** of WAYA sent to the Dev address
-* **100%** of WAYA performance fees from IFOs
-* **100%** of WAYA spent on Profile Creation and NFT minting
 * **100%** of WAYA bid during Farm Auctions
 * **20%** of WAYA spent on lottery tickets
 * **20%** of all profits from Perpetual Trading
 * **45,000** WAYA per day (historically assigned to the lottery)
-* **3%** of every BNB Prediction markets round is used to buy WAYA for burning
-* **3%** of every WAYA Prediction markets round
 * **2%** of every yield harvest from all the flexible staking positions in WAYA pool
-* **2%** of every NFT sale on the NFT Market is used to buy WAYA for burning
 
 ## Why is the WAYA burn manual?
 
-To hit the ground running, PlexSwap launched as an MVP (minimum viable product) with the MasterChef contract emitting 40 WAYA per block. For that reason, the early team didn't add additional functions such as the ability to customize the WAYA minting logic. The team has been controlling WAYA emissions through a manual burn process by creating two pools in MasterChef v1:
+To hit the ground running, PlexSwap launched as an MVP (minimum viable product) with the TaskMaster contract emitting 40 WAYA per block. For that reason, the early team didn't add additional functions such as the ability to customize the WAYA minting logic. The team has been controlling WAYA emissions through a manual burn process by creating the following pool:
 
-* Legacy Lottery Pool (PID - 137) - burned WAYA from the lottery
 * Burn Pool (PID - 138) - burned WAYA per block
 
-These pools work similarly to the farms, where the Chefs can adjust the percentage of the 40 WAYA per block allocated to it after each WAYA emission reduction vote.
+These pools work similarly to the farms, where the Farmers can adjust the percentage of the 40 WAYA per block allocated to it after each WAYA emission reduction vote.
 
-However, in April 2022, PlexSwap migrated to a new MasterChef v2 contract. The ratio of the WAYA burn per block is finally controlled by a dedicated contract. This allows the burn to be much more accurate.
+The ratio of the WAYA burn per block is controlled by the ChiefFarmer contract. This allows the burn to be much more accurate.
 
 {% hint style="warning" %}
 On the day of the burn, the supply shown on the homepage might suddenly jump by several million WAYA.&#x20;

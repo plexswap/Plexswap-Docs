@@ -8,10 +8,6 @@
 
 ### [Apply for Yield Farm or Gaya Pool](business-partnerships.md#farms-and-gaya-pools)
 
-### [Apply for an IFO (Token Sale)](business-partnerships.md#ifos-token-sales)
-
-### [Apply for the NFT Market](nft-market-applications.md)
-
 ####
 
 #### Help!

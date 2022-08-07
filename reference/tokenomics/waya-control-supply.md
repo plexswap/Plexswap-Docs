@@ -4,7 +4,7 @@
 
 There's currently no hard cap on the supply of WAYA token, making it an inflationary token.
 
-Community members often point to this as a cause for concern, and while the chefs certainly understand the wish for a hard cap, there's a big reason we don't expect to set one in the near future:
+Community members often point to this as a cause for concern, and while the farmers certainly understand the wish for a hard cap, there's a big reason we don't expect to set one in the near future:
 
 > WAYA's primary function is to incentivize providing liquidity to the exchange. _Without block rewards, there would be much less incentive to provide liquidity (LP fees etc. would remain)._
 
@@ -12,7 +12,7 @@ Community members often point to this as a cause for concern, and while the chef
 
 ## How WAYA supply is reduced without a hard cap
 
-The chefs aim to **make deflation higher than emission** by building deflationary mechanisms into PlexSwap's products. The goal is for more WAYA to leave circulation than the amount of WAYA that's produced.
+The farmers aim to **make deflation higher than emission** by building deflationary mechanisms into PlexSwap's products. The goal is for more WAYA to leave circulation than the amount of WAYA that's produced.
 
 ### Reducing block emissions
 

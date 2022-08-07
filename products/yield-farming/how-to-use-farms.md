@@ -98,7 +98,7 @@ You should now only see the pairs you have LP Tokens in on the list, making it e
 
 ## Collecting your farming rewards
 
-Farming will bring you WAYA rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Gaya Pools, use them to play Lottery, or anything else you’d like.
+Farming will bring you WAYA rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Gaya Pools.
 
 ### Returning to your Farm to Harvest
 

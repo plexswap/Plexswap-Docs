@@ -14,9 +14,6 @@ Earn WAYA from Farms and Gaya Pools, win it in the lottery, or [buy it on the ex
 
 * Stake it in [Gaya Pools](../../products/gaya-pool/) to earn free tokens
 * Use it in [Yield Farms](https://docs.PlexSwap.finance/products/yield-farming) to earn more WAYA
-* Buy Lottery tickets in the [PlexSwap Lottery](../../products/lottery/)
-* Participate in [IFO Token Sales](../../products/ifo-initial-farm-offering/)
-* Create your [Plexswap Profile](../../products/nft-profile-system/) and mint NFTs
 * [Vote on proposals](../../products/voting/) relating to the PlexSwap ecosystem
 
 But that's not all -- there's much more on the horizon for WAYA!

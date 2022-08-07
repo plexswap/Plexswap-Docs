@@ -6,7 +6,7 @@ Yes, WAYA now has a hard cap of 750M as outlined in our litepaper [https://v2lit
 
 ## How WAYA supply is reduced
 
-The chefs aim to **make deflation higher than emission** by building deflationary mechanisms into PlexSwap's products. The goal is for more WAYA to leave circulation than the amount of WAYA that's produced.
+The farmers aim to **make deflation higher than emission** by building deflationary mechanisms into PlexSwap's products. The goal is for more WAYA to leave circulation than the amount of WAYA that's produced.
 
 ### Reducing block emissions
 

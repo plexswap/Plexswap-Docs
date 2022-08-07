@@ -2,7 +2,7 @@
 
 ## Stake WAYA, earn WAYA!
 
-PlexSwap now offers one WAYA Gaya Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto WAYA, IFO WAYA, and Manual WAYA pools will be retired upon the launch of the new WAYA Gaya Pool with flexible and fixed-term staking. Keep reading on to learn more!
+PlexSwap now offers one WAYA Gaya Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto WAYA and Manual WAYA pools will be retired upon the launch of the new WAYA Gaya Pool with flexible and fixed-term staking. Keep reading on to learn more!
 
 ![\*Note that actual APY values will vary](../../../.gitbook/assets/waya-pool-enabled1.png)
 
@@ -50,7 +50,6 @@ Stake your WAYA for a fixed amount of time to maximise yields and receive additi
 * The longer you lock, the higher the boost applied to the yield! Always offering a higher APY compared to flexible staking!
 * WAYA rewards are auto-compounded and will unlock, along with your staked WAYA, when your lock duration expires
 * Once staked in fixed-term staking, you cannot withdraw until the end of your lock duration.
-* IFO WAYA credit (the maximum amount of WAYA they can commit during an IFO) will be determined from the fixed-term staking pool
 
 **If you have WAYA locked in fixed-term staking**
 
@@ -60,4 +59,4 @@ Stake your WAYA for a fixed amount of time to maximise yields and receive additi
 * ❌ Harvest rewards
 * ❌ Withdraw before locked term ends
 
-Chefs are cooking up additional benefits in the kitchen for Q2!
+The Farmers are seeding and growing new crops for the near future!

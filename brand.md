@@ -34,13 +34,12 @@ While we strongly believe in and follow the open source ethos, **protecting the 
 
 Here are a few examples of forbidden uses of our Brand Assets:
 
-* ⛔️ **Don't use our Brand Assets in your products' name, logo, NFTs, etc.**
+* ⛔️ **Don't use our Brand Assets in your products' name, logo, etc.**
   * For example, making an app called "PlexSwap Engine" or "WAYA Child" are not allowed.
   * Don't use the PlexSwap logo in whole or in part as part of your products' logos, marketing material, website, or other.
   * Logos with a strong resemblence to the PlexSwap Icon are also forbidden.
 * ⛔️ **Don't use our Brand Assets to create digital or physcial products for sale, including but not limited to**
   * Merchandise ("Swag")
-  * NFTs
   * Other products
 *   ⛔️ **Don't create derivative names that imply official endorsement**
 
