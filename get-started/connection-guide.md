@@ -10,7 +10,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](../.gitbook/assets/image%20\(36\).png)
+![](../.gitbook/assets/trustwallet_850.png)
 
 To connect Trust Wallet follow the steps below. Note that Android and iOS devices do not use the same steps!
 
@@ -93,7 +93,7 @@ To connect MetaMask to PlexSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (1) (1) (1) (1) (6).png>)
+![](<../.gitbook/assets/coinbase_850.png>)
 
 1. Open Coinbase Wallet and tap on the **settings icon** in the bottom-right.\
    ![](../.gitbook/assets/CB-M-p1.png)\
@@ -142,7 +142,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](../.gitbook/assets/image%20\(26\)%20\(1\).png)
+![](../.gitbook/assets/safepal_850.png)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
 
@@ -207,7 +207,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](../.gitbook/assets/image%20\(39\).png)
+![](../.gitbook/assets/binance_850.png)
 
 #### Chrome and Firefox
 
@@ -230,7 +230,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (1) (1) (1) (1) (8).png>)
+![](<../.gitbook/assets/coinbase_850.png>)
 
 1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
    ![](../.gitbook/assets/cb-desktop-1.png)
