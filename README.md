@@ -40,7 +40,7 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 
 ## Is PlexSwap safe?
 
-See for yourself:
+Although there is still no independent audit report, there are some aspects that you should consider in your assessment:
 
 * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
 * Our contracts are verified on BscScan so you know that what you see is what you get:\\
@@ -55,4 +55,4 @@ See for yourself:
 * Security best practices:
   * All farmworkers use multisig for all contracts.
 
-***
+
