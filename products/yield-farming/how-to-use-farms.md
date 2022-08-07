@@ -4,7 +4,7 @@ description: Yield Farming on PlexSwap is easy!
 
 # How to Use Farms
 
-![](../../.gitbook/assets/how-to-yield-farms-header.png)
+![](../../.gitbook/assets/Yield\_Farms.png)
 
 Yield Farming in Farms is a great way to earn WAYA rewards on PlexSwap.
 
@@ -28,7 +28,7 @@ It may sound intimidating, but it's not too complicated. Let's go through step b
 
 ### Finding your Farm
 
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://PlexSwap.finance/farms) and you’ll see a list of available Farms.
+Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://plexswap.finance/farms) and you’ll see a list of available Farms.
 
 ![](https://lh5.googleusercontent.com/oxanafasV3-ifV5DlpPn1enB42kOdyZPOn1VJbtGts\_MTnyaZ9CK0lqYn9CFuZyQuUUqhLr6mIvzPfLFQXN3zrk4tppm\_Y2ESkAWF29sft9gAMgweJqceauttEoJDIhv7Usp\_CqM)
 
@@ -45,9 +45,9 @@ Now that you've found a Farm to stake in, you will need to add liquidity to get 
 1. Click on the row of the Farm you've chosen from the list. It will open to show more details.
 2. On the left, you'll see some links. Click the **Get (your pair) LP** link.
 
-![](<../../.gitbook/assets/image (153) (1).png>)
+![](../../.gitbook/assets/image%20\(153\)%20\(1\).png)
 
-This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](https://docs.PlexSwap.finance/get-started/liquidity-guide) you can follow to get your LP Tokens.
+This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](https://docs.plexswap.finance/get-started/liquidity-guide) you can follow to get your LP Tokens.
 
 ## Putting your LP Tokens into a farm
 
@@ -55,7 +55,7 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 ### Putting your LP Tokens into the Farm
 
-1. Go back to the [Farms page](https://PlexSwap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
+1. Go back to the [Farms page](https://plexswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
 
 ![](https://lh4.googleusercontent.com/DbdKZLxqqILLzovnQ752Ed8VFtx3dTh-tZSCfOmQ2BZG7M6hvOLXDzUOYpGFJgNeIbOXBxyryvhhAtXXTppwtOev\_lUqZWikbxLQVJy6kqDz2y3Q360YAVHdLlNkm6yfdNBYi7tQ)
 
@@ -79,19 +79,19 @@ Type the amount of LP Tokens you would like to farm with into the field, or just
 
 You may decide you would like to add more LP Tokens to a Farm at a later date, or to take some out of a Farm. You can do this very easily whenever you'd like.
 
-1. Return to the [Yield Farms page](https://PlexSwap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
+1. Return to the [Yield Farms page](https://plexswap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
 
-![](<../../.gitbook/assets/image (34).png>)
+![](../../.gitbook/assets/image%20\(34\).png)
 
 You should now only see the pairs you have LP Tokens in on the list, making it easier to find your Farm.
 
 1. Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
 
-![](<../../.gitbook/assets/image (102) (2) (2) (1) (1) (1) (1) (1) (1).png>)
+![](../../.gitbook/assets/image%20\(102\)%20\(2\)%20\(2\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\).png)
 
 1. A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
 
-![](<../../.gitbook/assets/image (33).png>)
+![](../../.gitbook/assets/image%20\(33\).png)
 
 1. Make sure your information is correct. When you are ready, click the **Confirm** button and confirm the action in your wallet.
 2. After a short wait, your new balance will show in the details section of your LP Token pair. If you've unstaked your LP Tokens, any unharvested rewards you had will automatically have been collected.
@@ -106,7 +106,7 @@ You can harvest your Farm and Gaya Pool rewards together from the Home page. If 
 
 To collect your rewards, you’ll need to visit your chosen Farm and collect the WAYA waiting for you.
 
-1. Return to the Farms page [here](https://PlexSwap.finance/farms).
+1. Return to the Farms page [here](https://plexswap.finance/farms).
 2. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Waya earned”.
 
 ![](https://lh5.googleusercontent.com/nBfqNjKcuqvj-LhW76CPmV2pyGS-SwGsf1U\_9top7OS7wnl24xQRzudcOgZbQvNc0P8rQetAU9\_52mB9TatXqyMcdCRyMk0nRzel8BqWPGNyiTBGB8Z-c3LcHTJVXaAb5CWyD5J4)
@@ -119,10 +119,10 @@ How often you harvest your rewards is up to you, but it does help to remember th
 
 You can see this fee in your wallet when confirming after clicking **Harvest**.
 
-![](<../../.gitbook/assets/image (31).png>)
+![](../../.gitbook/assets/image%20\(31\).png)
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
-And that's all there is to it! You may also want to look at [how to use PlexSwap Gaya Pools](https://docs.PlexSwap.finance/get-started/gaya-pool-guide) to earn rewards.
+And that's all there is to it! You may also want to look at [how to use PlexSwap Gaya Pools](https://docs.plexswap.finance/get-started/gaya-pool-guide) to earn rewards.
 
 Happy farming!

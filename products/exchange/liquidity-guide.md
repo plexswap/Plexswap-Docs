@@ -1,21 +1,22 @@
 # How to Add/Remove Liquidity
 
-![](../../.gitbook/assets/how-to-add-remove-liquidity-header.png)
+![](../../.gitbook/assets/Add\_Liquidity.png)
 
 "Liquidity" is central to how PlexSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can [stake in Farms](https://docs.PlexSwap.finance/products/yield-farming/farms) to earn WAYA rewards!
+In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can [stake in Farms](https://docs.plexswap.finance/products/yield-farming/farms) to earn WAYA rewards!
 
 ### **Adding liquidity**
 
 To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value (in USD) of the two tokens will be the limit to the liquidity you can provide.
 
-You can easily trade for any tokens you need. Visit our [How to Trade on PlexSwap](https://docs.PlexSwap.finance/get-started/trade-guide) guide if you need to.
+You can easily trade for any tokens you need. Visit our [How to Trade on PlexSwap](https://docs.plexswap.finance/get-started/trade-guide) guide if you need to.
 
-In this example, we will add liquidity using BNB and WAYA.\
-****
+In this example, we will add liquidity using BNB and WAYA.\\
 
-1\. Visit the [Liquidity page](https://exchange.PlexSwap.finance/#/pool).
+***
+
+1\. Visit the [Liquidity page](https://exchange.plexswap.finance/#/pool).
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_01.png)
 
@@ -59,7 +60,7 @@ You can repeat the above steps to add more liquidity, or add liquidity to differ
 
 To remove liquidity.
 
-1\. Visit the [Liquidity page](https://exchange.PlexSwap.finance/#/pool)**.**
+1\. Visit the [Liquidity page](https://exchange.plexswap.finance/#/pool)**.**
 
 2\. Click on the pair you want to remove liquidity from under “Your Liquidity".
 
@@ -73,7 +74,7 @@ To remove liquidity.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_12.png)
 
-5\. Click **Enable**. Your wallet will ask you to sign the action**.**
+5\. Click **Enable**. Your wallet will ask you to sign the action\*\*.\*\*
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_13.png)
 
@@ -83,6 +84,6 @@ To remove liquidity.
 
 7\. A window will appear showing how much token you will receive. Click **Confirm**. Your wallet will ask you to confirm the action.
 
-![](<../../.gitbook/assets/Add\_Remove\_LP\_15 (1).png>)
+![](../../.gitbook/assets/Add\_Remove\_LP\_15%20\(1\).png)
 
-8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't remove all of your liquidity, your remaining liquidity value will be updated on "My Liquidity" page.\
+8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't remove all of your liquidity, your remaining liquidity value will be updated on "My Liquidity" page.\\

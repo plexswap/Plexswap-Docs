@@ -6,7 +6,7 @@ description: >-
 
 # Using PlexSwap without Centralized Exchanges
 
-![](../.gitbook/assets/how-to-PlexSwap-without-cex-header%20\(1\).png)
+![](../.gitbook/assets/Plex\_Without\_CEX.png)
 
 PlexSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto PlexSwap without using a centralized exchange?
 
