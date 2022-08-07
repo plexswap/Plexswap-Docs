@@ -81,18 +81,18 @@ Let's try using O3 Hub to moving USDT from ERC-20 blockchain to BNB Smart Chain.
 3. Navigate to [https://o3swap.com/hub](https://o3swap.com/hub)
 4.  Connect your MetaMask or O3 wallet for both ETH and BSC. And switch your network in MetaMask to Ethereum Mainnet.
 
-    <img src="../.gitbook/assets/MBP3-2021.10.19-054852AM-Google%20Chrome_O3swap.png" alt="" data-size="original">
+    <img src="../.gitbook/assets/O3swap_1.png" alt="" data-size="original">
 5.  Select ERC-20 USDT as “You pay”, and BEP-20 USDT as "You will receive". Then type in the amount of USDT you want to transfer.
 
-    <img src="../.gitbook/assets/MBP3-2021.10.19-053358AM-Google%20Chrome_O3swap.png" alt="" data-size="original">
+    <img src="../.gitbook/assets/O3swap_2.png" alt="" data-size="original">
 6.  Double check the “To” field is showing the correct BNB Smart Chain wallet address you’ve connected.
 
-    <img src="../.gitbook/assets/MBP3-2021.10.19-053441AM-Google%20Chrome_O3swap.png" alt="" data-size="original">
+    <img src="../.gitbook/assets/O3swap_3.png" alt="" data-size="original">
 7. Make sure everything is correct. Click "Swap".
 8. Follow the on-screen instructions to approve your USDT, and complete the final cross-chain transaction.
 9.  The entire process will take around 10-30 minutes to complete depends on how congested the network is. You can keep track of the progress on history tab.
 
-    <img src="../.gitbook/assets/MBP3-2021.10.19-054520AM-Google%20Chrome_O3swap.png" alt="" data-size="original">
+    <img src="../.gitbook/assets/O3swap_4.png" alt="" data-size="original">
 10. Once finished. You should receive your funds in your BSC wallet. Now you can start using PlexSwap to swap some tokens on BNB Smart Chain!
 
 Additionally, you can check out [this user guide](https://docs.o3swap.com/o3-swap-user-guide/hub#2.-hub-swap) from O3 Swap.
