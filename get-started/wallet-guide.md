@@ -50,7 +50,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/trustwallet_850.png>)
 
 Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
 
@@ -74,7 +74,7 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/metamask_850.png>)
 
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
 
@@ -123,7 +123,7 @@ _Coinbase Wallet is a self-custody wallet providing software services subject to
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/tokenpocket_850.png>)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -146,7 +146,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26) (1).png>)
+![](<../.gitbook/assets/safepal.png>)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
 
@@ -195,7 +195,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/metamask_850.png>)
 
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks) with a little work.
 
@@ -220,7 +220,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (39).png>)
+![](<../.gitbook/assets/binance_850.png>)
 
 Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (BEP2) BNB Smart Chain (BEP20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
 
@@ -273,7 +273,7 @@ _Coinbase Wallet is a self-custody wallet providing software services subject to
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/tokenpocket_850.png>)
 
 Token Pocket is a standalone application available for both Mac OS and Win64 devices. Token Pocket allows you to manage your cryptocurrency in software independent of your browser.
 
