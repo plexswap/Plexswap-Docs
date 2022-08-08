@@ -10,7 +10,7 @@ PlexSwap now offers a Waya Silo with two staking options: flexible staking or fi
 
 With both, you can simply stake your WAYA tokens to earn more WAYA tokens with no deposit fees—both staking options auto-compound WAYA rewards for you. Flexible staking allows users to stake WAYA and earn rewards with the ability to unstake whenever they please. Fixed-term staking allows users to maximise their yield and earn even more WAYA by locking their staked WAYA for a period of time they choose, earning a linearly boosted APY compared to flexible staking.
 
-Flexible staking and fixed-term staking are both part of the same pool to allow users easy migration between the two staking options. **Because of this, you can only choose one staking option at a time.** More details about the differences are below.
+Flexible staking and fixed-term staking are both part of the same Silo to allow users easy migration between the two staking options. **Because of this, you can only choose one staking option at a time.** More details about the differences are below.
 
 ### Flexible Staking
 
@@ -30,7 +30,7 @@ Stake your WAYA and forget about it! The WAYA you stake in this Crop Silo will b
 * **0.1% if you unstake (withdraw) within 72 hours.**
 * Only applies within 3 days of manually staking.
 * After 3 days, you can unstake with **no fee**.
-* The 3-day timer resets every time you manually stake more WAYA in the pool.
+* The 3-day timer resets every time you manually stake more WAYA in the Silo.
 * This fee only applies to manual unstaking: it does not apply to automatic compounding.
 
 **Performance fee**
