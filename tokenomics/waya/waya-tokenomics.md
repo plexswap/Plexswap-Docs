@@ -12,7 +12,7 @@
 | Burned Weekly          |                    -26.25 |                -756,000 |
 | **Effective Emission** |              **<13.75\*** |           **350,000\*** |
 
-\*Effective Emission is in fact slightly below this amount: an additional 45,000 WAYA per day is diverted from the amount allocated to the lottery, and burned.
+\*Effective Emission might be in fact slightly below this amount.
 
 In addition to the above, a dynamic amount of WAYA is also [minted to the Dev address](https://bscscan.com/address/0xceba60280fb0ecd9a5a26a1552b90944770a4a0e#tokentxns) at a rate of 9.09%. This means that if 100 WAYA are harvested, then 9.09 WAYA is minted in addition and sent to the Dev Address.
 
@@ -42,9 +42,7 @@ As well as the above, WAYA is also burned in the following ways:
 * **0.0575%** of every trade made on PlexSwap V2
 * **100%** of WAYA sent to the Dev address
 * **100%** of WAYA bid during Farm Auctions
-* **20%** of WAYA spent on lottery tickets
 * **20%** of all profits from Perpetual Trading
-* **45,000** WAYA per day (historically assigned to the lottery)
 * **2%** of every yield harvest from all the flexible staking positions in WAYA pool
 
 ## Why is the WAYA burn manual?

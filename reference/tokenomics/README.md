@@ -10,7 +10,7 @@
 
 WAYA is the delicious token that powers the PlexSwap ecosystem.
 
-Earn WAYA from Farms and Gaya Pools, win it in the lottery, or [buy it on the exchange](../../products/PlexSwap-exchange/), then explore its use cases:
+Earn WAYA from Farms and Gaya Pools or [buy it on the exchange](../../products/PlexSwap-exchange/), then explore its use cases:
 
 * Stake it in [Gaya Pools](../../products/gaya-pool/) to earn free tokens
 * Use it in [Yield Farms](https://docs.PlexSwap.finance/products/yield-farming) to earn more WAYA
