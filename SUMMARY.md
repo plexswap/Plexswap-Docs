@@ -49,17 +49,17 @@
   * [WAYA Tokenomics](tokenomics/waya/waya-tokenomics.md)
   * [Controlling WAYA Supply](tokenomics/waya/controlling-waya-supply.md)
 
-## Developers <a href="#code" id="code"></a>
+## Developers <a href="#developers" id="developers"></a>
 
-* [Contributing](code/contributing/README.md)
-  * [Codebase Overview](code/contributing/codebase-overview.md)
-* [Smart Contracts](code/smart-contracts/README.md)
-  * [PlexSwap Exchange](code/smart-contracts/plexswap-exchange/README.md)
-    * [Factory](code/smart-contracts/plexswap-exchange/factory.md)
-    * [Router](code/smart-contracts/plexswap-exchange/router.md)
-  * [Main Staking/Gaya Pool/TaskMaster Contract](code/smart-contracts/main-staking-gaya-pool-taskmaster-contract.md)
-  * [WAYA pool](code/smart-contracts/waya-pool.md)
-  * [Auto WAYA Pool (WayaVault)](code/smart-contracts/auto-waya-pool-wayavault.md)
+* [Contributing](developers/contributing/README.md)
+  * [Codebase Overview](developers/contributing/codebase-overview.md)
+* [Smart Contracts](developers/smart-contracts/README.md)
+  * [PlexSwap Exchange](developers/smart-contracts/plexswap-exchange/README.md)
+    * [Factory](developers/smart-contracts/plexswap-exchange/factory.md)
+    * [Router](developers/smart-contracts/plexswap-exchange/router.md)
+  * [Main Staking/Gaya Pool/TaskMaster Contract](developers/smart-contracts/main-staking-gaya-pool-taskmaster-contract.md)
+  * [WAYA pool](developers/smart-contracts/waya-pool.md)
+  * [Auto WAYA Pool (WayaVault)](developes/smart-contracts/auto-waya-pool-wayavault.md)
 
 ## Reference
 
