@@ -1,10 +1,8 @@
 ---
-description: >-
-  The new Waya Pool offering fixed-term staking and flexible staking
-  options.
+description: The new Waya Pool offering fixed-term staking and flexible staking options.
 ---
 
-# Waya Pool
+# WAYA pool
 
 ## Contract info
 
