@@ -57,9 +57,9 @@
   * [PlexSwap Exchange](code/smart-contracts/plexswap-exchange/README.md)
     * [Factory](code/smart-contracts/plexswap-exchange/factory.md)
     * [Router](code/smart-contracts/plexswap-exchange/router.md)
-  * [Main Staking/Gaya Pool/TaskMaster Contract](code/smart-contracts/taskmaster-contract.md)
+  * [Main Staking/Gaya Pool/TaskMaster Contract](code/smart-contracts/main-staking-gaya-pool-taskmaster-contract.md)
   * [WAYA pool](code/smart-contracts/waya-pool.md)
-  * [Auto WAYA Pool (WayaVault)](code/smart-contracts/wayavault.md)
+  * [Auto WAYA Pool (WayaVault)](code/smart-contracts/auto-waya-pool-wayavault.md)
 
 ## Reference
 
