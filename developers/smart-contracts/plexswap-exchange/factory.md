@@ -8,11 +8,11 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 ## Contract info
 
 **Contract name:** PlexswapFactory\
-**Contract address:** 0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73
+**Contract address:** 0x580B12Fcc6247E7bA7a02324Ea6Aa6604d0BEC7A
 
-View [PlexswapFactory.sol on GitHub](https://github.com/PlexSwap/plexswap-swap-core/blob/master/contracts/PlexswapFactory.sol).
+View [PlexswapFactory.sol on GitHub](https://github.com/plexswap/Plexswap-Contracts/blob/master/Projects/Exchange/PlexFactory/contracts/PlexswapFactory.sol).
 
-View the [PlexSwap: Factory v2 contract on BscScan](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
+View the [PlexSwap: Factory contract on BscScan](https://bscscan.com/address/00x580B12Fcc6247E7bA7a02324Ea6Aa6604d0BEC7A).
 
 ## Read functions
 
