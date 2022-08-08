@@ -1,2 +1,0 @@
-# Auto WAYA Pool (WayaVault)
-

@@ -8,7 +8,7 @@ description: Guidlines and downloadable assets like the PlexSwap logo SVG
 
 ## Intro
 
-As everyone has already noticed, Symplexia's strategy was to try to make the most of all the creation effort already applied to the world of exchanges (mainly Uniswap & PanwayaSwap). We try to get away from the temptation to reinvent the wheel, although we think that any attempt in this direction is perfectly possible and plausible. So, everything from PlexSwap is naturally and natively from the Community, so feel free to use in the way you want. The world is yours, the future is ours.
+As everyone has already noticed, Symplexia's strategy was to try to make the most of all the creation effort already applied to the world of exchanges (mainly Uniswap & PancakeSwap). We try to get away from the temptation to reinvent the wheel, although we think that any attempt in this direction is perfectly possible and plausible. So, everything from PlexSwap is naturally and natively from the Community, so feel free to use in the way you want. The world is yours, the future is ours.
 
 > However, be careful to preserve our brands rights.
 
