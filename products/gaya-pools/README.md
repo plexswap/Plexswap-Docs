@@ -43,7 +43,7 @@ Reach out via [the application form](https://docs.plexswap.finance/contact-us/bu
 
 ### Gaya Pool Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
-[WAYA Gaya Pool](../../developers/smart-contracts/waya-vault.md)
+[WAYA Pool](../../developers/smart-contracts/waya-vault.md)
 
 ### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
