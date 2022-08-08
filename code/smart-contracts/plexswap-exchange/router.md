@@ -1,4 +1,4 @@
-# Router v2
+# Router
 
 {% hint style="warning" %}
 PlexSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://docs.uniswap.org/protocol/V2/introduction).\
