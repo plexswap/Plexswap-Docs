@@ -27,7 +27,7 @@ Stake your WAYA and forget about it! The WAYA you stake in this Gaya Pool will b
 
 **Unstaking fee**
 
-* **0.1%  if you unstake (withdraw) within 72 hours.**
+* **0.1% if you unstake (withdraw) within 72 hours.**
 * Only applies within 3 days of manually staking.
 * After 3 days, you can unstake with **no fee**.
 * The 3-day timer resets every time you manually stake more WAYA in the pool.
