@@ -41,7 +41,6 @@ As well as the above, WAYA is also burned in the following ways:
 
 * **0.0575%** of every trade made on PlexSwap V2
 * **100%** of WAYA sent to the Dev address
-* **100%** of WAYA bid during Farm Auctions
 * **20%** of all profits from Perpetual Trading
 * **2%** of every yield harvest from all the flexible staking positions in WAYA pool
 

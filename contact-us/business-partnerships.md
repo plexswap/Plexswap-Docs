@@ -19,10 +19,6 @@ These two products go hand-in-paw on PlexSwap: when a project provides their tok
 
 We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) on Telegram, with **the name of your project, your token ticker, and the date you applied.**
 
-### What’s the difference between a Core Farm VS Farm Auction
-
-A Core Farm is usually offered to projects who have shown excellent trading volumes on PlexSwap and have met the standards of our internal review process, while any project can participate in a Farm Auction and win a Farm slot.
-
 ### What are the qualifying criteria for Community VS Core?
 
 Qualifying criteria for Community Farms and Core Farms/Pools are based on our internal review process. We don’t publish them externally. If you’re not eligible for a Core Farm, we may invite you to apply for a Community Farm instead.

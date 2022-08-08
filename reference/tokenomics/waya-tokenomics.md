@@ -41,7 +41,6 @@ As well as the above, WAYA is also burned in the following ways:
 
 * **0.05%** of every trade made on PlexSwap V2
 * **100%** of WAYA sent to the Dev address
-* **100%** of WAYA bid during Farm Auctions
 * **2%** of every yield harvest in the Auto WAYA Pool
 
 ## Why is the WAYA burn manual?
