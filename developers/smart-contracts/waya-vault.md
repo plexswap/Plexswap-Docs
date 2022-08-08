@@ -1,8 +1,12 @@
-# Auto WAYA Pool (WayaVault)
+---
+description: The Waya Pool offering fixed-term staking and flexible staking options.
+---
+
+# WAYA pool
 
 ## Contract info
 
-**Contract name:** WayaVault\
-**Contract address:** 0xa80240Eb5d7E05d3F250cF000eEc0891d00b51CC
+**Contract name:** WayaPool\
+**Contract address:** `0xf26f8F978F31EaE602B6B3485007684fa9B13913`
 
-View [Auto WAYA Pool Smart Contract on BscScan](https://bscscan.com/address/0xa80240eb5d7e05d3f250cf000eec0891d00b51cc#code)
+[View the PlexSwap: Waya Pool Contract on BscScan.](https://bscscan.com/address/0xf26f8F978F31EaE602B6B3485007684fa9B13913)

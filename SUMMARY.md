@@ -58,8 +58,8 @@
     * [Factory](developers/smart-contracts/plexswap-exchange/factory.md)
     * [Router](developers/smart-contracts/plexswap-exchange/router.md)
   * [Main Staking Contracts](developers/smart-contracts/main-staking-contracts.md)
-  * [WAYA pool](developers/smart-contracts/waya-pool.md)
-  * [Auto WAYA Pool (WayaVault)](developers/smart-contracts/waya-vault.md)
+  * [WAYA pool (WayaVault)](developers/smart-contracts/waya-vault.md)
+  * [Auto WAYA Pool (WayaHighVault)](developers/smart-contracts/waya-high-vault.md)
 
 ## Reference
 
