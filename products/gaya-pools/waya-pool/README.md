@@ -1,8 +1,8 @@
-# New WAYA Gaya Pool
+#Waya Pool
 
 ## Stake WAYA, earn WAYA!
 
-PlexSwap now offers one WAYA Gaya Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto WAYA and Manual WAYA pools will be retired upon the launch of the new WAYA Gaya Pool with flexible and fixed-term staking. Keep reading on to learn more!
+PlexSwap now offers a Waya Pool with two staking options: flexible staking or fixed-term staking. Keep reading on to learn more!
 
 ![\*Note that actual APY values will vary](../../../.gitbook/assets/waya-pool-enabled1.png)
 
@@ -14,7 +14,7 @@ Flexible staking and fixed-term staking are both part of the same pool to allow 
 
 ### Flexible Staking
 
-Stake your WAYA and forget about it! The WAYA you stake in this Gaya Pool will be automatically compounded (reinvested) for you, minus a small fee (same as the old Auto WAYA Gaya Pool).
+Stake your WAYA and forget about it! The WAYA you stake in this Gaya Pool will be automatically compounded (reinvested) for you, minus a small fee.
 
 **If you have WAYA staked in flexible staking**
 

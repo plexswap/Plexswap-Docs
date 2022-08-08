@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page explains who to stake in new WAYA Gaya Pool with Flexible Staking
+  This page explains who to stake inWaya Pool with Flexible Staking
   option.
 ---
 
@@ -16,7 +16,7 @@ description: >-
 
 ![](<../../../.gitbook/assets/3-how-to-stake-in-gaya-pool (1) (1) (1) (1) (1).png>)
 
-4\. Choose the WAYA Gaya Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
+4\. Choose the Waya Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/waya-pool-notenable.png)
 

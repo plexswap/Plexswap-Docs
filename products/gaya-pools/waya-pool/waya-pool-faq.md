@@ -1,4 +1,4 @@
-# WAYA Gaya Pool FAQ
+#Waya Pool FAQ
 
 ## FAQ
 
@@ -6,7 +6,7 @@
 
 You can choose from 1-52 weeks. What do you prefer?
 
-### What variables affect the new WAYA Gaya Pool APYs (Flexible and Fixed-Term Staking options)?
+### What variables affect the Waya Pool APYs (Flexible and Fixed-Term Staking options)?
 
 Since flexible staking and fixed-term staking options are part of the same pool, the following variables affect the APY of both:
 

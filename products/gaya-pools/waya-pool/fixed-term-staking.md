@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page explains who to stake in the new WAYA Gaya Pool with the Fixed-Term
+  This page explains who to stake in the Waya Pool with the Fixed-Term
   Staking option.
 ---
 
@@ -16,7 +16,7 @@ description: >-
 
 ![](<../../../.gitbook/assets/3-how-to-stake-in-gaya-pool (1) (1) (1) (1) (1).png>)
 
-4\. Choose the WAYA Gaya Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
+4\. Choose the Waya Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/3-how-to-stake-in-fixed-pool.png)
 
@@ -44,7 +44,7 @@ A user staked 1,438.45 WAYA in fixed-term staking with an initial lock duration 
 
 On 18th June 2022 (6 weeks later, 4 weeks until the user's WAYA unlocks), the user decides they want to add 5 weeks to their lock duration.
 
-1\. Navigate to the WAYA Gaya Pool and click **Extend**.&#x20;
+1\. Navigate to the Waya Pool and click **Extend**.&#x20;
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/6-how-to-stake-in-fixed-pool.png)
 
@@ -70,7 +70,7 @@ A user staked 1,438.45 WAYA in fixed-term staking with an initial lock duration 
 \
 On 18th June 2022 (6 weeks later, 4 weeks until the user's WAYA unlocks), the user decides they want to add 100 WAYA to locked balance.
 
-1\. Navigate to the WAYA Gaya Pool and click **Add WAYA**.&#x20;
+1\. Navigate to the Waya Pool and click **Add WAYA**.&#x20;
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/6-how-to-stake-in-fixed-pool.png)
 
