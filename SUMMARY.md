@@ -51,8 +51,7 @@
 
 ## Developers
 
-* [Contributing](developers/contributing/README.md)
-  * [Codebase Overview](developers/contributing/codebase-overview.md)
+* [Codebase Overview](developers/contributing/codebase-overview.md)
 * [Smart Contracts](developers/smart-contracts/README.md)
   * [PlexSwap Exchange](developers/smart-contracts/plexswap-exchange/README.md)
     * [Factory](developers/smart-contracts/plexswap-exchange/factory.md)
@@ -60,6 +59,7 @@
   * [Most Important Farmers](developers/smart-contracts/most-important-farmers.md)
   * [WAYA Pool](developers/smart-contracts/waya-vault.md)
   * [Auto WAYA Pool](developers/smart-contracts/waya-high-vault.md)
+* [Contributing](developers/contributing/README.md)
 
 ## Reference
 
