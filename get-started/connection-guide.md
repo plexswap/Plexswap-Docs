@@ -10,23 +10,23 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](../.gitbook/assets/trustwallet_850.png)
+![](../.gitbook/assets/trustwallet\_850.png)
 
 To connect Trust Wallet follow the steps below. Note that Android and iOS devices do not use the same steps!
 
-#### Android
+**Android**
 
 1. Open Trust Wallet and tap the **DApps** button on the bottom of the screen.
 
-![](../.gitbook/assets/image%20\(68\).png)
+![](<../.gitbook/assets/image (68).png>)
 
 1. Scroll down to "Popular" and tap on "PlexSwap". You can also find it in "Exchanges".
 
-![](../.gitbook/assets/image%20\(66\).png)
+![](<../.gitbook/assets/image (66).png>)
 
 1. A new page will open with the PlexSwap logo and some information. Tap the **Connect** button.
 
-![](../.gitbook/assets/image%20\(67\).png)
+![](<../.gitbook/assets/image (67).png>)
 
 1. PlexSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
 
@@ -34,40 +34,40 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 If you find you are unable to connect at step 4, go back to the DApps menu and find "PlexSwap" again. Using "Plexswap Swap" from the "History" section may result in the same problem.
 {% endhint %}
 
-#### iOS
+**iOS**
 
 To connect to PlexSwap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
 
 Read the [Trust Wallet guide to connecting to PlexSwap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-PlexSwap/212307).
 
-#### **Resources**
+**Resources**
 
 [**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
 [**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain)
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/metamask_850.png>)
+![](<../.gitbook/assets/metamask\_850 (4).png>)
 
 To connect MetaMask to PlexSwap follow the steps below.
 
-#### Android and iOS
+**Android and iOS**
 
 1. Open MetaMask and tap on the **burger icon** in the top-left.
 
-![](../.gitbook/assets/image%20\(72\).png)
+![](<../.gitbook/assets/image (72).png>)
 
 1. Tap **Settings** in the menu.
 
-![](../.gitbook/assets/image%20\(73\).png)
+![](<../.gitbook/assets/image (73).png>)
 
 1. In the Settings menu, tap on **Network**.
 
-![](../.gitbook/assets/image%20\(74\).png)
+![](<../.gitbook/assets/image (74).png>)
 
 1. Tap on the **Add Network** button at the bottom.
 
-![](../.gitbook/assets/image%20\(75\).png)
+![](<../.gitbook/assets/image (75).png>)
 
 1. On the page that opens, type in the following details:
 
@@ -79,21 +79,21 @@ To connect MetaMask to PlexSwap follow the steps below.
 
 1. Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
 
-![](../.gitbook/assets/image%20\(76\).png)
+![](<../.gitbook/assets/image (76).png>)
 
 1. Type "PlexSwap" into the search field and start the search. The top result will be the PlexSwap exchange. Tap to enter it.
 2. You wallet will ask you to connect. Tap **Connect** to connect to PlexSwap.
 
-![](../.gitbook/assets/image%20\(77\).png)
+![](<../.gitbook/assets/image (77).png>)
 
-#### Resources
+**Resources**
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)\
 [**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain\))
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase_850.png>)
+![](<../.gitbook/assets/coinbase\_850 (12).png>)
 
 1. Open Coinbase Wallet and tap on the **settings icon** in the bottom-right.\
    ![](../.gitbook/assets/CB-M-p1.png)\
@@ -110,7 +110,7 @@ To connect MetaMask to PlexSwap follow the steps below.
 6. Click **Connect** **Wallet** to connect to Coinbase Wallet.\
    ![](../.gitbook/assets/CB-M-p7.png)
 
-#### **Resources**
+**Resources**
 
 [**Download Coinbase Wallet**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250) **(Automatically detects device)**
 
@@ -118,23 +118,23 @@ To connect MetaMask to PlexSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/tokenpocket_850.png>)
+![](<../.gitbook/assets/tokenpocket\_850 (4).png>)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
-#### **Android and iOS**
+**Android and iOS**
 
 1. Tap the **Discover** button on the bottom of the main screen.
 
-![](../.gitbook/assets/image%20\(78\).png)
+![](<../.gitbook/assets/image (78).png>)
 
 1. You'll see a DApp browser page open. Under "Recommended", find and tap the **PlexSwap** button. If you can't see PlexSwap under Recommended, you can also find it under "BSC".
 
-![](../.gitbook/assets/image%20\(79\).png)
+![](<../.gitbook/assets/image (79).png>)
 
 1. A window will open saying that you will be opening a third party DApp. Tap **I got it** and you'll be taken to PlexSwap's website connected to your wallet.
 
-![](../.gitbook/assets/image%20\(80\).png)
+![](<../.gitbook/assets/image (80).png>)
 
 **Resources**\
 [**Download Token Pocket App**](https://www.tokenpocket.pro/en/download/app) (Automatically detects device)\
@@ -142,23 +142,23 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](../.gitbook/assets/safepal_850.png)
+![](<../.gitbook/assets/safepal\_850 (1).png>)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
 
-#### **Android and iOS**
+**Android and iOS**
 
 1. Tap the **4 squares** icon button on the bottom of the main screen.
 
-![](../.gitbook/assets/image%20\(82\).png)
+![](<../.gitbook/assets/image (82).png>)
 
 1. You'll see a DApp browser page open. Under "DeFi", find and tap the **PlexSwap** button. If you can't see PlexSwap under DeFi, you can also find it under "BSC".
 
-![](../.gitbook/assets/image%20\(83\).png)
+![](<../.gitbook/assets/image (83).png>)
 
 1. A window will open saying that you will be opening a third party DApp. Tap **Confirm** and you'll be taken to PlexSwap's website connected to your wallet.
 
-![](../.gitbook/assets/image%20\(81\).png)
+![](<../.gitbook/assets/image (81).png>)
 
 **Resources**\
 ​[**Download SafePal**](https://safepal.io/download) (Automatically detects device)\
@@ -170,13 +170,13 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/metamask_850.png>)
+![](<../.gitbook/assets/metamask\_850 (4).png>)
 
-#### Chrome and Firefox
+**Chrome and Firefox**
 
 1. Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.
 
-![](../.gitbook/assets/image%20\(84\).png)
+![](<../.gitbook/assets/image (84).png>)
 
 1. A window will open. Type in the details below.
 
@@ -186,11 +186,11 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 **Currency Symbol (optional):** BNB\
 **Block Explorer URL (optional):** [http://bscscan.com](http://bscscan.com)
 
-![](../.gitbook/assets/image%20\(85\).png)
+![](<../.gitbook/assets/image (85).png>)
 
 1. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.
 
-![](../.gitbook/assets/image%20\(86\).png)
+![](<../.gitbook/assets/image (86).png>)
 
 1. Visit the [PlexSwap website](https://plexswap.finance). In the top right corner you'll see the **Connect** button. Click it.
 
@@ -198,22 +198,22 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top option on the list).
 
-![](../.gitbook/assets/image%20\(87\).png)
+![](<../.gitbook/assets/image (87).png>)
 
-#### Resources
+**Resources**
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)\
 [**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](../.gitbook/assets/binance_850.png)
+![](../.gitbook/assets/binance\_850.png)
 
-#### Chrome and Firefox
+**Chrome and Firefox**
 
 1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **BNB Smart Chain** from the list.
 
-![](../.gitbook/assets/image%20\(88\).png)
+![](<../.gitbook/assets/image (88).png>)
 
 1. Visit the PlexSwap website. In the top-right, click **Connect**.
 
@@ -221,16 +221,16 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's farther down the list).
 
-![](../.gitbook/assets/image%20\(89\).png)
+![](<../.gitbook/assets/image (89).png>)
 
-#### Resources
+**Resources**
 
 [**Download Binance Wallet**](https://www.binance.org/en) (Automatically detects browser)\
 **Binance Wallet Setup Guide**
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase_850.png>)
+![](<../.gitbook/assets/coinbase\_850 (12).png>)
 
 1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
    ![](../.gitbook/assets/cb-desktop-1.png)
@@ -242,7 +242,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 5. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (it's the top option on the list).\
    ![](../.gitbook/assets/cb-desktop-4.png)
 
-#### **Resources**
+**Resources**
 
 [**Download Coinbase Wallet**](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)[ ](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)(Chrome Only)
 
@@ -250,18 +250,18 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/tokenpocket_850.png>)
+![](<../.gitbook/assets/tokenpocket\_850 (4).png>)
 
-#### Desktop Application
+**Desktop Application**
 
 1. When you open the application, DApps should be the default page (if not, click to the DApps page).
 2. Half way down the page you'll see a list of networks to choose from. Click **BSC**.
 
-![](../.gitbook/assets/image%20\(90\).png)
+![](<../.gitbook/assets/image (90).png>)
 
 1. On the list of BSC DApps, you'll find PlexSwap links. Click a **PlexSwap** link.
 
-![](../.gitbook/assets/image%20\(92\).png)
+![](<../.gitbook/assets/image (92).png>)
 
 {% hint style="warning" %}
 Make sure you don't choose the "PlexSwap data analysis" option. If you do, you will not be able to connect.
@@ -273,7 +273,7 @@ Make sure you don't choose the "PlexSwap data analysis" option. If you do, you w
 You will not be able to use both MetaMask and TokenPocket connecting through the same web browser. Make sure you use a web browser without MetaMask plugin installed if you're using TokenPocket on your desktop computer.
 {% endhint %}
 
-#### Resources
+**Resources**
 
 [**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) (MacOS or Win64)\
 **Token Pocket Desktop Setup Guide**
