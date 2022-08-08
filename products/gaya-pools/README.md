@@ -33,8 +33,8 @@ Some special pools let you stake other tokens besides WAYA, too!
 [waya-pool-faq.md](waya-pool/waya-pool-faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="gaya-pool-guide/GAYA-pool-faq.md" %}
-[GAYA-pool-faq.md](gaya-pool-guide/GAYA-pool-faq.md)
+{% content-ref url="other-pools/gaya-pool-faq.md" %}
+[gaya-pool-faq.md](other-pools/gaya-pool-faq.md)
 {% endcontent-ref %}
 
 ### **How can I run a Gaya Pool for my project?**
