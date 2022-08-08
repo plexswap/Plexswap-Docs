@@ -1,4 +1,4 @@
-# Crop Silo FAQ & Troubleshooting
+# Crop Silos FAQ & Troubleshooting
 
 ## Troubleshooting
 
@@ -10,7 +10,7 @@ By selecting “Staked Only”, it will make it easier to find your assets.
 
 ### **Why can’t I unstake my tokens from a Crop Silo?**
 
-If you are unable to unstake from the Stake Waya, Earn WAYA Silos, please check to make sure that you haven’t sold the GAYA tokens in your wallet. This token acts as a \`proof of ownership\` over your WAYA in the Manual WAYA Silo.&#x20;
+If you are unable to unstake from the WAYA Silos, please check to make sure that you haven’t sold the GAYA tokens in your wallet. This token acts as a \`proof of ownership\` over your WAYA in the Manual WAYA Silo.&#x20;
 
 ### **Why did my earned tokens go to zero after staking/unstaking?**
 
