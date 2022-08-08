@@ -78,13 +78,9 @@ Whenever there is an official airdrop on PlexSwap it will be announced along wit
 
 Please remember anyone can airdrop tokens to PlexSwap users since every transaction is public on BscScan. Be sure to do your own research when it comes to non-official airdrops. To protect your funds, we recommend you don't use a smart contract you don't understand from a source you don't trust.
 
-## How can I report a bug?
-
-Learn about our [bug bounty and potential bounty payouts](https://docs.PlexSwap.finance/code/bug-bounty).
-
 ## Where can I view smart contracts?
 
-Learn how to find smart contracts on our [Finding Contracts page](https://docs.PlexSwap.finance/code/smart-contracts).
+Learn how to find smart contracts on our [Finding Contracts page](https://docs.PlexSwap.finance/developers/smart-contracts).
 
 ## Why does it say I have no BNB balance?
 

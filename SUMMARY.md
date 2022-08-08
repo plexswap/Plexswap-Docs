@@ -51,15 +51,15 @@
 
 ## Developers <a href="#code" id="code"></a>
 
-* [Contributing](code/contributing/README.md)
-  * [Codebase Overview](code/contributing/codebase-overview.md)
-* [Smart Contracts](code/smart-contracts/README.md)
-  * [PlexSwap Exchange](code/smart-contracts/plexswap-exchange/README.md)
-    * [Factory](code/smart-contracts/plexswap-exchange/factory.md)
-    * [Router](code/smart-contracts/plexswap-exchange/router.md)
-  * [Main Staking/Gaya Pool/TaskMaster Contract](code/smart-contracts/taskmaster-contract.md)
-  * [WAYA pool](code/smart-contracts/waya-pool.md)
-  * [Auto WAYA Pool (WayaVault)](code/smart-contracts/wayavault.md)
+* [Contributing](developers/contributing/README.md)
+  * [Codebase Overview](developers/contributing/codebase-overview.md)
+* [Smart Contracts](developers/smart-contracts/README.md)
+  * [PlexSwap Exchange](developers/smart-contracts/plexswap-exchange/README.md)
+    * [Factory](developers/smart-contracts/plexswap-exchange/factory.md)
+    * [Router](developers/smart-contracts/plexswap-exchange/router.md)
+  * [Main Staking/Gaya Pool/TaskMaster Contract](developers/smart-contracts/taskmaster-contract.md)
+  * [WAYA pool](developers/smart-contracts/waya-pool.md)
+  * [Auto WAYA Pool (WayaVault)](developers/smart-contracts/wayavault.md)
 
 ## Reference
 
