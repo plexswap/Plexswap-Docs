@@ -38,7 +38,7 @@
     * [How to use the Fixed-Term Staking option](products/gaya-pools/waya-pool/fixed-term-staking.md)
     * [WAYA Pool FAQ](products/gaya-pools/waya-pool/waya-pool-faq.md)
   * [Other Gaya Pools](products/gaya-pools/other-pools/README.md)
-    * [Gaya Pool FAQ & Troubleshooting](products/gaya-pools/other-gaya-pools/gaya-pool-faq.md)
+    * [Gaya Pool FAQ & Troubleshooting](products/gaya-pools/other-pools/gaya-pool-faq.md)
 * [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
