@@ -8,10 +8,10 @@ description: Yield Farming on PlexSwap is easy!
 
 Yield Farming in Farms is a great way to earn WAYA rewards on PlexSwap.
 
-Unlike Gaya Pools, Farms require you to stake **two tokens** to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn WAYA while still keeping a position in your other tokens!
+Unlike Crop Silos, Farms require you to stake **two tokens** to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn WAYA while still keeping a position in your other tokens!
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Gaya Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+Yield farming can give better rewards than Crop Silos, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
 
 Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
 {% endhint %}
@@ -98,11 +98,11 @@ You should now only see the pairs you have LP Tokens in on the list, making it e
 
 ## Collecting your farming rewards
 
-Farming will bring you WAYA rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Gaya Pools.
+Farming will bring you WAYA rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Crop Silos.
 
 ### Returning to your Farm to Harvest
 
-You can harvest your Farm and Gaya Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
+You can harvest your Farm and Crop Silo rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
 
 To collect your rewards, you’ll need to visit your chosen Farm and collect the WAYA waiting for you.
 
@@ -123,6 +123,6 @@ You can see this fee in your wallet when confirming after clicking **Harvest**.
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
-And that's all there is to it! You may also want to look at [how to use PlexSwap Gaya Pools](https://docs.plexswap.finance/get-started/gaya-pool-guide) to earn rewards.
+And that's all there is to it! You may also want to look at [how to use PlexSwap Crop Silos](https://docs.plexswap.finance/get-started/crop-silos-guide) to earn rewards.
 
 Happy farming!

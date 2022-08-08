@@ -26,13 +26,13 @@ Unlike centralized exchanges like Binance or Coinbase, PlexSwap doesn’t hold y
 
 > Earn WAYA and other tokens for free with super high interest rates.
 
-### Earn tokens with Gaya Pools
+### Earn tokens with Crop Silos
 
 Stake WAYA, earn free tokens. It’s really that easy.
 
 ### Earn WAYA with Yield Farms
 
-Stake LP tokens, earn WAYA. You take on a little more exposure to market fluctuations than with the Gaya Pools, but can earn higher APR to offset the risk.
+Stake LP tokens, earn WAYA. You take on a little more exposure to market fluctuations than with the Crop Silos, but can earn higher APR to offset the risk.
 
 ### Earn Trading Fees
 

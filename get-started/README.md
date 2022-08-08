@@ -19,7 +19,7 @@ Once you have a wallet set up and connected to PlexSwap, feel free to check our 
 [How to Trade](https://docs.plexswap.finance/products/PlexSwap-exchange/trade-guide)\
 [How to Add/Remove Liquidity](https://docs.plexswap.finance/products/PlexSwap-exchange/liquidity-guide)\
 [How to Use Farms](https://docs.plexswap.finance/products/yield-farming/how-to-use-farms)\
-[How to Stake in Gaya Pools](https://docs.plexswap.finance/products/gaya-pool/gaya-pool-guide)\
+[How to Stake in Crop Silos](https://docs.plexswap.finance/products/crop-silos/crop-silos-guide)\
 [How to Vote](https://docs.plexswap.finance/products/voting/voting-guide)
 
 Check the menu for more documentation on the range of PlexSwap features and services, including more advanced guides.

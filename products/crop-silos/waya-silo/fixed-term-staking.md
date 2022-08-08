@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page explains who to stake in the Waya Pool with the Fixed-Term
+  This page explains who to stake in the Waya Silo with the Fixed-Term
   Staking option.
 ---
 
@@ -10,13 +10,13 @@ description: >-
 
 2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 
-![](<../../../.gitbook/assets/2-how-to-stake-in-gaya-pool (1) (1) (1) (1) (1) (1) (2).png>)
+![](<../../../.gitbook/assets/2-how-to-stake-in-crop-silos (1) (1) (1) (1) (1) (1) (2).png>)
 
 3\. Choose your wallet and connect.
 
-![](<../../../.gitbook/assets/3-how-to-stake-in-gaya-pool (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/3-how-to-stake-in-crop-silos (1) (1) (1) (1) (1).png>)
 
-4\. Choose the Waya Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
+4\. Choose the Waya Silo and click the **Enable** button. Your wallet will ask you to confirm the action.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/3-how-to-stake-in-fixed-pool.png)
 
@@ -44,7 +44,7 @@ A user staked 1,438.45 WAYA in fixed-term staking with an initial lock duration 
 
 On 18th June 2022 (6 weeks later, 4 weeks until the user's WAYA unlocks), the user decides they want to add 5 weeks to their lock duration.
 
-1\. Navigate to the Waya Pool and click **Extend**.&#x20;
+1\. Navigate to the Waya Silo and click **Extend**.&#x20;
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/6-how-to-stake-in-fixed-pool.png)
 
@@ -70,7 +70,7 @@ A user staked 1,438.45 WAYA in fixed-term staking with an initial lock duration 
 \
 On 18th June 2022 (6 weeks later, 4 weeks until the user's WAYA unlocks), the user decides they want to add 100 WAYA to locked balance.
 
-1\. Navigate to the Waya Pool and click **Add WAYA**.&#x20;
+1\. Navigate to the Waya Silo and click **Add WAYA**.&#x20;
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/6-how-to-stake-in-fixed-pool.png)
 

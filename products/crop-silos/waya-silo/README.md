@@ -1,10 +1,10 @@
-#Waya Pool
+#Waya Silo
 
 ## Stake WAYA, earn WAYA!
 
-PlexSwap now offers a Waya Pool with two staking options: flexible staking or fixed-term staking. Keep reading on to learn more!
+PlexSwap now offers a Waya Silo with two staking options: flexible staking or fixed-term staking. Keep reading on to learn more!
 
-![\*Note that actual APY values will vary](../../../.gitbook/assets/waya-pool-enabled1.png)
+![\*Note that actual APY values will vary](../../../.gitbook/assets/waya-silo-enabled1.png)
 
 ## What’s the difference between “Flexible” and “Fixed-Term” staking?
 
@@ -14,7 +14,7 @@ Flexible staking and fixed-term staking are both part of the same pool to allow 
 
 ### Flexible Staking
 
-Stake your WAYA and forget about it! The WAYA you stake in this Gaya Pool will be automatically compounded (reinvested) for you, minus a small fee.
+Stake your WAYA and forget about it! The WAYA you stake in this Crop Silo will be automatically compounded (reinvested) for you, minus a small fee.
 
 **If you have WAYA staked in flexible staking**
 

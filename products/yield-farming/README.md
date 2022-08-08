@@ -9,7 +9,7 @@ Check out our [How to Use Farms guide](https://docs.plexswap.finance/products/yi
 Learn [how to find Farm smart contracts](./)
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Gaya Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+Yield farming can give better rewards than Crop Silos, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
 
 Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
 {% endhint %}

@@ -1,4 +1,4 @@
-#Waya Pool FAQ
+#Waya Silo FAQ
 
 ## FAQ
 
@@ -6,7 +6,7 @@
 
 You can choose from 1-52 weeks. What do you prefer?
 
-### What variables affect the Waya Pool APYs (Flexible and Fixed-Term Staking options)?
+### What variables affect the Waya Silo APYs (Flexible and Fixed-Term Staking options)?
 
 Since flexible staking and fixed-term staking options are part of the same pool, the following variables affect the APY of both:
 
@@ -36,11 +36,11 @@ WAYA Locked = Initial locked WAYA balance + WAYA rewards
 
 When adding more WAYA to fixed-term staking, the "WAYA to be locked" amount is the user's initial locked WAYA balance, WAYA rewards to date, and the WAYA being added.
 
-### Can the Fixed-Term Staking WAYA pool APY change after I lock my WAYA?
+### Can the Fixed-Term Staking WAYA Silo APY change after I lock my WAYA?
 
-Yes, the fixed-term staking WAYA pool APY is variable, just like the old WAYA pools. The fixed-term staking WAYA pool APY is not fixed and is dependent on:
+Yes, the fixed-term staking WAYA Silo APY is variable, just like the old WAYA Silos. The fixed-term staking WAYA Silo APY is not fixed and is dependent on:
 
-* Total WAYA staked in the WAYA pool (the sum of both Flexible + Fixed-Term Staking).
+* Total WAYA staked in the WAYA Silo (the sum of both Flexible + Fixed-Term Staking).
 * The average lock duration of all WAYA locked in fixed-term staking.
 * A yield boost (similar to a multiplier) calculated from a user's initial lock duration. The longer you lock your WAYA, the higher the yield boost.
 
@@ -54,7 +54,7 @@ TBD, more information will be provided soon.
 
 TBD, more information will be provided soon.
 
-### Can I use both the Flexible Staking WAYA pool and the Fixed-Term Staking WAYA pool at the same time?
+### Can I use both the Flexible Staking WAYA Silo and the Fixed-Term Staking WAYA Silo at the same time?
 
 No. As mentioned above in the "What’s the difference" section, both options are part of the same, single pool. You currently can **never** have WAYA in both fixed-term and flexible staking.
 
@@ -72,7 +72,7 @@ When your fixed-term staking period ends, and your WAYA unlocks, you have 7 days
   or
 * Convert your staked WAYA to flexible staking (no 72-hour withdrawal fee).
 
-![](../../../.gitbook/assets/waya-pool-lock-end.png)
+![](../../../.gitbook/assets/waya-silo-lock-end.png)
 
 During these 7 days, you will still earn WAYA at the same APY as your lock period.
 
@@ -80,4 +80,4 @@ After 7 days, if you have not done one of the two options, your staked WAYA will
 
 The “After Burning” state will last for 90 days until all the WAYA rewards are burnt. So, to avoid missing out on WAYA rewards, we recommend starting a new fixed-term staking period or converting your WAYA to flexible staking at the end of your lock staking period.
 
-![](<../../../.gitbook/assets/waya-pool-lock-burn (1).png>)
+![](<../../../.gitbook/assets/waya-silo-lock-burn (1).png>)

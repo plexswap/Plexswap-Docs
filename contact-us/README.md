@@ -6,7 +6,7 @@
 
 ### [List a Token](business-partnerships.md#exchange)
 
-### [Apply for Yield Farm or Gaya Pool](business-partnerships.md#farms-and-gaya-pools)
+### [Apply for Yield Farm or Crop Silo](business-partnerships.md#farms-and-crop-silos)
 
 ####
 

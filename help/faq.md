@@ -24,16 +24,16 @@ Although there is still no independent audit report, there are some aspects that
 
 ## How can I stake WAYA?
 
-You can stake your WAYA in PlexSwap Gaya Pools. Visit the [Gaya Pools page](https://PlexSwap.finance/pools).
+You can stake your WAYA in PlexSwap Crop Silos. Visit the [Crop Silos page](https://PlexSwap.finance/pools).
 
-Read our [How to Stake in Gaya Pools guide](https://docs.PlexSwap.finance/products/gaya-pool/gaya-pool-guide) if you'd like a hand getting started with staking.
+Read our [How to Stake in Crop Silos guide](https://docs.PlexSwap.finance/products/crop-silos/crop-silos-guide) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming?
 
-Staking in Gaya Pools and farming with Yield Farming are both ways to earn more WAYA by supporting PlexSwap.
+Staking in Crop Silos and farming with Yield Farming are both ways to earn more WAYA by supporting PlexSwap.
 
-Staking only needs some WAYA to be added to a Gaya Pool to earn WAYA or other tokens.\
-[Learn more about Gaya Pool staking.](https://docs.PlexSwap.finance/products/gaya-pool)
+Staking only needs some WAYA to be added to a Crop Silo to earn WAYA or other tokens.\
+[Learn more about Crop Silo staking.](https://docs.PlexSwap.finance/products/crop-silos)
 
 Farming is more complicated and needs LP Tokens to earn WAYA.\
 [Learn more about Yield Farming.](https://docs.PlexSwap.finance/products/yield-farming)

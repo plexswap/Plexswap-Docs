@@ -28,7 +28,7 @@ As such, we haven't included it in the above emission rate.
 | ----------------------------- | ---------------------------: | ------------------------: | -------------------: |
 | Farms              |                        9.37% |                      3.75 |     108,000 (approx) |
 | of which diverted and burned  |                              |                           |              -46,000 |
-| Gaya Pools                   |                          25% |                        10 |     288,000 (approx) |
+| Crop Silos                   |                          25% |                        10 |     288,000 (approx) |
 | **Total Daily WAYA Emission** |                              |                           | **350,000 (approx)** |
 
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
@@ -42,7 +42,7 @@ As well as the above, WAYA is also burned in the following ways:
 * **0.0575%** of every trade made on PlexSwap V2
 * **100%** of WAYA sent to the Dev address
 * **20%** of all profits from Perpetual Trading
-* **2%** of every yield harvest from all the flexible staking positions in WAYA pool
+* **2%** of every yield harvest from all the flexible staking positions in WAYA Silo
 
 ## Why is the WAYA burn manual?
 
