@@ -1,4 +1,4 @@
-#Waya Silo
+# WAYA Silo
 
 ## Stake WAYA, earn WAYA!
 
