@@ -1,14 +1,5 @@
 # Table of contents
 
-## Blockchain Basics
-
-* [What is Blockchain?](blockchain/intro.md)
-* [What Is a Decentralized Wallet?](blockchain/descentralized\_wallet.md)
-* [What Is the Private key, Mnemonic and Wallet Password ?](blockchain/what\_is\_private\_key.md)
-* [What Is the Miner Fee?](blockchain/what\_is\_miner\_fee.md)
-* [What Is DeFi?](blockchain/what\_is\_defi.md)
-* [What Is DEX?](blockchain/what\_is\_dex.md)
-
 ## Plexswap
 
 * [PlexSwap Intro](README.md)
@@ -69,3 +60,12 @@
   * [WAYA Silo](developers/smart-contracts/waya-vault.md)
   * [Auto WAYA Silo](developers/smart-contracts/waya-high-vault.md)
 * [Contributing](developers/contributing/README.md)
+
+## Basic Knowledge
+
+* [What is Blockchain?](blockchain/intro.md)
+* [What Is a Decentralized Wallet?](blockchain/descentralized\_wallet.md)
+* [What Is the Private key, Mnemonic and Wallet Password ?](blockchain/what\_is\_private\_key.md)
+* [What Is the Miner Fee?](blockchain/what\_is\_miner\_fee.md)
+* [What Is DeFi?](blockchain/what\_is\_defi.md)
+* [What Is DEX?](blockchain/what\_is\_dex.md)
