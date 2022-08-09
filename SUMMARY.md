@@ -1,17 +1,17 @@
 # Table of contents
 
-## Blockchain Basics
+## 📝Blockchain Basics 
 
-* [What is Blockchain?](README.md)
-* [What Is a Decentralized Wallet?](blockchain/descentralized\_wallet.md)
-* [What Is the Private key, Mnemonic and Wallet Password ?](blockchain/what\_is\_private\_key.md)
-* [What Is the Miner Fee?](blockchain/what\_is\_miner\_fee.md)
-* [What Is DeFi?](blockchain/what\_is\_defi.md)
-* [What Is DEX?](blockchain/what\_is\_dex.md)
+* [What is Blockchain?](blockchain/what_is_blockchain.md)
+* [What Is a Decentralized Wallet?](blockchain/descentralized_wallet.md)
+* [What Is the Private key, Mnemonic and Wallet Password ?](blockchain/what_is_private_key.md)
+* [What Is the Miner Fee?](blockchain/what_is_miner_fee.md)
+* [What Is DeFi?](blockchain/what_is_defi.md)
+* [What Is DEX?](blockchain/what_is_dex.md)
 
 ## Plexswap
 
-* [PlexSwap Intro](<README (1).md>)
+* [PlexSwap Intro](README.md)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
@@ -73,4 +73,4 @@
 ## Reference
 
 * [WAYA Tokenomics](reference/tokenomics/waya-tokenomics.md)
-* [Controlling WAYA supply](reference/controlling-waya-supply.md)
+* [Controlling WAYA supply](reference/tokenomics/waya-control-supply.md)
