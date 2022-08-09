@@ -1,13 +1,13 @@
 # Table of contents
 
-## Blo0ckchain Basics
+## Blockchain Basics 
 
-* [What is Blockchain ?](blockchain/what_is_blockchain.md)
-* [What Is a Decentralized Wallet ?](blockchain/descentralized_wallet.md)
+* [What is Blockchain?](blockchain/what_is_blockchain.md)
+* [What Is a Decentralized Wallet?](blockchain/descentralized_wallet.md)
 * [What Is the Private key, Mnemonic and Wallet Password ?](blockchain/what_is_private_key.md)
-* [What Is the Miner Fee ?](blockchain/what_is_miner_fee.md)
-* [What Is DeFi ?](blockchain/what_is_defi.md)
-* [What Is DEX ?](blockchain/what_is_dex.md)
+* [What Is the Miner Fee?](blockchain/what_is_miner_fee.md)
+* [What Is DeFi?](blockchain/what_is_defi.md)
+* [What Is DEX?](blockchain/what_is_dex.md)
 
 ## Plexswap
 
