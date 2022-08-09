@@ -2,7 +2,7 @@
 
 ## Blockchain Basics
 
-* [What is Blockchain?](README.md)
+* [What is Blockchain?](blockchain/intro.md)
 * [What Is a Decentralized Wallet?](blockchain/descentralized\_wallet.md)
 * [What Is the Private key, Mnemonic and Wallet Password ?](blockchain/what\_is\_private\_key.md)
 * [What Is the Miner Fee?](blockchain/what\_is\_miner\_fee.md)
@@ -11,7 +11,7 @@
 
 ## Plexswap
 
-* [PlexSwap Intro](<README (1).md>)
+* [PlexSwap Intro](README.md)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
