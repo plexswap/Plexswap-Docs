@@ -2,7 +2,7 @@
 
 ## 📖Blockchain Basics 
 
-* [What is Blockchain?](blockchain/what_is_blockchain.md)
+* [What is Blockchain?](blockchain/what_is_blockchain.md) :book:
 * [What Is a Decentralized Wallet?](blockchain/descentralized_wallet.md)
 * [What Is the Private key, Mnemonic and Wallet Password ?](blockchain/what_is_private_key.md)
 * [What Is the Miner Fee?](blockchain/what_is_miner_fee.md)
