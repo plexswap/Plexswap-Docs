@@ -54,5 +54,3 @@ Although there is still no independent audit report, there are some aspects that
   * [Gaya Token](https://bscscan.com/address/0x45eE7bb74220D55a09e99ce6e9a8a8Dd2ac3105D#code)
 * Security best practices:
   * All Farmers use multisig for all contracts.
-
-
