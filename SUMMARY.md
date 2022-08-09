@@ -1,6 +1,6 @@
 # Table of contents
 
-## 🏭     Blockchain Basics
+## Blockchain Basics
 
 * [What is Blockchain?](README.md)
 * [What Is a Decentralized Wallet?](blockchain/descentralized\_wallet.md)

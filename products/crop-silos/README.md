@@ -23,8 +23,8 @@ Some special pools let you stake other tokens besides WAYA, too!
 [fixed-term-staking.md](waya-silo/fixed-term-staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="crop-silos-guide/" %}
-[crop-silos-guide](crop-silos-guide/)
+{% content-ref url="other-silos/" %}
+[other-silos](other-silos/)
 {% endcontent-ref %}
 
 ### Crop Silo FAQs & Troubleshooting
