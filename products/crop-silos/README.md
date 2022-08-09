@@ -1,4 +1,4 @@
-# Crop Silos - Stake WAYA
+# 🍯 Crop Silos
 
 ![](../../.gitbook/assets/GAYA-poos-header.png)
 
@@ -11,16 +11,16 @@ Some special pools let you stake other tokens besides WAYA, too!
 
 ### **How can I use Crop Silos?**
 
-{% content-ref url="../crop-silos/waya-silo/" %}
-[waya-silo](../crop-silos/waya-silo/)
+{% content-ref url="waya-silo/" %}
+[waya-silo](waya-silo/)
 {% endcontent-ref %}
 
-{% content-ref url="../crop-silos/waya-silo/flexible-staking.md" %}
-[flexible-staking.md](../crop-silos/waya-silo/flexible-staking.md)
+{% content-ref url="waya-silo/flexible-staking.md" %}
+[flexible-staking.md](waya-silo/flexible-staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="../crop-silos/waya-silo/fixed-term-staking.md" %}
-[fixed-term-staking.md](../crop-silos/waya-silo/fixed-term-staking.md)
+{% content-ref url="waya-silo/fixed-term-staking.md" %}
+[fixed-term-staking.md](waya-silo/fixed-term-staking.md)
 {% endcontent-ref %}
 
 {% content-ref url="crop-silos-guide/" %}
@@ -46,6 +46,3 @@ Reach out via [the application form](https://docs.plexswap.finance/contact-us/bu
 [WAYA Silo](../../developers/smart-contracts/waya-vault.md)
 
 ### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
-
-
-
