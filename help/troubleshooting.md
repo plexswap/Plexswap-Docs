@@ -62,51 +62,6 @@ The error is caused by trying to add or remove liquidity for a liquidity pool (L
 
 It might be the case that prices are updating too fast when and your slippage tolerance is too low.
 
-![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs\_pxdobz\_kY\_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
-
-![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt\_FAwpEylaIJhff5ZcYlzB\_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
-{% endtab %}
-
-{% tab title="Solution for nerds" %}
-OK, so you're really determined to fix this. We really don't recommend doing this unless you know what you're doing.
-
-There currently isn't a simple way to solve this issue from the PlexSwap website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
-
-**Approve the LP contract**
-
-Head to the contract of the LP token you're trying to approve.\
-For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
-
-1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
-2. In **section "1. approve",** approve the LP token for the router by entering
-   1. spender (address): enter the contract address of the LP token you're trying to interact with
-   2. value (uint256): -1
-
-**Query "balanceOf"**
-
-1. Switch to **Read Contract.**
-2. In **5. balanceOf**, input your wallet address and hit **Query**.
-3. Keep track of the number that's exported. It shows your balance within the LP in the uint256 format, which you'll need in the next step.
-
-![](<../.gitbook/assets/image (7).png>)
-
-**Add or Remove Liquidity**
-
-Head to the router contract: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
-
-1. Select **Write Contract** and **Connect to Web3** as above.
-2. Find **addLiquidity** or **removeLiquidity** (whichever one you're trying to do)
-3. Enter the token addresses of both of the tokens in the LP.
-4. In **liquidity (uint256),** enter the uint256 number which you got from "balanceOf" above.
-5. Set a low **amountAMin** or **amountBMin**: try 1 for both.
-6. Add your wallet address in **to (address)**.
-7. Deadline must be an epoch time greater than the time the tx is executed.
-
-![](<../.gitbook/assets/image (5).png>)
-
-{% hint style="warning" %}
-This can cause very high slippage, and can cause the user to lose some funds if frontrun
-{% endhint %}
 {% endtab %}
 {% endtabs %}
 
@@ -198,7 +153,7 @@ You don't have enough GAYA in your wallet to unstake from the WAYA-WAYA Silo.
 
 If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
-1. Go to: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
+1. Go to: [https://bscscan.com/address/0x5a30a7CeA5B5e78C7ECb86cEA6EBA50577412B2cE#writeContract](https://bscscan.com/address/0x5a30a7CeA5B5e78C7ECb86cEA6EBA50577412B2c#writeContract)
 2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
 3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
 
@@ -288,10 +243,6 @@ This error tends to appear when you're trying to unstake from an old Crop Silo, 
 {% endtab %}
 {% endtabs %}
 
-## **Issues with Prediction**
-
-Check [prediction-troubleshooting.md](../products/prediction/prediction-troubleshooting.md "mention")
-
 ## **Other issues**
 
 ### Provider Error
@@ -303,7 +254,7 @@ This happens when you try to connect via a browser extension like MetaMask or Bi
 
 {% tabs %}
 {% tab title="Solution" %}
-Install the official browser extension to connect, or read our guide on [how to connect a wallet to PlexSwap](https://docs.plexswap.finance/get-started/connection-guide).
+Install the official browser extension to connect, or read our guide on [how to connect a wallet to PlexSwap](https://docs.plexfinance.us/plexswap/get-started/connection-guide).
 {% endtab %}
 {% endtabs %}
 
@@ -349,54 +300,3 @@ Cause unclear. Try these steps before trying again:
 1. Increase gas limit
 2. Increase slippage
 3. Clear cache
-
-## **Issues with Profile**
-
-### Oops! We couldn't find any Plexswap Collectibles in your wallet.
-
-We're investigating the logic behind this issue. Meanwhile please try the workaround.
-
-{% tabs %}
-{% tab title="Workaround 1" %}
-1. Go to “Collectible” page, then come back to profile page.\
-   If you can’t find the link, go to [https://PlexSwap.finance/collectibles](https://plexswap.finance/collectibles) directly.
-2. Retry profile creation.
-{% endtab %}
-
-{% tab title="Workaround 2" %}
-Change the environment.
-
-* Clear the cache and retry.
-* Retry on different browser.
-* Retry on different wallet apps.
-* Retry on the different network (switch between Wi-Fi and cellular)
-{% endtab %}
-{% endtabs %}
-
-### Checking username keeps spinning
-
-There are two possible causes.
-
-1. You have multiple wallets installed on the browser.
-2. Network issue.
-
-{% tabs %}
-{% tab title="Solution 1" %}
-Root cause: You have multiple wallets installed on the browser.\
-\
-It may make a conflict between wallets. This is out of PlexSwap's control and we can do nothing.
-
-1. Have only single wallet installed on browser, remove the others.
-2. Reconnect the wallet and retry setting username again.
-{% endtab %}
-
-{% tab title="Solution 2" %}
-Root cause: Network is unstable.
-
-You have to retry.
-
-1. Delete whatever has been entered in the text field completely.
-2. Re-type username, then please wait for seconds.
-3. If it doesn’t work, reload the page and retry again.
-{% endtab %}
-{% endtabs %}
