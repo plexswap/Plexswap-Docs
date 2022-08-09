@@ -1,4 +1,4 @@
-# Auto WAYA Silo (WayaHighVault)
+# Auto WAYA Silo
 
 ## Contract info
 
