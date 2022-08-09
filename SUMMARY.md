@@ -11,7 +11,7 @@
 
 ## Plexswap
 
-* [PlexSwap Intro](<README.md>)
+* [PlexSwap Intro](plexswap/README.md)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
@@ -25,9 +25,9 @@
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
-* [The Farm Workers](farm-workers.md)
-* [Next Steps](roadmap.md)
-* [Brand & Logos](brand.md)
+* [The Farm Workers](plexswap/farm-workers.md)
+* [Next Steps](plexswap/next-steps.md)
+* [Brand & Logos](plexswap/brand.md)
 
 ## Products
 
@@ -70,7 +70,3 @@
   * [Auto WAYA Silo](developers/smart-contracts/waya-high-vault.md)
 * [Contributing](developers/contributing/README.md)
 
-## Reference
-
-* [WAYA Tokenomics](reference/tokenomics/waya-tokenomics.md)
-* [Controlling WAYA supply](reference/controlling-waya-supply.md)
