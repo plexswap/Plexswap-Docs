@@ -73,16 +73,6 @@ Try again, but confirm (sign and broadcast) the transaction as soon as you gener
 
 This happened because you started making a transaction, but you didn't sign and broadcast it until it was past the deadline. That means you didn't hit "Confirm" quickly enough.
 
-### Plexswap: K
-
-> The transaction cannot succeed due to error: Plexswap: K. This is probably an issue with one of the tokens you are swapping.
-
-Try modifying the amount on “To” field. Therefore putting "(estimated)" symbol on “From”. Then initiate the swap immediately.
-
-![](../.gitbook/assets/plexswap-k-solution%20\(2\).png)
-
-This usually happen when you are trying to swap a token with its own fee.
-
 ### Plexswap: TRANSFER\_FAILED
 
 > The transaction cannot succeed due to error: execution reverted: Plexswap: TRANSFER\_FAILED.
@@ -166,10 +156,6 @@ This will unstake your staked tokens and lose any uncollected WAYA yield.
 To stop this happening again, **don’t sell your GAYA.** You still need it to unstake from the “Stake WAYA Earn WAYA” pool.
 
 This error has happened because you have sold or transferred GAYA tokens. GAYA is minted in a 1:1 ratio to WAYA when you stake in the WAYA-WAYA Crop Silo. GAYA must be burned at a 1:1 ratio to WAYA when calling leaveStaking (unstaking your WAYA from the pool), so if you don't have enough, you can't unstake from the pool.
-
-{% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
-<img src="https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO" alt="" data-size="original">
-{% endembed %}
 
 ### Out of Gas error
 
@@ -266,16 +252,18 @@ Switch your chain to BNB Smart Chain. Check your wallet's documentation for a gu
 
 Make sure you are signed in to your wallet app and it's connected to BNB Smart Chain.
 
-### Issues buying SAFEMOON and similar tokens
+### Issues buying PLEX-F and similar tokens
 
-To trade SAFEMOON, you must click on the settings icon and **set your slippage tolerance to 12% or more.**\
-This is because **SafeMoon taxes a 10% fee on each transaction**:
+To trade PLEX-F, you must click on the settings icon and **set your slippage tolerance to 12% or more.**\
+This is because **PLEX-F taxes approximately a 10% fee on each transaction**:
 
-* 5% fee = redistributed to all existing holders
-* 5% fee = used to add liquidity
+* 4.5% fee = redistributed to all existing holders
+* 3% fee = used to add liquidity
+* 2% fee = used to finance project development
+* 0.5% fee = used to compose a contingency fund
 
 This is also why you might not receive as much of the token as you expect when you purchase.\
-Read more on [How to Buy Safe Moon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742).
+Read more on [PLEX-F Fundamentals](https://finance.symplexia.com/fundamentals/).
 
 ### Internal JSON-RPC errors
 
