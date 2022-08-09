@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page explains who to stake inWaya Silo with Flexible Staking
+  This page explains who to stake in Waya Silo with Flexible Staking
   option.
 ---
 
