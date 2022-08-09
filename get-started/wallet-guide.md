@@ -100,7 +100,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_850 (1) (10) (1) (15).png>)
+![](<../.gitbook/assets/coinbase\_850 (1) (10) (1) (11).png>)
 
 Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
 
@@ -245,7 +245,7 @@ Binance Wallet is a browser-plugin wallet that natively supports the Binance Cha
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_850 (1) (10) (1) (15).png>)
+![](<../.gitbook/assets/coinbase\_850 (1) (10) (1) (11).png>)
 
 Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
 

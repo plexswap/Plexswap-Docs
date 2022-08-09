@@ -93,7 +93,7 @@ To connect MetaMask to PlexSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_850 (1) (10) (1) (15).png>)
+![](<../.gitbook/assets/coinbase\_850 (1) (10) (1) (11).png>)
 
 1. Open Coinbase Wallet and tap on the **settings icon** in the bottom-right.\
    ![](../.gitbook/assets/CB-M-p1.png)\
@@ -230,7 +230,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_850 (1) (10) (1) (15).png>)
+![](<../.gitbook/assets/coinbase\_850 (1) (10) (1) (11).png>)
 
 1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
    ![](../.gitbook/assets/cb-desktop-1.png)
