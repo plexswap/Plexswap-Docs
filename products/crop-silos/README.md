@@ -1,4 +1,4 @@
-# 🍯 Crop Silos - Stake WAYA
+# Crop Silos - Stake WAYA
 
 ![](../../.gitbook/assets/GAYA-poos-header.png)
 
