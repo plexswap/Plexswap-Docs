@@ -39,9 +39,8 @@ The burning process is currently manual. [View burn transactions here](https://b
 
 As well as the above, WAYA is also burned in the following ways:
 
-* **0.0575%** of every trade made on PlexSwap V2
+* **0.0575%** of every trade made on PlexSwap 
 * **100%** of WAYA sent to the Dev address
-* **20%** of all profits from Perpetual Trading
 * **2%** of every yield harvest from all the flexible staking positions in WAYA Silo
 
 ## Why is the WAYA burn manual?

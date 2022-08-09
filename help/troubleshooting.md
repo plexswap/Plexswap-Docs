@@ -146,34 +146,6 @@ Try trading a smaller amount, or increase slippage tolerance via the settings ic
 
 Try trading a smaller amount, or increase slippage tolerance via the settings icon and try again. This is caused by low liquidity.
 
-### estimateGas failed
-
-> This transaction would fail. Please contact support
-
-{% tabs %}
-{% tab title="Solution" %}
-**If you got this error while removing liquidity from a BNB pair:**
-
-Please select "Receive WBNB" and retry.
-
-**If you got this error while trying to swap:**
-
-Please contact the project team of the token you're trying to swap. \*\*\*\* This issue must be resolved by the project team.
-{% endtab %}
-
-{% tab title="Reason" %}
-**This issue (while swapping) is caused by tokens which have hard-coded the V1 PlexSwap router into their contract.**
-
-While this practice is ill-advised at best, the reason for these projects having done this appears to be due to their tokenomics, in which each purchase sends a % of the token to LPs.
-
-The projects affected will likely not work with the V2 router: they will most likely need to create new versions of their tokens pointing to our new router address, and migrate any existing token holders to their new token.
-
-We recommend that any projects which created such tokens should also make efforts to prevent their users from adding them to V2 LP.
-
-The up-to-date router address is [https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)
-{% endtab %}
-{% endtabs %}
-
 ### Cannot read property 'toHexString' of undefined
 
 > "Unknown error: "Cannot read property 'toHexString' of undefined"
