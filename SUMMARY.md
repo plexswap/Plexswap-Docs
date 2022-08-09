@@ -63,14 +63,14 @@
 
 ## Basic Knowledge
 
-* [Blockchain](basic-knowledge/blockchain/README.md)
+* [💸 Blockchain](basic-knowledge/blockchain/README.md)
   * [What is Blockchain?](reference/blockchain/intro.md)
   * [What Is a Decentralized Wallet?](reference/blockchain/descentralized\_wallet.md)
   * [What Is the Private key, Mnemonic and Wallet Password ?](reference/blockchain/what\_is\_private\_key.md)
   * [What Is the Miner Fee?](reference/blockchain/what\_is\_miner\_fee.md)
   * [What Is DeFi?](reference/blockchain/what\_is\_defi.md)
   * [What Is DEX?](reference/blockchain/what\_is\_dex.md)
-* [Security](basic-knowledge/security/README.md)
+* [🔐 Security](basic-knowledge/security/README.md)
   * [Prevention](reference/security/security\_prevention.md)
     * [Loss Prevention](reference/security/prevention/loss\_prevention.md)
     * [Theft Prevention](reference/security/prevention/theft\_prevention.md)

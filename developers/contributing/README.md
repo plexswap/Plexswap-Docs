@@ -1,12 +1,6 @@
----
-description: Thank you for expressing your interest in contributing to PlexSwap!
----
-
 # Contributing
 
-![](../../.gitbook/assets/developers-header.png)
-
-PlexSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the PlexSwap team 🥞
+PlexSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the PlexSwap team. 
 
 Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team.
 
@@ -36,16 +30,16 @@ Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) If you haven't
     $ git checkout -b branch-name
     $ yarn
     ```
-5. Happy coding 🎉
+5. Happy coding 🍺
 
 ## Coding rules
 
-We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow the following rules, and write high quality code. **Let's get started** 💪
+We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow the following rules, and write high quality code. **Let's get started** 📗
 
 ### Use the UIKit
 
 {% hint style="warning" %}
-Check the [UI Kit](https://github.com/plexswap/Plexswap-Frontend/tree/master/packages/UI-plex) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
+Check the [UI Kit](https://github.com/plexswap/Plexswap-Frontend/tree/master/packages/UI-plex) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 🧰
 {% endhint %}
 
 If a variant of a component needs to be created, use the corresponding component in the UI Kit as a base. For example:
