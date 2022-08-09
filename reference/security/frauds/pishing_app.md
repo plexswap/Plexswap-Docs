@@ -4,4 +4,4 @@ The scammer will develop Apps that are highly similar to the official App. When 
 
 Therefore, users must download and use the wallet through official channels.&#x20;
 
-**The only official website of PlexSwap is** [**https://www.tokenpocket.pro/**](https://swap.plexfinance.us)
+**The only official website of PlexSwap is** [**https://swap.plexfinance.us/**](https://swap.plexfinance.us)
