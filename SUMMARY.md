@@ -63,9 +63,22 @@
 
 ## Basic Knowledge
 
-* [What is Blockchain?](blockchain/intro.md)
-* [What Is a Decentralized Wallet?](blockchain/descentralized\_wallet.md)
-* [What Is the Private key, Mnemonic and Wallet Password ?](blockchain/what\_is\_private\_key.md)
-* [What Is the Miner Fee?](blockchain/what\_is\_miner\_fee.md)
-* [What Is DeFi?](blockchain/what\_is\_defi.md)
-* [What Is DEX?](blockchain/what\_is\_dex.md)
+* Blockchain
+  * [What is Blockchain?](reference/blockchain/intro.md)
+  * [What Is a Decentralized Wallet?](reference/blockchain/descentralized\_wallet.md)
+  * [What Is the Private key, Mnemonic and Wallet Password ?](reference/blockchain/what\_is\_private\_key.md)
+  * [What Is the Miner Fee?](reference/blockchain/what\_is\_miner\_fee.md)
+  * [What Is DeFi?](reference/blockchain/what\_is\_defi.md)
+  * [What Is DEX?](reference/blockchain/what\_is\_dex.md)
+* Security
+  * [Prevention](reference/security/security_prevention.md)
+    * [Loss Prevention](reference/security/prevention/loss_prevention.md)
+    * [Theft Prevention](reference/security/prevention/theft_prevention.md)
+  * [Common Fraud Types](reference/security/common_frauds.md)
+    * [Fake Airdrop/Giveaway Scam](reference/security/frauds/fake_airdrops.md)
+    * [Fake QR Code Scam](reference/security/frauds/fake_qr_code.md)
+    * [Phishing App Scam](reference/security/frauds/pishing_app.md)
+    * [Phishing Website Scam](reference/security/frauds/pishing_site.md)
+    * [Fake Token Scam](reference/security/frauds/fake_token.md)
+    * [Fake Customer Service Scam](reference/security/frauds/customer_service.md)
+    * [DApp Approval Scam](reference/security/frauds/dapp_approval.md)

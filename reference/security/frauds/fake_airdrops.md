@@ -1,0 +1,1 @@
+# Fake Airdrop/Giveaway Scam

@@ -1,0 +1,1 @@
+# Fake QR Code Scam
