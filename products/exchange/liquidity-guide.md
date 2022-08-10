@@ -26,7 +26,7 @@ In this example, we will add liquidity using BNB and WAYA.\\
 
 3\. For the top Input, click 'Select a currency'. Then choose one of the token in the liquidity pair you want to add liquidity to. Here, we are gong to use BNB as an example.
 
-![](../../.gitbook/assets/plex-liquidity-token1.png
+![](../../.gitbook/assets/plex-liquidity-token1.png)
 
 4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use PLEX-F as an example.
 
@@ -68,11 +68,11 @@ To remove liquidity.
 
 4\. Use the buttons or slider to choose how much liquidity you want to remove. Choose **PERCENT** to remove part of your liquidity from this pair.
 
-![](../../.gitbook/assets/plex-liquidity-enable-amount.png)
+![](../../.gitbook/assets/plex-liquidity-slide-amount.png)
 
 5\. Click **Enable**. Your wallet will ask you to sign the action\*\*.\*\*
 
-![](../../.gitbook/assets/Add\_Remove\_LP\_13.png)
+![](../../.gitbook/assets/plex-liquidity-enable-amount.png)
 
 6\. The **Remove** button will light up. Click to proceed.
 
