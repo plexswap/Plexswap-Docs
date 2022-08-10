@@ -30,12 +30,7 @@
     * [Limit Orders FAQ](products/exchange/limit-orders/limit-orders-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
-<<<<<<< HEAD
-* [💰 Crop Silos](products/crop-silos/README.md)
-=======
-  * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🍯 Crop Silos](products/crop-silos/README.md)
->>>>>>> 1582dc193e020ca847d549932b9ebdb46158cf2e
   * [WAYA Silo](products/crop-silos/waya-silo/README.md)
     * [How to use the Flexible Staking option](products/crop-silos/waya-silo/flexible-staking.md)
     * [How to use the Fixed-Term Staking option](products/crop-silos/waya-silo/fixed-term-staking.md)
