@@ -125,4 +125,4 @@ This shows the fee for harvesting as it appears in the MetaMask wallet. Differen
 
 And that's all there is to it! You may also want to look at [how to use PlexSwap Crop Silos](https://docs.plexfinance.us/products/crop-silos) to earn rewards.
 
-Happy farming!
+Have a productive farming!
