@@ -30,7 +30,7 @@ It may sound intimidating, but it's not too complicated. Let's go through step b
 
 Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://swap.plexfinance.us/farms) and you’ll see a list of available Farms.
 
-![](https://lh5.googleusercontent.com/oxanafasV3-ifV5DlpPn1enB42kOdyZPOn1VJbtGts\_MTnyaZ9CK0lqYn9CFuZyQuUUqhLr6mIvzPfLFQXN3zrk4tppm\_Y2ESkAWF29sft9gAMgweJqceauttEoJDIhv7Usp\_CqM) ![](../../.gitbook/assets/plex-farms.png)
+![](../../.gitbook/assets/plex-farms.png)
 
 WAYA-BNB and BUSD-BNB are pinned to the top of the list with the default **Hot** sorting. After the pinned Farms, Hot will show other Farms in order of how new they are.
 
