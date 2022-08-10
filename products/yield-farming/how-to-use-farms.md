@@ -28,7 +28,7 @@ It may sound intimidating, but it's not too complicated. Let's go through step b
 
 ### Finding your Farm
 
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://plexswap.finance/farms) and you’ll see a list of available Farms.
+Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://swap.plexfinance.us/farms) and you’ll see a list of available Farms.
 
 ![](https://lh5.googleusercontent.com/oxanafasV3-ifV5DlpPn1enB42kOdyZPOn1VJbtGts\_MTnyaZ9CK0lqYn9CFuZyQuUUqhLr6mIvzPfLFQXN3zrk4tppm\_Y2ESkAWF29sft9gAMgweJqceauttEoJDIhv7Usp\_CqM)
 
@@ -81,7 +81,7 @@ You may decide you would like to add more LP Tokens to a Farm at a later date, o
 
 1. Return to the [Yield Farms page](https://plexswap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
 
-![](../../.gitbook/assets/image%20\(34\).png)
+![](<../../.gitbook/assets/image (34).png>)
 
 You should now only see the pairs you have LP Tokens in on the list, making it easier to find your Farm.
 
