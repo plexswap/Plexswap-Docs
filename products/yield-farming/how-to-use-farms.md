@@ -59,7 +59,7 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 ![](../../.gitbook/assets/plex-farms-enable.png)
 
-2. When you’re ready, click the **Enable** button and confirm your action in your wallet.
+ When you’re ready, click the **Enable** button and confirm your action in your wallet.
 
 3. After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
 
