@@ -47,7 +47,7 @@ Read the [Trust Wallet guide to connecting to PlexSwap via WalletConnect](https:
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/metamask\_850 (1) (1) (1) (1) (2) (9).png>)
+![](<../.gitbook/assets/metamask\_850 (1) (1) (1) (1) (2) (1) (2).png>)
 
 To connect MetaMask to PlexSwap follow the steps below.
 
@@ -93,7 +93,7 @@ To connect MetaMask to PlexSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (10) (11).png>)
+![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (10) (1) (2).png>)
 
 1. Open Coinbase Wallet and tap on the **settings icon** in the bottom-right.\
    ![](../.gitbook/assets/CB-M-p1.png)\
@@ -118,7 +118,7 @@ To connect MetaMask to PlexSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/tokenpocket\_850 (1) (1) (1) (1) (2) (7).png>)
+![](<../.gitbook/assets/tokenpocket\_850 (1) (1) (1) (1) (2) (1) (1).png>)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -170,7 +170,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/metamask\_850 (1) (1) (1) (1) (2) (9).png>)
+![](<../.gitbook/assets/metamask\_850 (1) (1) (1) (1) (2) (1) (2).png>)
 
 **Chrome and Firefox**
 
@@ -230,7 +230,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (10) (11).png>)
+![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (10) (1) (2).png>)
 
 1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
    ![](../.gitbook/assets/cb-desktop-1.png)
@@ -250,7 +250,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/tokenpocket\_850 (1) (1) (1) (1) (2) (7).png>)
+![](<../.gitbook/assets/tokenpocket\_850 (1) (1) (1) (1) (2) (1) (1).png>)
 
 **Desktop Application**
 

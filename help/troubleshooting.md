@@ -24,7 +24,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 2. Try trading a smaller amount at one time.
 3. Increase your slippage tolerance:
    1. Tap the settings icon on the liquidity page.
-   2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/assets/liquidity\_settings (1) (1) (1) (1) (1) (1) (4).png>)
+   2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/assets/liquidity\_settings (1) (1) (1) (1) (1) (1) (1) (2).png>)
 4. Lastly, try inputting an amount with fewer decimal places.
 {% endtab %}
 
@@ -54,14 +54,13 @@ Still doesn't work?
 1. Tap the settings icon on the liquidity page.
 2. Increase your slippage tolerance a little and try again.
 
-![](<../.gitbook/assets/liquidity\_settings (1) (1) (1) (1) (1) (1) (4).png>)
+![](<../.gitbook/assets/liquidity\_settings (1) (1) (1) (1) (1) (1) (1) (2).png>)
 {% endtab %}
 
 {% tab title="Reason" %}
 The error is caused by trying to add or remove liquidity for a liquidity pool (LP) with an insufficient amount of token A or token B (one of the tokens in the pair).
 
 It might be the case that prices are updating too fast when and your slippage tolerance is too low.
-
 {% endtab %}
 {% endtabs %}
 

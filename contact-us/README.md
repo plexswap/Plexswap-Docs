@@ -2,17 +2,18 @@
 
 ![](../.gitbook/assets/contact-us-header.png)
 
-#### Business Contacts
+**Email**
 
-### [List a Token](business-partnerships.md#exchange)
+* Service：service@tokenpocket.pro
+* Bussiness：bd@tokenpocket.pro
+* Submit DApp：dapp@tokenpocket.pro
 
-### [Apply for Yield Farm or Crop Silo](business-partnerships.md#farms-and-crop-silos)
+**Developer**
 
-####
+* [Submit Your Dapp](https://www.tokenpocket.pro/en/submit/dapp)
+* [Submit Your Token](https://www.tokenpocket.pro/en/submit/token)
+* [Submit your NFT](https://tokenpocket.pro/en/submit/nft)
 
-#### Help!
+**Follow us**
 
-### [Customer Support](customer-support.md#there-is-no-customer-support-for-PlexSwap)
-
-### [Social Communities](telegram.md)
-
+[Official Website](https://www.tokenpocket.pro/)  |  [Facebook](https://www.facebook.com/TokenPocket)  |  [Telegram](https://t.me/tokenPocket\_en)  |  [Medium](https://tokenpocket-gm.medium.com/)  |  [Twitter](https://medium.com/@tokenpocket.gm)  [|](https://twitter.com/TokenPocket\_TP)  [Github](https://twitter.com/TokenPocket\_TP)
