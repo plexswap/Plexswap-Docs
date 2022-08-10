@@ -12,7 +12,7 @@ The number of LP tokens you receive represents your portion of the WAYA-BNB Liqu
 
 You can also redeem your funds at any time by removing your liquidity.
 
-![](../../.gitbook/assets/screenshot-2021-04-19-at-6.27.22-pm.png)
+![](../../.gitbook/assets/plex-liquidity-pools.png)
 
 ## Liquidity Providers earn trading fees
 
@@ -29,7 +29,7 @@ For example:
 * The WAYA/BNB liquidity pool now has 10.017 WAYA and 10.017 BNB.
 * Each LP token is now worth 1.00017 WAYA + 1.00017 BNB.
 
-To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the [WAYA Farms](https://PlexSwap.finance/farms), while still earning your 0.17% trading fee reward.
+To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the [WAYA Farms](https://swap.plexfinance.us/farms), while still earning your 0.17% trading fee reward.
 
 ## Impermanent Loss
 
