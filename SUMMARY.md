@@ -30,7 +30,12 @@
     * [Limit Orders FAQ](products/exchange/limit-orders/limit-orders-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
+<<<<<<< HEAD
 * [💰 Crop Silos](products/crop-silos/README.md)
+=======
+  * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
+* [🍯 Crop Silos](products/crop-silos/README.md)
+>>>>>>> 1582dc193e020ca847d549932b9ebdb46158cf2e
   * [WAYA Silo](products/crop-silos/waya-silo/README.md)
     * [How to use the Flexible Staking option](products/crop-silos/waya-silo/flexible-staking.md)
     * [How to use the Fixed-Term Staking option](products/crop-silos/waya-silo/fixed-term-staking.md)
@@ -60,14 +65,14 @@
 
 ## Basic Knowledge
 
-* [💸 Blockchain](basic-knowledge/blockchain/README.md)
+* [Blockchain](basic-knowledge/blockchain/README.md)
   * [What is Blockchain?](reference/blockchain/intro.md)
   * [What Is a Decentralized Wallet?](reference/blockchain/descentralized\_wallet.md)
   * [What Is the Private key, Mnemonic and Wallet Password ?](reference/blockchain/what\_is\_private\_key.md)
   * [What Is the Miner Fee?](reference/blockchain/what\_is\_miner\_fee.md)
   * [What Is DeFi?](reference/blockchain/what\_is\_defi.md)
   * [What Is DEX?](reference/blockchain/what\_is\_dex.md)
-* [🔐 Security](basic-knowledge/security/README.md)
+* [Security](basic-knowledge/security/README.md)
   * [Prevention](reference/security/security\_prevention.md)
     * [Loss Prevention](reference/security/prevention/loss\_prevention.md)
     * [Theft Prevention](reference/security/prevention/theft\_prevention.md)

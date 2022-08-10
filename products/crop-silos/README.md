@@ -1,6 +1,6 @@
-# 💰 Crop Silos
+# 🍯 Crop Silos
 
-![](../../.gitbook/assets/GAYA-poos-header.png)
+![](../../.gitbook/assets/Crop\_Silos.png)
 
 ### **What are Crop Silos?**
 

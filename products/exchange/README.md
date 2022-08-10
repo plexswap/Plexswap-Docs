@@ -1,6 +1,6 @@
 # 🔄 Exchange
 
-![](../../.gitbook/assets/PlexSwap-exchange-header.png)
+![](../../.gitbook/assets/Automated\_Farm.png)
 
 PlexSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of PlexSwap. PlexSwap is the leading AMM on the BNB Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
 
@@ -19,4 +19,3 @@ Providing liquidity will get you LP Tokens, which will earn you rewards in the f
 ### Yield Farming
 
 Yield farming lets users that are providing liquidity earn WAYA rewards by locking their LP tokens into a smart contract. The incentive is to balance out the risk of [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) that comes along with locking in your liquidity.
-
