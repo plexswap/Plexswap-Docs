@@ -11,8 +11,7 @@
 * [Click Here for Help](help/README.md)
   * [Troubleshooting Errors](help/troubleshooting.md)
   * [General FAQ](help/faq.md)
-  * [Fixing Stuck Pending Transactions on MetaMask](help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
-* [Contact Us](contact-us/README.md)
+ * [Contact Us](contact-us/README.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
@@ -31,7 +30,6 @@
     * [Limit Orders FAQ](products/exchange/limit-orders/limit-orders-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
-  * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [💰 Crop Silos](products/crop-silos/README.md)
   * [WAYA Silo](products/crop-silos/waya-silo/README.md)
     * [How to use the Flexible Staking option](products/crop-silos/waya-silo/flexible-staking.md)
@@ -41,8 +39,7 @@
     * [Crop Silos FAQ & Troubleshooting](products/crop-silos/other-silos/crop-silos-faq.md)
 * [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
-  * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
-
+ 
 ## Tokenomics
 
 * [WAYA](tokenomics/waya/README.md)
