@@ -48,15 +48,15 @@
 
 ## Developers
 
-* [📀 Codebase Overview](developers/contributing/codebase-overview.md)
-* [📝 Smart Contracts](developers/smart-contracts/README.md)
+* 📀 [Codebase Overview](developers/contributing/codebase-overview.md)
+* 📝 [Smart Contracts](developers/smart-contracts/README.md)
   * [PlexSwap Exchange](developers/smart-contracts/plexswap-exchange/README.md)
     * [Factory](developers/smart-contracts/plexswap-exchange/factory.md)
     * [Router](developers/smart-contracts/plexswap-exchange/router.md)
   * [Most Important Farmers](developers/smart-contracts/most-important-farmers.md)
   * [WAYA Silo](developers/smart-contracts/waya-vault.md)
   * [Auto WAYA Silo](developers/smart-contracts/waya-high-vault.md)
-* [ :handshake:  Contributing](developers/contributing/README.md)
+* [🤝 Contributing](developers/contributing/README.md)
 
 ## Basic Knowledge
 
@@ -67,7 +67,7 @@
   * [What Is the Miner Fee?](reference/blockchain/what\_is\_miner\_fee.md)
   * [What Is DeFi?](reference/blockchain/what\_is\_defi.md)
   * [What Is DEX?](reference/blockchain/what\_is\_dex.md)
-* [🔐Security](basic-knowledge/security/README.md)
+* [🔐 Security](basic-knowledge/security/README.md)
   * [Prevention](reference/security/security\_prevention.md)
     * [Loss Prevention](reference/security/prevention/loss\_prevention.md)
     * [Theft Prevention](reference/security/prevention/theft\_prevention.md)
