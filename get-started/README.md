@@ -1,4 +1,4 @@
-# Get Started
+# 🎬   Get Started
 
 ![](../.gitbook/assets/Get\_Started.png)
 

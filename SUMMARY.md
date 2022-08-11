@@ -2,8 +2,8 @@
 
 ## Plexswap
 
-* [PlexSwap Intro](README.md)
-* [Get Started](get-started/README.md)
+* [ℹ️   PlexSwap Intro](README.md)
+* [🎬   Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
   * [Using PlexSwap without Centralized Exchanges](get-started/using-plexswap.md)
@@ -15,9 +15,9 @@
 * [Business Partnerships](contact-us/business-partnerships.md)
 * [Customer Support](contact-us/customer-support.md)
 * [Social Accounts & Communities](contact-us/telegram.md)
-* [The Farm Workers](plexswap/farm-workers.md)
-* [Next Steps](plexswap/next-steps.md)
-* [Brand & Logos](plexswap/brand.md)
+* [🧑‍🤝‍🧑   The Farm Workers](plexswap/farm-workers.md)
+* [⏭️   Next Steps](plexswap/next-steps.md)
+* [©️   Brand & Logos](plexswap/brand.md)
 
 ## Products
 
