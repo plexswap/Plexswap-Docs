@@ -109,6 +109,7 @@ You can harvest your Farm and Crop Silo rewards together from the Home page. If 
 To collect your rewards, you’ll need to visit your chosen Farm and collect the WAYA waiting for you.
 
 :one:  Return to the Farms page [here](https://swap.plexfinance.us/farms).
+
 :two:  Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Waya earned”.
 
 ![](../../.gitbook/assets/plex-farms-harvest-button.png)
