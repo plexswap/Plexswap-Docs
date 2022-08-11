@@ -22,9 +22,9 @@ The following PlexSwap "Brand Assets" are copyrighted material, and you may only
 
 You may use PlexSwap's Brand Assets when you are:
 
-* 👌 Referring to our products and services
-* 👌 Linking to our official site or products, such as "Trade our token on PlexSwap"
-* 👌 Announcing an official partnership, but only if you have **official approval** by a qualified member of the PlexSwap team
+* 🆗 Referring to our products and services
+* 🆗 Linking to our official site or products, such as "Trade our token on PlexSwap"
+* 🆗 Announcing an official partnership, but only if you have **official approval** by a qualified member of the PlexSwap team
 
 For information on other uses of our Brand Assets, please reach out at development@symplexia.com
 
