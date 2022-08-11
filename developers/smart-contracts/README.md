@@ -1,4 +1,4 @@
-# Smart Contracts
+# 📝   Smart Contracts
 
 This page provides links or locations for PlexSwap's smart contracts.
 
@@ -19,8 +19,8 @@ Each Farm used by PlexSwap has its own smart contract. Follow the steps below to
 
 1. Go to the [PlexSwap Farms page](https://swap.plexfinance.us/farms) and click the row of the Farm you want to see the contract for.
 
-![](../../.gitbook/assets/farms_contracts.png)
+![](../../.gitbook/assets/plex-farms-contracts.png)
 
 1. When the details section expands out, click the **View Contract** link on the left to open the contract in BscScan.
 
-![](../../.gitbook/assets/view_contract.png)
+![](../../.gitbook/assets/view\_contract.png)
