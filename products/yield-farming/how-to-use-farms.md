@@ -55,11 +55,11 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 ### Putting your LP Tokens into the Farm
 
-1.  Go back to the [Farms page](https://swap.plexfinance.us/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
+:one:  Go back to the [Farms page](https://swap.plexfinance.us/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
 
 ![](../../.gitbook/assets/plex-farms-enable.png)
 
-2.  When you’re ready, click the **Enable** button and confirm your action in your wallet.
+:two:  When you’re ready, click the **Enable** button and confirm your action in your wallet.
 
 3.  After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
 
