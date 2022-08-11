@@ -13,7 +13,6 @@
   * [General FAQ](help-support/faq.md)
   * [Customer Support](help-support/customer-support.md)
 * [📬 Contact Us](contact-us/README.md)
-  * [Social Accounts & Communities](contact-us/social-accounts-and-communities.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [The Farm Workers](contact-us/farm-workers.md)
 * [🆕 Next Steps](plexswap/next-steps.md)
