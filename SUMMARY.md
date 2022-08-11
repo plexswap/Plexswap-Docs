@@ -8,7 +8,6 @@
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
   * [Using PlexSwap without Centralized Exchanges](get-started/using-plexswap.md)
   * [Connect Your Wallet to PlexSwap](get-started/connection-guide.md)
-<<<<<<< HEAD
 * [Help & Support](help-support/README.md)
   * [Troubleshooting Errors](help-support/troubleshooting.md)
   * [General FAQ](help-support/faq.md)
@@ -19,18 +18,6 @@
 * [The Farm Workers](plexswap/farm-workers.md)
 * [Next Steps](plexswap/next-steps.md)
 * [Brand & Logos](plexswap/brand.md)
-=======
-* [Click Here for Help](help/README.md)
-  * [Troubleshooting Errors](help/troubleshooting.md)
-  * [General FAQ](help/faq.md)
-* [Contact Us](contact-us/README.md)
-* [Business Partnerships](contact-us/business-partnerships.md)
-* [Customer Support](contact-us/customer-support.md)
-* [Social Accounts & Communities](contact-us/telegram.md)
-* [👨‍🌾  The Farm Workers](plexswap/farm-workers.md)
-* [⏭️   Next Steps](plexswap/next-steps.md)
-* [©️   Brand & Logos](plexswap/brand.md)
->>>>>>> bd9c8bb7dfe86881e2358a8e38f254fabc01730a
 
 ## Products
 
