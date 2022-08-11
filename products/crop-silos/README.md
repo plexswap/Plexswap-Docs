@@ -1,4 +1,4 @@
-# 🍯 Crop Silos
+# Crop Silos
 
 ![](../../.gitbook/assets/Crop\_Silos.png)
 
