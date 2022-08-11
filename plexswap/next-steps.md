@@ -2,7 +2,7 @@
 description: '"Don''t call it a roadmap"'
 ---
 
-# Next Steps
+# 🆕 ⏭️ Next Steps
 
 ![](../.gitbook/assets/roadmap-header.png)
 

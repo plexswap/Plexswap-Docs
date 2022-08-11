@@ -1,4 +1,4 @@
-# PlexSwap Intro
+# ℹ PlexSwap Intro
 
 ![Where the Crops Begin](.gitbook/assets/Where\_the\_Crops\_Begin-II.png)
 
