@@ -60,7 +60,7 @@
 
 ## Basic Knowledge
 
-* [⛓️   Blockchain](basic-knowledge/blockchain/README.md)
+* [🔗   Blockchain](basic-knowledge/blockchain/README.md)
   * [What is Blockchain?](reference/blockchain/intro.md)
   * [What Is a Decentralized Wallet?](reference/blockchain/descentralized\_wallet.md)
   * [What Is the Private key, Mnemonic and Wallet Password ?](reference/blockchain/what\_is\_private\_key.md)
