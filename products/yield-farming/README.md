@@ -4,9 +4,7 @@
 
 Yield Farms allow users to earn WAYA while supporting PlexSwap by staking LP Tokens.
 
-Check out our [How to Use Farms guide](https://docs.plexswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
-
-Learn [how to find Farm smart contracts](./)
+Check out our [How to Use Farms](https://docs.plexfinance.us/products/yield-farming/how-to-use-farms) guide to get started with farming.
 
 {% hint style="warning" %}
 Yield farming can give better rewards than Crop Silos, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
