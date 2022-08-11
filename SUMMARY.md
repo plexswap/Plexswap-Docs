@@ -48,8 +48,8 @@
 
 ## Developers
 
-* 📀 [Codebase Overview](developers/contributing/codebase-overview.md)
-* 📝 [Smart Contracts](developers/smart-contracts/README.md)
+* 📀[ Codebase Overview](developers/contributing/codebase-overview.md)
+* 📝[ Smart Contracts](developers/smart-contracts/README.md)
   * [PlexSwap Exchange](developers/smart-contracts/plexswap-exchange/README.md)
     * [Factory](developers/smart-contracts/plexswap-exchange/factory.md)
     * [Router](developers/smart-contracts/plexswap-exchange/router.md)
