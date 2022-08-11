@@ -1,4 +1,4 @@
-# 📝   Smart Contracts
+# Smart Contracts
 
 This page provides links or locations for PlexSwap's smart contracts.
 

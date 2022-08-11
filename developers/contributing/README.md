@@ -1,4 +1,4 @@
-# 🤝   Contributing
+# Contributing
 
 PlexSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the PlexSwap team.
 
