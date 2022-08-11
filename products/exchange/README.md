@@ -1,4 +1,4 @@
-# 🚜   Exchange
+# 🔄   Exchange
 
 ![](../../.gitbook/assets/Automated\_Farm.png)
 

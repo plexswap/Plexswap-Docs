@@ -2,7 +2,7 @@
 description: Find your way on Plexswap Github
 ---
 
-# Codebase Overview
+# 📀   Codebase Overview
 
 ## Introduction
 
