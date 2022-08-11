@@ -56,7 +56,7 @@
   * [Most Important Farmers](developers/smart-contracts/most-important-farmers.md)
   * [WAYA Silo](developers/smart-contracts/waya-vault.md)
   * [Auto WAYA Silo](developers/smart-contracts/waya-high-vault.md)
-* [🤝 Contributing](developers/contributing/README.md)
+* [ :handshake:  Contributing](developers/contributing/README.md)
 
 ## Basic Knowledge
 
