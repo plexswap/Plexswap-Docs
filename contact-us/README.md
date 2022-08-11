@@ -1,4 +1,4 @@
-# 📧   Contact Us
+# 📬 Contact Us
 
 ![](../.gitbook/assets/contact-us-header.png)
 

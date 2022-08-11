@@ -2,22 +2,35 @@
 
 ## Plexswap
 
+<<<<<<< HEAD
 * [ℹ️ PlexSwap Intro](README.md)
+=======
+* [ℹ PlexSwap Intro](README.md)
+>>>>>>> 360bbb9b3b4cee29ef304d77aa1162598507736a
 * [🎬 Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
   * [Using PlexSwap without Centralized Exchanges](get-started/using-plexswap.md)
   * [Connect Your Wallet to PlexSwap](get-started/connection-guide.md)
-* [Help & Support](help-support/README.md)
+* [🆘 Help & Support](help-support/README.md)
   * [Troubleshooting Errors](help-support/troubleshooting.md)
   * [General FAQ](help-support/faq.md)
   * [Customer Support](help-support/customer-support.md)
+<<<<<<< HEAD
 * [📧 Contact Us](contact-us/README.md)
   * [Social Accounts & Communities](contact-us/social-accounts-and-communities.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [The Farm Workers](contact-us/farm-workers.md)
 * [⏭️ Next Steps](plexswap/next-steps.md)
 * [©️   Brand & Logos](plexswap/brand.md)
+=======
+* [📬 Contact Us](contact-us/README.md)
+  * [Social Accounts & Communities](contact-us/social-accounts-and-communities.md)
+  * [Business Partnerships](contact-us/business-partnerships.md)
+  * [The Farm Workers](contact-us/farm-workers.md)
+* [🆕 ⏭️ Next Steps](plexswap/next-steps.md)
+* [© ©️ Brand & Logos](plexswap/brand.md)
+>>>>>>> 360bbb9b3b4cee29ef304d77aa1162598507736a
 
 ## Products
 
@@ -37,7 +50,7 @@
     * [WAYA Silo FAQ](products/crop-silos/waya-silo/waya-silo-faq.md)
   * [Other Crop Silos](products/crop-silos/other-silos/README.md)
     * [Crop Silos FAQ & Troubleshooting](products/crop-silos/other-silos/crop-silos-faq.md)
-* [🗳️ Voting](products/voting/README.md)
+* [🗳 🗳️ Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
 
 ## TECHNICAL SPECS
@@ -49,7 +62,11 @@
 ## Developers
 
 * [📀 Codebase Overview](developers/contributing/codebase-overview.md)
+<<<<<<< HEAD
 * [📝 Smart Contracts](developers/smart-contracts/README.md)
+=======
+* [📜 Smart Contracts](developers/smart-contracts/README.md)
+>>>>>>> 360bbb9b3b4cee29ef304d77aa1162598507736a
   * [PlexSwap Exchange](developers/smart-contracts/plexswap-exchange/README.md)
     * [Factory](developers/smart-contracts/plexswap-exchange/factory.md)
     * [Router](developers/smart-contracts/plexswap-exchange/router.md)
@@ -60,7 +77,11 @@
 
 ## Basic Knowledge
 
+<<<<<<< HEAD
 * [🔗 Blockchain](basic-knowledge/blockchain/README.md)
+=======
+* [⛓ Blockchain](basic-knowledge/blockchain/README.md)
+>>>>>>> 360bbb9b3b4cee29ef304d77aa1162598507736a
   * [What is Blockchain?](reference/blockchain/intro.md)
   * [What Is a Decentralized Wallet?](reference/blockchain/descentralized\_wallet.md)
   * [What Is the Private key, Mnemonic and Wallet Password ?](reference/blockchain/what\_is\_private\_key.md)
