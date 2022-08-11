@@ -26,7 +26,7 @@
   * [How to Trade](products/exchange/trade-guide.md)
   * [Liquidity Pools](products/exchange/liquidity-pools.md)
   * [How to Add/Remove Liquidity](products/exchange/liquidity-guide.md)
-  * [📝Limit Orders](products/exchange/limit-orders/README.md)
+  * [Limit Orders](products/exchange/limit-orders/README.md)
     * [Limit Orders FAQ](products/exchange/limit-orders/limit-orders-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
@@ -49,7 +49,7 @@
 ## Developers
 
 * [📀 Codebase Overview](developers/contributing/codebase-overview.md)
-* [📄 Smart Contracts](developers/smart-contracts/README.md)
+* [📝 Smart Contracts](developers/smart-contracts/README.md)
   * [PlexSwap Exchange](developers/smart-contracts/plexswap-exchange/README.md)
     * [Factory](developers/smart-contracts/plexswap-exchange/factory.md)
     * [Router](developers/smart-contracts/plexswap-exchange/router.md)
