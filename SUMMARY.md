@@ -37,7 +37,7 @@
     * [WAYA Silo FAQ](products/crop-silos/waya-silo/waya-silo-faq.md)
   * [Other Crop Silos](products/crop-silos/other-silos/README.md)
     * [Crop Silos FAQ & Troubleshooting](products/crop-silos/other-silos/crop-silos-faq.md)
-* [🗳 🗳️ Voting](products/voting/README.md)
+* [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
 
 ## TECHNICAL SPECS
