@@ -1,4 +1,4 @@
-# 🗳   Voting
+# 🗳️   Voting
 
 ![](../../.gitbook/assets/voting-header.png)
 
