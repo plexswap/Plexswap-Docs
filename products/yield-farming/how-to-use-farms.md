@@ -61,17 +61,17 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 :two:  When you’re ready, click the **Enable** button and confirm your action in your wallet.
 
-3.  After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
+:three:  After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
 
 ![](../../.gitbook/assets/plex-farms-stake-lp-button-stake.png)
 
-4.  Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
+:four:  Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
 
-5.  When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
+:five:  When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
 
 ![](../../.gitbook/assets/plex-farms-stake-lp-button-confirm.png)
 
-*  After a short wait, the window will close, and you will see your new staked LP Token balance in the details.
+:six:  After a short wait, the window will close, and you will see your new staked LP Token balance in the details.
 
 ![](../../.gitbook/assets/plex-farms-stake-lp-confirmed.png)  
 
@@ -79,21 +79,21 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 You may decide you would like to add more LP Tokens to a Farm at a later date, or to take some out of a Farm. You can do this very easily whenever you'd like.
 
-*  Return to the [Yield Farms page](https://swap.plexfinance.us/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
+:one:  Return to the [Yield Farms page](https://swap.plexfinance.us/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
 
 ![](<../../.gitbook/assets/plex-farms-staked-only.png>)
 
 You should now only see the pairs you have LP Tokens in on the list, making it easier to find your Farm.
 
-*  Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
+:two:  Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
 
 ![](../../.gitbook/assets/plex-farms-stake-options.png)
 
-*  A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
+:three:  A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
 
 ![](../../.gitbook/assets/plex-farms-unstake.png)
 
-*  Make sure your information is correct. When you are ready, click the **Confirm** button and confirm the action in your wallet.
+:four:  Make sure your information is correct. When you are ready, click the **Confirm** button and confirm the action in your wallet.
 
 After a short wait, your new balance will show in the details section of your LP Token pair. If you've unstaked your LP Tokens, any unharvested rewards you had will automatically have been collected.
 
@@ -107,12 +107,12 @@ You can harvest your Farm and Crop Silo rewards together from the Home page. If 
 
 To collect your rewards, you’ll need to visit your chosen Farm and collect the WAYA waiting for you.
 
-*  Return to the Farms page [here](https://swap.plexfinance.us/farms).
-*  Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Waya earned”.
+:one:  Return to the Farms page [here](https://swap.plexfinance.us/farms).
+:two:  Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Waya earned”.
 
 ![](../../.gitbook/assets/plex-farms-harvest-button.png)
 
-*  Click the **Harvest** button and confirm the action in your wallet. After a short wait, the WAYA will be claimed to your wallet for you to use as you like.
+:three:  Click the **Harvest** button and confirm the action in your wallet. After a short wait, the WAYA will be claimed to your wallet for you to use as you like.
 
 ### How often should I harvest my rewards?
 
