@@ -15,7 +15,7 @@
 * [Business Partnerships](contact-us/business-partnerships.md)
 * [Customer Support](contact-us/customer-support.md)
 * [Social Accounts & Communities](contact-us/telegram.md)
-* [🧑‍🤝‍🧑   The Farm Workers](plexswap/farm-workers.md)
+* [👨‍🌾  The Farm Workers](plexswap/farm-workers.md)
 * [⏭️   Next Steps](plexswap/next-steps.md)
 * [©️   Brand & Logos](plexswap/brand.md)
 
