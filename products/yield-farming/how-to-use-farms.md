@@ -43,6 +43,7 @@ When you find a Farm that you'd like to use, note down the trading pair, e.g. BN
 Now that you've found a Farm to stake in, you will need to add liquidity to get your LP Tokens.
 
 :one:  Click on the row of the Farm you've chosen from the list. It will open to show more details.
+
 :two:  On the left, you'll see some links. Click the **Get (your pair) LP** link.
 
 ![](../../.gitbook/assets/plex-farms-get-liquidity.png)
