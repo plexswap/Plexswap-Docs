@@ -12,7 +12,7 @@
   * [Troubleshooting Errors](help-support/troubleshooting.md)
   * [General FAQ](help-support/faq.md)
   * [Customer Support](help-support/customer-support.md)
- * [Contact Us](contact-us/README.md)
+* [Contact Us](contact-us/README.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
 * [The Farm Workers](plexswap/farm-workers.md)
