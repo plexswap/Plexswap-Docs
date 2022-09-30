@@ -196,9 +196,9 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](../.gitbook/assets/plex-connect-wallet.png)
 
-1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top option on the list).
+1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top-left option on the list).
 
-![](../.gitbook/assets/plex-connect-wallet-metamask.png)
+![](../.gitbook/assets/plex-connect-wallet-generic.png)
 
 **Resources**
 
@@ -219,9 +219,9 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](../.gitbook/assets/plex-connect-wallet.png)
 
-1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's farther down the list).
+1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's the top-right option on the list).
 
-![](../.gitbook/assets/plex-connect-wallet-binance.png)
+![](../.gitbook/assets/plex-connect-wallet-generic.png)
 
 **Resources**
 
@@ -239,8 +239,8 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 3. Binance Smart Chain will now be your Default Network.
 4. Visit the[ ](https://plexswap.finance)[PlexSwap.finance](https://plexswap.finance), In the top right corner you'll see the **Connect** button. Click it.\
    ![](../.gitbook/assets/cb-desktop-3.png)
-5. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (it's the top option on the list).\
-   ![](../.gitbook/assets/cb-desktop-4.png)
+5. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (It's the first of the second line).\
+   ![](../.gitbook/assets/plex-connect-wallet-generic.png)
 
 **Resources**
 
