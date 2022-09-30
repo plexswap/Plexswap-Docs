@@ -221,7 +221,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's farther down the list).
 
-![](<../.gitbook/assets/image (89).png>)
+![](../.gitbook/assets/plex-connect-wallet-binance.png)
 
 **Resources**
 
