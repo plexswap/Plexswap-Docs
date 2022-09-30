@@ -2,7 +2,7 @@
 
 ## Plexswap
 
-* [PlexSwap Intro](README.md)
+* [ℹ PlexSwap Intro](README.md)
 * [🎬 Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
@@ -16,7 +16,7 @@
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [The Farm Workers](contact-us/farm-workers.md)
 * [🆕 Next Steps](plexswap/next-steps.md)
-* [Brand & Logos](plexswap/brand.md)
+* [© Brand & Logos](plexswap/brand.md)
 
 ## Products
 

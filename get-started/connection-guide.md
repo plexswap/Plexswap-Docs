@@ -47,7 +47,7 @@ Read the [Trust Wallet guide to connecting to PlexSwap via WalletConnect](https:
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/metamask\_850 (1) (1) (1) (1) (1) (1) (4).png>)
+![](<../.gitbook/assets/metamask\_850 (1) (1) (1) (1) (1) (1) (1) (3).png>)
 
 To connect MetaMask to PlexSwap follow the steps below.
 
@@ -93,7 +93,7 @@ To connect MetaMask to PlexSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (1) (1) (5).png>)
+![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (1) (1) (1) (7).png>)
 
 1. Open Coinbase Wallet and tap on the **settings icon** in the bottom-right.\
    ![](../.gitbook/assets/CB-M-p1.png)\
@@ -118,7 +118,7 @@ To connect MetaMask to PlexSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/tokenpocket\_850 (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/tokenpocket\_850 (1) (1) (1) (1) (1) (1) (1) (8).png>)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -142,7 +142,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](../.gitbook/assets/safepal\_850.png)
+![](<../.gitbook/assets/safepal\_850 (1).png>)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
 
@@ -170,7 +170,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/metamask\_850 (1) (1) (1) (1) (1) (1) (4).png>)
+![](<../.gitbook/assets/metamask\_850 (1) (1) (1) (1) (1) (1) (1) (3).png>)
 
 **Chrome and Firefox**
 
@@ -217,7 +217,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. Visit the PlexSwap website. In the top-right, click **Connect**.
 
-![](../.gitbook/assets/image%20\(164\)%20\(3\)%20\(3\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(2\).png)
+![](../.gitbook/assets/plex-connect-wallet.png)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's farther down the list).
 
@@ -230,7 +230,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (1) (1) (5).png>)
+![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (1) (1) (1) (7).png>)
 
 1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
    ![](../.gitbook/assets/cb-desktop-1.png)
@@ -250,7 +250,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/tokenpocket\_850 (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/tokenpocket\_850 (1) (1) (1) (1) (1) (1) (1) (8).png>)
 
 **Desktop Application**
 
