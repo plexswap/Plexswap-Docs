@@ -194,11 +194,11 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. Visit the [PlexSwap website](https://plexswap.finance). In the top right corner you'll see the **Connect** button. Click it.
 
-![](../.gitbook/assets/image%20\(164\)%20\(3\)%20\(3\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(1\)%20\(2\).png)
+![](../.gitbook/assets/plex-connect-wallet.png)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top option on the list).
 
-![](<../.gitbook/assets/image (87).png>)
+![](../.gitbook/assets/plex-connect-wallet-metamask.png)
 
 **Resources**
 
