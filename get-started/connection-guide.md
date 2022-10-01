@@ -25,11 +25,15 @@ Check out the steps below for how to connect each of our recommended wallets to 
 **Block Explorer URL (optional):** [http://bscscan.com](http://bscscan.com)
 
 ![](<../.gitbook/assets/image (85).png>)
+
 3. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.\
 ![](<../.gitbook/assets/image (86).png>)
+
 4. Visit the [PlexSwap website](https://plexswap.finance). In the top right corner you'll see the **Connect** button. Click it.\
 ![](../.gitbook/assets/plex-connect-wallet.png)
+
 5. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top-left option on the list).
+6. 
 ![](../.gitbook/assets/plex-connect-wallet-generic.png)
 
 **Resources**
