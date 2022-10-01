@@ -53,7 +53,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **BNB Smart Chain** from the list.
 
-![](<../.gitbook/assets/image (88).png>)
+![](../.gitbook/assets/plex-connect-wallet-binance-II.png)
 
 2. Visit the PlexSwap website. In the top-right, click **Connect**.
 
