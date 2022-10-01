@@ -18,7 +18,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 ![](<../.gitbook/assets/image (84).png>)
 
-1. A window will open. Type in the details below.
+2. A window will open. Type in the details below.
 
 **Network Name:** BNB Smart Chain\
 **New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
@@ -28,15 +28,15 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 ![](<../.gitbook/assets/image (85).png>)
 
-1. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.
+3. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.
 
 ![](<../.gitbook/assets/image (86).png>)
 
-1. Visit the [PlexSwap website](https://plexswap.finance). In the top right corner you'll see the **Connect** button. Click it.
+4. Visit the [PlexSwap website](https://plexswap.finance). In the top right corner you'll see the **Connect** button. Click it.
 
 ![](../.gitbook/assets/plex-connect-wallet.png)
 
-1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top-left option on the list).
+5. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top-left option on the list).
 
 ![](../.gitbook/assets/plex-connect-wallet-generic.png)
 
@@ -55,11 +55,11 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 ![](<../.gitbook/assets/image (88).png>)
 
-1. Visit the PlexSwap website. In the top-right, click **Connect**.
+2. Visit the PlexSwap website. In the top-right, click **Connect**.
 
 ![](../.gitbook/assets/plex-connect-wallet.png)
 
-1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's the top-right option on the list).
+3. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's the top-right option on the list).
 
 ![](../.gitbook/assets/plex-connect-wallet-generic.png)
 
