@@ -16,7 +16,7 @@
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [The Farm Workers](contact-us/farm-workers.md)
 * [🆕 Next Steps](plexswap/next-steps.md)
-* [© © © Brand & Logos](plexswap/brand.md)
+* [© © © © Brand & Logos](plexswap/brand.md)
 
 ## Products
 
