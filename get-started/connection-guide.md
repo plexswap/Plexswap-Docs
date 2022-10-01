@@ -17,12 +17,12 @@ Check out the steps below for how to connect each of our recommended wallets to 
 1. Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.\
 ![](<../.gitbook/assets/image (84).png>)
 
-2. A window will open. Type in the details below.\
+2. A window will open. Type in the details below.
 
-**Network Name:** BNB Smart Chain\
-**New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
-**Chain ID:** 56\
-**Currency Symbol (optional):** BNB\
+**Network Name:** BNB Smart Chain
+**New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)
+**Chain ID:** 56
+**Currency Symbol (optional):** BNB
 **Block Explorer URL (optional):** [http://bscscan.com](http://bscscan.com)\
 ![](<../.gitbook/assets/image (85).png>)
 
