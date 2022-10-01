@@ -72,15 +72,15 @@ Check out the steps below for how to connect each of our recommended wallets to 
 {% tab title="Coinbase Wallet" %}
 ![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (1) (1) (1) (7).png>)
 
-1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
-   ![](../.gitbook/assets/plex-connect-wallet-coinbase-I.png)
-2. Click on **Default Network** and choose **Binance Smart Chain**\
-   ![](../.gitbook/assets/plex-connect-wallet-coinbase-III.png)
-3. Binance Smart Chain will now be your Default Network.
-4. Visit the[ ](https://plexswap.finance)[PlexSwap.finance](https://plexswap.finance), In the top right corner you'll see the **Connect** button. Click it.\
+1. Visit the[ ](https://plexswap.finance)[PlexSwap.finance](https://plexswap.finance), In the top right corner you'll see the **Connect** button. Click it.\
    ![](../.gitbook/assets/cb-desktop-3.png)
-5. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (It's the first of the second line).\
+2. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (It's the first of the second line).\
    ![](../.gitbook/assets/plex-connect-wallet-generic.png)
+3. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
+   ![](../.gitbook/assets/plex-connect-wallet-coinbase-I.png)
+4. Click on **Default Network** and choose **Binance Smart Chain**\
+   ![](../.gitbook/assets/plex-connect-wallet-coinbase-III.png)
+5. Binance Smart Chain will now be your Default Network.
 
 **Resources**
 
