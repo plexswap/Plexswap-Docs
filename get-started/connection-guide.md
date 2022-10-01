@@ -22,7 +22,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 **New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
 **Chain ID:** 56\
 **Currency Symbol (optional):** BNB\
-**Block Explorer URL (optional):** [http://bscscan.com](http://bscscan.com)
+**Block Explorer URL (optional):** [http://bscscan.com](http://bscscan.com)\
 
 ![](<../.gitbook/assets/image (85).png>)
 
@@ -33,7 +33,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 ![](../.gitbook/assets/plex-connect-wallet.png)
 
 5. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top-left option on the list).
-6. 
+
 ![](../.gitbook/assets/plex-connect-wallet-generic.png)
 
 **Resources**
