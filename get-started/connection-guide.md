@@ -23,7 +23,6 @@ Check out the steps below for how to connect each of our recommended wallets to 
 **Chain ID:** 56\
 **Currency Symbol (optional):** BNB\
 **Block Explorer URL (optional):** [http://bscscan.com](http://bscscan.com)\
-\
 ![](<../.gitbook/assets/image (85).png>)
 \
 3. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.\
