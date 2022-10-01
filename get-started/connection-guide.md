@@ -76,11 +76,9 @@ Check out the steps below for how to connect each of our recommended wallets to 
    ![](../.gitbook/assets/cb-desktop-3.png)
 2. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (It's the first of the second line).\
    ![](../.gitbook/assets/plex-connect-wallet-generic.png)
-3. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
-   ![](../.gitbook/assets/plex-connect-wallet-coinbase-I.png)
-4. Click on **Default Network** and choose **Binance Smart Chain**\
+3. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network. Click on **Binance Smart Chain** to change the **Default Network**\
    ![](../.gitbook/assets/plex-connect-wallet-coinbase-III.png)
-5. Binance Smart Chain will now be your Default Network.
+4. Binance Smart Chain will now be your Default Network.
 
 **Resources**
 
