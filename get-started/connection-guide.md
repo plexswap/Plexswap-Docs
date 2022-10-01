@@ -14,11 +14,11 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 **Chrome and Firefox**
 
-1. Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.
+1. Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.\
 
 ![](<../.gitbook/assets/image (84).png>)
 
-2. A window will open. Type in the details below.
+2. A window will open. Type in the details below.\
 
 **Network Name:** BNB Smart Chain\
 **New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
@@ -28,11 +28,11 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 ![](<../.gitbook/assets/image (85).png>)
 
-3. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.
+3. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.\
 
 ![](<../.gitbook/assets/image (86).png>)
 
-4. Visit the [PlexSwap website](https://plexswap.finance). In the top right corner you'll see the **Connect** button. Click it.
+4. Visit the [PlexSwap website](https://plexswap.finance). In the top right corner you'll see the **Connect** button. Click it.\
 
 ![](../.gitbook/assets/plex-connect-wallet.png)
 
@@ -51,11 +51,11 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 **Chrome and Firefox**
 
-1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **BNB Smart Chain** from the list.
+1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **BNB Smart Chain** from the list.\
 
 ![](../.gitbook/assets/plex-connect-wallet-binance-II.png)
 
-2. Visit the PlexSwap website. In the top-right, click **Connect**.
+2. Visit the PlexSwap website. In the top-right, click **Connect**.\
 
 ![](../.gitbook/assets/plex-connect-wallet.png)
 
@@ -92,8 +92,8 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 **Desktop Application**
 
-1. When you open the application, DApps should be the default page (if not, click to the DApps page).
-2. Half way down the page you'll see a list of networks to choose from. Click **BSC**.
+1. When you open the application, DApps should be the default page (if not, click to the DApps page).\
+2. Half way down the page you'll see a list of networks to choose from. Click **BSC**.\
 
 ![](<../.gitbook/assets/image (90).png>)
 
