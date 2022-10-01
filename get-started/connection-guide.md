@@ -33,6 +33,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 ![](../.gitbook/assets/plex-connect-wallet.png)
 
 5. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top-left option on the list).
+   
 ![](../.gitbook/assets/plex-connect-wallet-generic.png)
 
 **Resources**
