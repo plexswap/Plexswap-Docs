@@ -89,7 +89,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 ![](<../.gitbook/assets/image (90).png>)
 
-1. On the list of BSC DApps, you'll find PlexSwap links. Click a **PlexSwap** link.
+3. On the list of BSC DApps, you'll find PlexSwap links. Click a **PlexSwap** link.\
 
 ![](<../.gitbook/assets/image (92).png>)
 
@@ -97,7 +97,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 Make sure you don't choose the "PlexSwap data analysis" option. If you do, you will not be able to connect.
 {% endhint %}
 
-1. Your browser will open a PlexSwap tab and attempt to connect to Token Pocket.
+4. Your browser will open a PlexSwap tab and attempt to connect to Token Pocket.
 
 {% hint style="warning" %}
 You will not be able to use both MetaMask and TokenPocket connecting through the same web browser. Make sure you use a web browser without MetaMask plugin installed if you're using TokenPocket on your desktop computer.
