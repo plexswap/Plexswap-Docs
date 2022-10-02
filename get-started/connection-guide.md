@@ -15,17 +15,18 @@ Check out the steps below for how to connect each of our recommended wallets to 
 **Chrome and Firefox**
 
 1. Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.\
-![](<../.gitbook/assets/image (84).png>)
-
+   ![](<../.gitbook/assets/image (84).png>)
 2. A window will open. Type in the details below.\
-![](<../.gitbook/assets/image (85).png>)
-
+   ![](<../.gitbook/assets/image (85).png>)
 3. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.\
    ![](<../.gitbook/assets/image (86).png>)
+<<<<<<< HEAD
 
 4. Visit the [PlexSwap website](https://swap.plexfinance.us). In the top right corner you'll see the **Connect** button. Click it.\
+=======
+4. Visit the [PlexSwap website](https://plexswap.finance). In the top right corner you'll see the **Connect** button. Click it.\
+>>>>>>> 385a0cbc2fee10a118fdcaff5b31f045c4199208
    ![](../.gitbook/assets/plex-connect-wallet.png)
-   
 5. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top-left option on the list).
 
 ![](<../.gitbook/assets/plex-connect-wallet-generic (2).png>)
@@ -71,36 +72,6 @@ Check out the steps below for how to connect each of our recommended wallets to 
 [**Download Coinbase Wallet**](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)[ ](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)(Chrome Only)
 
 [**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-extension)
-{% endtab %}
-
-{% tab title="Token Pocket" %}
-![](<../.gitbook/assets/tokenpocket\_850 (1) (1) (1) (1) (1) (1) (1) (8).png>)
-
-**Desktop Application**
-
-1. When you open the application, DApps should be the default page (if not, click to the DApps page).\\
-2. Half way down the page you'll see a list of networks to choose from. Click **BSC**.\\
-
-![](<../.gitbook/assets/image (90).png>)
-
-1. On the list of BSC DApps, you'll find PlexSwap links. Click a **PlexSwap** link.\\
-
-![](<../.gitbook/assets/image (92).png>)
-
-{% hint style="warning" %}
-Make sure you don't choose the "PlexSwap data analysis" option. If you do, you will not be able to connect.
-{% endhint %}
-
-1. Your browser will open a PlexSwap tab and attempt to connect to Token Pocket.
-
-{% hint style="warning" %}
-You will not be able to use both MetaMask and TokenPocket connecting through the same web browser. Make sure you use a web browser without MetaMask plugin installed if you're using TokenPocket on your desktop computer.
-{% endhint %}
-
-**Resources**
-
-[**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) (MacOS or Win64)\
-**Token Pocket Desktop Setup Guide**
 {% endtab %}
 {% endtabs %}
 
