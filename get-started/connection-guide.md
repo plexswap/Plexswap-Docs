@@ -6,7 +6,7 @@ You've made a wallet and gotten your BEP20 tokens, now you just need to connect 
 
 Check out the steps below for how to connect each of our recommended wallets to PlexSwap.
 
-## **Desktop/Web Browser wallets**
+## **Desktop/Web Browser Wallets**
 
 {% tabs %}
 {% tab title="MetaMask" %}
@@ -23,7 +23,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 3. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.\
    ![](<../.gitbook/assets/image (86).png>)
 
-4. Visit the [PlexSwap website](https://plexswap.finance). In the top right corner you'll see the **Connect** button. Click it.\
+4. Visit the [PlexSwap website](https://swap.plexfinance.us). In the top right corner you'll see the **Connect** button. Click it.\
    ![](../.gitbook/assets/plex-connect-wallet.png)
    
 5. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top-left option on the list).
@@ -43,7 +43,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **BNB Smart Chain** from the list.\
    ![](../.gitbook/assets/plex-connect-wallet-binance-II.png)
-2. Visit the PlexSwap website. In the top-right, click **Connect**.\
+2. Visit the [PlexSwap website](https://swap.plexfinance.us). In the top right corner you'll see the **Connect** button. Click it.\
    ![](../.gitbook/assets/plex-connect-wallet.png)
 3. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's the top-right option on the list).
 
@@ -58,7 +58,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 {% tab title="Coinbase Wallet" %}
 ![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (1) (1) (1) (7).png>)
 
-1. Visit the[ ](https://plexswap.finance)[PlexSwap.finance](https://plexswap.finance), In the top right corner you'll see the **Connect** button. Click it.\
+1. Visit the [PlexSwap website](https://swap.plexfinance.us), In the top right corner you'll see the **Connect** button. Click it.\
    ![](../.gitbook/assets/cb-desktop-3.png)
 2. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (It's the first of the second line).\
    ![](<../.gitbook/assets/plex-connect-wallet-generic (2).png>)
