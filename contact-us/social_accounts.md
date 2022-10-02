@@ -32,21 +32,6 @@ Newly launched on 24th Nov! The below is the only link for our discord server!
 
 * 📣 Announcement Channel ([http://t.me/PlexSwapAnn](http://t.me/PlexSwapAnn))
 * 🥞 English ([http://t.me/PlexSwap](http://t.me/PlexSwap))
-* 🇯🇵 Japanese ([https://t.me/PlexSwapJP](https://t.me/PlexSwapJP))
-* 🇨🇳 Chinese ([http://t.me/PlexSwap\_CN](http://t.me/PlexSwap\_CN))
-* 🇮🇩 Indonesian ([http://t.me/PlexSwapIndonesia](http://t.me/PlexSwapIndonesia))
-* 🇻🇳 Việt Nam ([https://t.me/PlexSwapVN](https://t.me/PlexSwapVN))
-* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PlexSwapES](https://t.me/PlexSwapES))
-* 🇷🇺 Russian ([http://t.me/PlexSwap\_ru](http://t.me/PlexSwap\_ru))
-* 🇧🇷 🇵🇹 Portuguese/Brazilian ([https://t.me/PlexSwapPortuguese](https://t.me/PlexSwapPortuguese))
-* 🇫🇷 French ([https://t.me/PlexSwapfr](https://t.me/PlexSwapfr))
-* 🇮🇹 Italiano ([https://t.me/PlexSwap\_ita](https://t.me/PlexSwap\_ita))
-* 🇹🇷 Türkiye ([https://t.me/PlexSwapturkiye](https://t.me/PlexSwapturkiye))
-* 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PlexSwap\_DE](https://t.me/PlexSwap\_DE))
-* 🇵🇭 Filipino ([https://t.me/PlexSwap\_Ph](https://t.me/PlexSwap\_Ph))
-* 🇬🇪 Georgia ([https://t.me/PlexSwapGeorgia](https://t.me/PlexSwapGeorgia))
-* 🇮🇳 India ([https://t.me/PlexSwapINDIA](https://t.me/PlexSwapINDIA))
-* 😤 Ban Appeal ([https://t.me/plexswapbanappeal](https://t.me/plexswapbanappeal))
 
 {% hint style="danger" %}
 Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
