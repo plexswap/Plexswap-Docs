@@ -49,9 +49,11 @@ Although there is still no independent audit report, there are some aspects that
   * [Plex Pair](https://bscscan.com/address/0x539Df50cf6fc29d560413d669A5Bb78cB342029B#code)
   * [Waya Token](https://bscscan.com/address/0x32d9F70F6eF86718A51021ad269522Abf4CFFE49#code)
   * [Chief Farmer](https://bscscan.com/address/0x4D4408eA016357BB334eAd40F14dcF0dfd164Dbe#code)
-  * [Task Assistant](https://bscscan.com/address/0xfd5044541EFdCf6B6a83e6ecBF3f477C8cEC6433#code)
+  * [Crop Chief Factory](https://bscscan.com/address/0xDa804bEC9260C2131a61A2065879AAFc30261f60#code)
   * [Waya Vault](https://bscscan.com/address/0x7899654d3C4f2eEe352c833BD3aBE67Fb18A4D71#code)
   * [Waya Flexible Vault](https://bscscan.com/address/0xB584cA7F7774EB9a68E60C032C45f0Efe9539AFE#code)
+  * [Farm Booster](https://bscscan.com/address/0x028BE2F4c1562cF1B910049327E63c9D581E5AAA#code)
+  * [Farm Booster Proxy Factory](https://bscscan.com/address/0xe44c3e35330eb1DAe061ab05973Ec40427763ca3E#code)
 
 * Security best practices:
   * All Farmers use multisig for all contracts.
