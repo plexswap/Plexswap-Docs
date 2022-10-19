@@ -16,7 +16,7 @@
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [The Farm Workers](contact-us/farm-workers.md)
 * [🆕 Next Steps](plexswap/next-steps.md)
-* [© Brand & Logos](plexswap/brand.md)
+* [© © Brand & Logos](plexswap/brand.md)
 
 ## Products
 
@@ -29,7 +29,7 @@
     * [Limit Orders FAQ](products/exchange/limit-orders/limit-orders-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
-  * [Farm Yield Boosters](products/yield-farming/bosters/README.md)
+  * [Farm Yield Boosters](products/yield-farming/farm-yield-boosters/README.md)
     * [How to use Boosters?](products/yield-farming/boosters/how-to-use-boosters.md)
     * [FAQ](products/yield-farming/boosters/faq.md)
 * [🌾 Crop Silos](products/crop-silos/README.md)

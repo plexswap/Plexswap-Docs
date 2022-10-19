@@ -1,6 +1,6 @@
 # 🆘 Help & Support
 
-![](../.gitbook/assets/help-area-header.png)
+![](../.gitbook/assets/Help\_Wanted.png)
 
 If you find yourself stuck, if something isn't working like it's meant to, or you're not sure if something has worked or not, this help section may be able to, well, help.
 
