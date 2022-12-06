@@ -4,7 +4,7 @@
 
 PlexSwap now offers a Waya Silo with two staking options: flexible staking or fixed-term staking. Keep reading on to learn more!
 
-![\*Note that actual APY values will vary](../../../.gitbook/assets/waya-silo-enabled1.png)
+![\*Note that actual APY values will vary](../../../.gitbook/assets/locked\_flexible\_I.png)
 
 ## What’s the difference between “Flexible” and “Fixed-Term” staking?
 
