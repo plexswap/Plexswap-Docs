@@ -32,40 +32,34 @@ Read our [How to Stake in Crop Silos guide](https://docs.plexswap.finance/produc
 Staking in Crop Silos and farming with Yield Farming are both ways to earn more WAYA by supporting PlexSwap.
 
 Staking only needs some WAYA to be added to a Crop Silo to earn WAYA or other tokens.\
-[Learn more about Crop Silo staking.](https://docs.plexswap.finance/products/crop-silos)
+[Learn more about Crop Silo staking.](https://docs.plexfinance.us/products/crop-silos)
 
 Farming is more complicated and needs LP Tokens to earn WAYA.\
-[Learn more about Yield Farming.](https://docs.plexswap.finance/products/yield-farming)
+[Learn more about Yield Farming.](https://docs.plexfinance.us/products/yield-farming)
 
 ## How do I farm?
 
-We have a [Yield Farming guide](https://docs.plexswap.finance/products/yield-farming/how-to-use-farms) if you're interested in learning how to farm.
-
-## Where can I view the PlexSwap roadmap?
-
-You can [view our to-do list here, but don't call it a roadmap](https://docs.plexswap.finance/roadmap).
+We have a [Yield Farming guide](https://docs.plexfinance.us/products/yield-farming/how-to-use-farms) if you're interested in learning how to farm.
 
 ## How do I connect my wallet to BNB Smart Chain and PlexSwap?
 
-We have a [Connect Your Wallet to PlexSwap guide](https://docs.plexswap.finance/get-started/connection-guide) covering this in detail.
+We have a [Connect Your Wallet to PlexSwap guide](https://docs.plexfinance.us/plexswap/get-started/connection-guide) covering this in detail.
 
 ## What's the best wallet for PlexSwap?
 
-It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](https://docs.plexswap.finance/get-started/wallet-guide) that's right for you.
+It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](https://docs.plexfinance.us/plexswap/get-started/wallet-guide) that's right for you.
 
 ## Why is my transaction failing?
 
 You can check the status of a transaction on [https://bscscan.com/](https://bscscan.com).
 
-Our [Troubleshooting Errors guide](https://docs.plexswap.finance/help/troubleshooting) may have a solution for your problem if you're having issues.
-
-You can also see our [Fixing Stuck Pending Transactions guide](https://docs.plexswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) if you have a stuck transaction.
+Our [Troubleshooting Errors guide](https://docs.plexfinance.us/plexswap/help-support/troubleshooting) may have a solution for your problem if you're having issues.
 
 ## When will you open more pools?
 
 New Pools are added to PlexSwap frequently. There will always be an announcement before the launch of new pools.
 
-Join the [announcements Telegram group](https://t.me/PlexSwapAnn) to learn about new Pools as early as possible.
+Join the [announcements Telegram group](https://t.me/PlexSwap) to learn about new Pools as early as possible.
 
 ## Did Farm APR calculation change?
 
@@ -79,21 +73,17 @@ Please remember anyone can airdrop tokens to PlexSwap users since every transact
 
 ## Where can I view smart contracts?
 
-Learn how to find smart contracts on our [Finding Contracts page](https://docs.plexswap.finance/developers/smart-contracts).
+Learn how to find smart contracts on our [Finding Contracts page](https://docs.plexfinance.us/developers/smart-contracts).
 
 ## Why does it say I have no BNB balance?
 
-If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.plexswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.plexswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
-
-## How do I vote?
-
-To learn more about voting, you can [read our section on Voting](https://docs.plexswap.finance/products/voting), including voting guides.
+If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.plexfinance.us/plexswap/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.plexfinance.us/plexswap/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
 
 ## What is the max supply of WAYA?
 
 $WAYA does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.\
 \
-Read this to [learn more about PlexSwap's tokenomics](https://docs.plexswap.finance/tokenomics/waya).
+Read this to [learn more about PlexSwap's tokenomics](https://docs.plexfinance.us/technical-specs/waya/waya-tokenomics).
 
 ## What are the treasury funds used for?
 
@@ -111,16 +101,6 @@ PlexSwap's vault has anti-flashloan protection. PlexSwap’s WAYA token isn’t 
 
 PlexSwap’s other smart contracts, like AutoPool, are protected as well; they prevent other contracts from interacting with them, reducing the scope of vector attacks.
 
-## Can I join the PlexSwap team?
-
-Check the [Become a Chef](https://docs.plexswap.finance/hiring/become-a-chef) area for information on open positions we're looking to fill.
-
-We advertise new positions we're looking to fill on our [official social media channels](https://docs.plexswap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
-
-## What is GAYA?
-
-GAYA was a part of the staking process earlier in PlexSwap's life. GAYA was discontinued when a security issue was discovered and is no longer a part of PlexSwap.
-
 ## I can't find an answer for my question. Where do I find an answer?
 
-If you can't find what you're looking for in PlexSwap's documentation, ask your question on [PlexSwap's official social media platforms](https://docs.plexswap.finance/contact-us/telegram) and someone will do their best to help you out.
+If you can't find what you're looking for in PlexSwap's documentation, ask your question on [PlexSwap's official e](https://docs.plexswap.finance/contact-us/telegram)mails and someone will do their best to help you out.
