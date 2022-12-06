@@ -56,7 +56,7 @@ You can repeat the above steps to add more liquidity, or add liquidity to differ
 
 To remove liquidity.
 
-1\. Visit the [Liquidity page](https://exchange.plexswap.finance/#/pool)**.**
+1\. Visit the [Liquidity page](https://swap.plexfinance.us/liquidity)**.**
 
 2\. Click on the pair you want to remove liquidity from under “Your Liquidity".
 

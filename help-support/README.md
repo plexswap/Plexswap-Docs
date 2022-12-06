@@ -10,11 +10,11 @@ We have broken the help topic down into sections to help you find what you're af
 
 ### Troubleshooting Errors
 
-The [Troubleshooting Errors page](https://docs.plexswap.finance/help/troubleshooting) has a collection of errors users may run into while using PlexSwap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
+The [Troubleshooting Errors page](https://docs.plexfinance.us/help/troubleshooting) has a collection of errors users may run into while using PlexSwap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
 
 ### General FAQ
 
-The [General FAQ page](https://docs.plexswap.finance/help/faq) answers the common questions we get from PlexSwap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
+The [General FAQ page](https://docs.plexfinance.us/help/faq) answers the common questions we get from PlexSwap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
 
 ### Other Guides
 

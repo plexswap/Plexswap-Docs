@@ -23,9 +23,9 @@ Although there is still no independent audit report, there are some aspects that
 
 ## How can I stake WAYA?
 
-You can stake your WAYA in PlexSwap Crop Silos. Visit the [Crop Silos page](https://plexswap.finance/pools).
+You can stake your WAYA in PlexSwap Crop Silos. Visit the [Crop Silos page](https://swap.plexfinance.us/pools).
 
-Read our [How to Stake in Crop Silos guide](https://docs.plexswap.finance/products/crop-silos/crop-silos-guide) if you'd like a hand getting started with staking.
+Read our [How to Stake in Crop Silos guide](https://docs.plexfinance.us/products/crop-silos/crop-silos-guide) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming?
 
@@ -103,4 +103,4 @@ PlexSwap’s other smart contracts, like AutoPool, are protected as well; they p
 
 ## I can't find an answer for my question. Where do I find an answer?
 
-If you can't find what you're looking for in PlexSwap's documentation, ask your question on [PlexSwap's official e](https://docs.plexswap.finance/contact-us/telegram)mails and someone will do their best to help you out.
+If you can't find what you're looking for in PlexSwap's documentation, ask your question on [PlexSwap's official e-mails](https://docs.plexfinance.us/plexswap/contact-us) and someone will do their best to help you out.

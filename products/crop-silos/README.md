@@ -39,7 +39,7 @@ Some special pools let you stake other tokens besides WAYA, too!
 
 ### **How can I run a Crop Silo for my project?**
 
-Reach out via [the application form](https://docs.plexswap.finance/contact-us/business-partnerships).
+Reach out via [the application form](https://docs.plexfinance.us/contact-us/business-partnerships).
 
 ### Crop Silo Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
