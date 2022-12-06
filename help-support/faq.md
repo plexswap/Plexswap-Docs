@@ -1,11 +1,8 @@
 # General FAQ
 
-![](<../.gitbook/assets/general-faq-header (1).png>)
-
 This FAQ page answers some of the more commonly asked questions from the PlexSwap community.
 
 ## Is PlexSwap safe? Has PlexSwap been Audited?
-
 
 Although there is still no independent audit report, there are some aspects that you should consider in your assessment:
 
@@ -19,48 +16,48 @@ Although there is still no independent audit report, there are some aspects that
   * [Plex Pair](https://bscscan.com/address/0x539Df50cf6fc29d560413d669A5Bb78cB342029B#code)
   * [Waya Token](https://bscscan.com/address/0x0581c0dae41F19Fb4602E7ba0A803B7AE50f02E8#code)
   * [Gaya Token](https://bscscan.com/address/0x45eE7bb74220D55a09e99ce6e9a8a8Dd2ac3105D#code)
- * Security best practices:
-  * All Farmers use multisig for all contracts.
+* Security best practices:
+* All Farmers use multisig for all contracts.
 
 ## How can I stake WAYA?
 
-You can stake your WAYA in PlexSwap Crop Silos. Visit the [Crop Silos page](https://PlexSwap.finance/pools).
+You can stake your WAYA in PlexSwap Crop Silos. Visit the [Crop Silos page](https://plexswap.finance/pools).
 
-Read our [How to Stake in Crop Silos guide](https://docs.PlexSwap.finance/products/crop-silos/crop-silos-guide) if you'd like a hand getting started with staking.
+Read our [How to Stake in Crop Silos guide](https://docs.plexswap.finance/products/crop-silos/crop-silos-guide) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming?
 
 Staking in Crop Silos and farming with Yield Farming are both ways to earn more WAYA by supporting PlexSwap.
 
 Staking only needs some WAYA to be added to a Crop Silo to earn WAYA or other tokens.\
-[Learn more about Crop Silo staking.](https://docs.PlexSwap.finance/products/crop-silos)
+[Learn more about Crop Silo staking.](https://docs.plexswap.finance/products/crop-silos)
 
 Farming is more complicated and needs LP Tokens to earn WAYA.\
-[Learn more about Yield Farming.](https://docs.PlexSwap.finance/products/yield-farming)
+[Learn more about Yield Farming.](https://docs.plexswap.finance/products/yield-farming)
 
 ## How do I farm?
 
-We have a [Yield Farming guide](https://docs.PlexSwap.finance/products/yield-farming/how-to-use-farms) if you're interested in learning how to farm.
+We have a [Yield Farming guide](https://docs.plexswap.finance/products/yield-farming/how-to-use-farms) if you're interested in learning how to farm.
 
 ## Where can I view the PlexSwap roadmap?
 
-You can [view our to-do list here, but don't call it a roadmap](https://docs.PlexSwap.finance/roadmap).
+You can [view our to-do list here, but don't call it a roadmap](https://docs.plexswap.finance/roadmap).
 
 ## How do I connect my wallet to BNB Smart Chain and PlexSwap?
 
-We have a [Connect Your Wallet to PlexSwap guide](https://docs.PlexSwap.finance/get-started/connection-guide) covering this in detail.
+We have a [Connect Your Wallet to PlexSwap guide](https://docs.plexswap.finance/get-started/connection-guide) covering this in detail.
 
 ## What's the best wallet for PlexSwap?
 
-It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](https://docs.PlexSwap.finance/get-started/wallet-guide) that's right for you.
+It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](https://docs.plexswap.finance/get-started/wallet-guide) that's right for you.
 
 ## Why is my transaction failing?
 
 You can check the status of a transaction on [https://bscscan.com/](https://bscscan.com).
 
-Our [Troubleshooting Errors guide](https://docs.PlexSwap.finance/help/troubleshooting) may have a solution for your problem if you're having issues.
+Our [Troubleshooting Errors guide](https://docs.plexswap.finance/help/troubleshooting) may have a solution for your problem if you're having issues.
 
-You can also see our [Fixing Stuck Pending Transactions guide](https://docs.PlexSwap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) if you have a stuck transaction.
+You can also see our [Fixing Stuck Pending Transactions guide](https://docs.plexswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) if you have a stuck transaction.
 
 ## When will you open more pools?
 
@@ -80,21 +77,21 @@ Please remember anyone can airdrop tokens to PlexSwap users since every transact
 
 ## Where can I view smart contracts?
 
-Learn how to find smart contracts on our [Finding Contracts page](https://docs.PlexSwap.finance/developers/smart-contracts).
+Learn how to find smart contracts on our [Finding Contracts page](https://docs.plexswap.finance/developers/smart-contracts).
 
 ## Why does it say I have no BNB balance?
 
-If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.PlexSwap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.PlexSwap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
+If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.plexswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.plexswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
 
 ## How do I vote?
 
-To learn more about voting, you can [read our section on Voting](https://docs.PlexSwap.finance/products/voting), including voting guides.
+To learn more about voting, you can [read our section on Voting](https://docs.plexswap.finance/products/voting), including voting guides.
 
 ## What is the max supply of WAYA?
 
 $WAYA does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.\
 \
-Read this to [learn more about PlexSwap's tokenomics](https://docs.PlexSwap.finance/tokenomics/waya).
+Read this to [learn more about PlexSwap's tokenomics](https://docs.plexswap.finance/tokenomics/waya).
 
 ## What are the treasury funds used for?
 
@@ -104,7 +101,7 @@ The treasury funds are used to cover the expenses involved in running PlexSwap. 
 
 You can check the analytics of PlexSwap by click on the "Analytics" tab on the top menu or by clicking the link below.
 
-Analytics: [https://PlexSwap.info/](https://PlexSwap.info)
+Analytics: [https://PlexSwap.info/](https://plexswap.info)
 
 ## Is PlexSwap protected from flashloan attacks?
 
@@ -114,9 +111,9 @@ PlexSwap’s other smart contracts, like AutoPool, are protected as well; they p
 
 ## Can I join the PlexSwap team?
 
-Check the [Become a Chef](https://docs.PlexSwap.finance/hiring/become-a-chef) area for information on open positions we're looking to fill.
+Check the [Become a Chef](https://docs.plexswap.finance/hiring/become-a-chef) area for information on open positions we're looking to fill.
 
-We advertise new positions we're looking to fill on our [official social media channels](https://docs.PlexSwap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
+We advertise new positions we're looking to fill on our [official social media channels](https://docs.plexswap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
 
 ## What is GAYA?
 
@@ -124,4 +121,4 @@ GAYA was a part of the staking process earlier in PlexSwap's life. GAYA was disc
 
 ## I can't find an answer for my question. Where do I find an answer?
 
-If you can't find what you're looking for in PlexSwap's documentation, ask your question on [PlexSwap's official social media platforms](https://docs.PlexSwap.finance/contact-us/telegram) and someone will do their best to help you out.
+If you can't find what you're looking for in PlexSwap's documentation, ask your question on [PlexSwap's official social media platforms](https://docs.plexswap.finance/contact-us/telegram) and someone will do their best to help you out.

@@ -12,10 +12,7 @@
   * [Troubleshooting Errors](help-support/troubleshooting.md)
   * [General FAQ](help-support/faq.md)
   * [Customer Support](help-support/customer-support.md)
-* [📬 Contact Us](contact-us/README.md)
-  * [Business Partnerships](contact-us/business-partnerships.md)
-  * [The Farm Workers](contact-us/farm-workers.md)
-* [🆕 Next Steps](plexswap/next-steps.md)
+* [📬 Contact Us](plexswap/contact-us.md)
 * [© © Brand & Logos](plexswap/brand.md)
 
 ## Products
@@ -34,8 +31,6 @@
     * [FAQ](products/yield-farming/boosters/faq.md)
 * [🌾 Crop Silos](products/crop-silos/README.md)
   * [WAYA Silo](products/crop-silos/waya-silo/README.md)
-    * [How to use the Flexible Staking option](products/crop-silos/waya-silo/flexible-staking.md)
-    * [How to use the Fixed-Term Staking option](products/crop-silos/waya-silo/fixed-term-staking.md)
     * [WAYA Silo FAQ](products/crop-silos/waya-silo/waya-silo-faq.md)
   * [Other Crop Silos](products/crop-silos/other-silos/README.md)
     * [Crop Silos FAQ & Troubleshooting](products/crop-silos/other-silos/crop-silos-faq.md)

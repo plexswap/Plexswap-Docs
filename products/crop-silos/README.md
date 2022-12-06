@@ -1,4 +1,4 @@
-# 🌾   Crop Silos
+# 🌾 Crop Silos
 
 ![](../../.gitbook/assets/Crop\_Silos.png)
 
@@ -15,12 +15,12 @@ Some special pools let you stake other tokens besides WAYA, too!
 [waya-silo](waya-silo/)
 {% endcontent-ref %}
 
-{% content-ref url="waya-silo/flexible-staking.md" %}
-[flexible-staking.md](waya-silo/flexible-staking.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="waya-silo/fixed-term-staking.md" %}
-[fixed-term-staking.md](waya-silo/fixed-term-staking.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="other-silos/" %}
