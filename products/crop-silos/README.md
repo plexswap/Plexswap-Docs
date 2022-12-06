@@ -23,8 +23,8 @@ Some special pools let you stake other tokens besides WAYA, too!
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="other-silos/" %}
-[other-silos](other-silos/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### Crop Silo FAQs & Troubleshooting
@@ -33,8 +33,8 @@ Some special pools let you stake other tokens besides WAYA, too!
 [waya-silo-faq.md](waya-silo/waya-silo-faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="other-silos/crop-silos-faq.md" %}
-[crop-silos-faq.md](other-silos/crop-silos-faq.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### **How can I run a Crop Silo for my project?**

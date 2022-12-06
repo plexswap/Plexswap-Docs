@@ -12,7 +12,7 @@
   * [Troubleshooting Errors](help-support/troubleshooting.md)
   * [General FAQ](help-support/faq.md)
   * [Customer Support](help-support/customer-support.md)
-* [📬 Contact Us](plexswap/contact-us.md)
+* [📬 Contact Us](contact-us/README.md)
 * [© © Brand & Logos](plexswap/brand.md)
 
 ## Products
@@ -26,16 +26,9 @@
     * [Limit Orders FAQ](products/exchange/limit-orders/limit-orders-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
-  * [Farm Yield Boosters](products/yield-farming/farm-yield-boosters/README.md)
-    * [How to use Boosters?](products/yield-farming/boosters/how-to-use-boosters.md)
-    * [FAQ](products/yield-farming/boosters/faq.md)
 * [🌾 Crop Silos](products/crop-silos/README.md)
   * [WAYA Silo](products/crop-silos/waya-silo/README.md)
     * [WAYA Silo FAQ](products/crop-silos/waya-silo/waya-silo-faq.md)
-  * [Other Crop Silos](products/crop-silos/other-silos/README.md)
-    * [Crop Silos FAQ & Troubleshooting](products/crop-silos/other-silos/crop-silos-faq.md)
-* [🗳 Voting](products/voting/README.md)
-  * [How to Vote](products/voting/voting-guide.md)
 
 ## TECHNICAL SPECS
 
