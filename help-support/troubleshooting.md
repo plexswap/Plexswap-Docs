@@ -123,33 +123,6 @@ If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, 
 
 ## **Issues with Crop Silos**
 
-### BEP20: burn amount exceeds balance
-
-> Fail with error 'BEP20: burn amount exceeds balance'
-
-You don't have enough GAYA in your wallet to unstake from the WAYA-WAYA Silo.
-
-**Get at least as much GAYA as the amount of WAYA that you’re trying to unstake.**
-
-1. Buy GAYA on the exchange. If you want to unstake 100 WAYA, you need at least 100 GAYA.
-2. Try unstaking again.
-
-If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
-
-1. Go to: [https://bscscan.com/address/0x5a30a7CeA5B5e78C7ECb86cEA6EBA50577412B2cE#writeContract](https://bscscan.com/address/0x5a30a7CeA5B5e78C7ECb86cEA6EBA50577412B2c#writeContract)
-2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
-3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
-
-This will unstake your staked tokens and lose any uncollected WAYA yield.
-
-{% hint style="warning" %}
-**This will lose any yield that you haven’t harvested yet.**
-{% endhint %}
-
-To stop this happening again, **don’t sell your GAYA.** You still need it to unstake from the “Stake WAYA Earn WAYA” pool.
-
-This error has happened because you have sold or transferred GAYA tokens. GAYA is minted in a 1:1 ratio to WAYA when you stake in the WAYA-WAYA Crop Silo. GAYA must be burned at a 1:1 ratio to WAYA when calling leaveStaking (unstaking your WAYA from the pool), so if you don't have enough, you can't unstake from the pool.
-
 ### Out of Gas error
 
 > Warning! Error encountered during contract execution \[out of gas]
