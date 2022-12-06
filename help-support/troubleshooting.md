@@ -18,7 +18,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 2. Try trading a smaller amount at one time.
 3. Increase your slippage tolerance:
    1. Tap the settings icon on the liquidity page.
-   2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/assets/liquidity\_settings (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (4).png>)
+   2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/assets/liquidity\_settings (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 4. Lastly, try inputting an amount with fewer decimal places.
 {% endtab %}
 
@@ -48,7 +48,7 @@ Still doesn't work?
 1. Tap the settings icon on the liquidity page.
 2. Increase your slippage tolerance a little and try again.
 
-![](<../.gitbook/assets/liquidity\_settings (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (4).png>)
+![](<../.gitbook/assets/liquidity\_settings (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 {% endtab %}
 
 {% tab title="Reason" %}
@@ -173,7 +173,7 @@ If not, you may be trying to send tokens that you don't have in your wallet (for
 
 {% tabs %}
 {% tab title="Solution" %}
-Firstly,[ let the team know](broken-reference) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
+Firstly,[ let the team know](broken-reference/) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
 
 You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 

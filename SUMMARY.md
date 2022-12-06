@@ -13,7 +13,7 @@
   * [General FAQ](help-support/faq.md)
   * [Customer Support](help-support/customer-support.md)
 * [📬 Contact Us](contact-us/README.md)
-* [© © © Brand & Logos](plexswap/brand.md)
+* [© © © © Brand & Logos](plexswap/brand.md)
 
 ## Products
 
