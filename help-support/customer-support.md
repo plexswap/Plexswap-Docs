@@ -1,7 +1,5 @@
 # Customer Support
 
-![](../.gitbook/assets/customer-support-header.png)
-
 ## There is NO customer support for PlexSwap.
 
 If you're experiencing issues,
