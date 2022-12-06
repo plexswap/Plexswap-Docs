@@ -28,7 +28,7 @@
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
 * [🌾 Crop Silos](products/crop-silos/README.md)
   * [WAYA Silo](products/crop-silos/waya-silo/README.md)
-    * [WAYA Silo FAQ](products/crop-silos/waya-silo/waya-silo-faq.md)
+  * [WAYA Silo FAQ](products/crop-silos/waya-silo/waya-silo-faq.md)
 
 ## TECHNICAL SPECS
 
@@ -43,9 +43,10 @@
   * [PlexSwap Exchange](developers/smart-contracts/plexswap-exchange/README.md)
     * [Factory](developers/smart-contracts/plexswap-exchange/factory.md)
     * [Router](developers/smart-contracts/plexswap-exchange/router.md)
-  * [Most Important Farmers](developers/smart-contracts/most-important-farmers.md)
+  * [Farmers](developers/smart-contracts/farmers.md)
   * [WAYA Silo](developers/smart-contracts/waya-vault.md)
-  * [Auto WAYA Silo](developers/smart-contracts/waya-high-vault.md)
+  * [Flexible WAYA Silo](developers/smart-contracts/waya-flexible-vault.md)
+  * [Boosters](developers/smart-contracts/boosters.md)
 * [🤝 Contributing](developers/contributing/README.md)
 
 ## Basic Knowledge

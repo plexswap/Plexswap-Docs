@@ -7,7 +7,6 @@ This page provides links or locations for PlexSwap's smart contracts.
 The following links will take you to the BscScan page for PlexSwap's main smart contracts.
 
 * [PlexSwap: Main Staking Contract/ChiefFarmer](https://bscscan.com/address/0x4Ba4EFa9C4E44b94ea232Fd5F5f7F4A4961904e5)
-* [PlexSwap: Main Staking Contract/TaskMaster](https://bscscan.com/address/0x5a30a7CeA5B5e78C7ECb86cEA6EBA50577412B2c)
 * [PlexSwap: Factory](https://bscscan.com/address/0x580B12Fcc6247E7bA7a02324Ea6Aa6604d0BEC7A)
 * [PlexSwap: Router](https://bscscan.com/address/0x4bAa3F9f24B97aa67B0A0f080bA3A9c994c6AE93)
 * Others:

@@ -7,6 +7,6 @@ description: The Waya Silo offering fixed-term staking and flexible staking opti
 ## Contract info
 
 **Contract name:** WayaVault\
-**Contract address:** `0xf26f8F978F31EaE602B6B3485007684fa9B13913`
+**Contract address:** `0x7899654d3C4f2eEe352c833BD3aBE67Fb18A4D71`
 
-[View the PlexSwap: Waya Silo Contract on BscScan.](https://bscscan.com/address/0xf26f8F978F31EaE602B6B3485007684fa9B13913)
+[View the PlexSwap: Waya Wault Contract on BscScan.](https://bscscan.com/address/0x7899654d3C4f2eEe352c833BD3aBE67Fb18A4D71)
