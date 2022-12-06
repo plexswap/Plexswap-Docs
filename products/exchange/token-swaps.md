@@ -1,8 +1,6 @@
 # Token Swaps
 
-![](../../.gitbook/assets/swap-trade-header.png)
-
-****[**Token swaps**](https://exchange.PlexSwap.finance/#/swap) on PlexSwap are a simple way to trade one BEP-20 token for another via automated liquidity pools.
+\*\*\*\*[**Token swaps**](https://exchange.plexswap.finance/#/swap) on PlexSwap are a simple way to trade one BEP-20 token for another via automated liquidity pools.
 
 ![](../../.gitbook/assets/plex-token-swap.png)
 
