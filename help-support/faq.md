@@ -97,7 +97,7 @@ Analytics: [https://PlexSwap.info/](https://plexswap.info)
 
 ## Is PlexSwap protected from flashloan attacks?
 
-PlexSwap's vault has anti-flashloan protection. PlexSwap’s WAYA token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, WAYA token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of TaskMaster contract.
+PlexSwap's vault has anti-flashloan protection. PlexSwap’s WAYA token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, WAYA token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of ChiefMaster contract.
 
 PlexSwap’s other smart contracts, like AutoPool, are protected as well; they prevent other contracts from interacting with them, reducing the scope of vector attacks.
 

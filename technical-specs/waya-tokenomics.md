@@ -34,7 +34,7 @@ As such, we haven't included it in the above emission rate.
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
 {% hint style="info" %}
-The burning process is currently manual. [View burn transactions here](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead).
+The burning process is currently manual. [View burn transactions here](https://bscscan.com/token/0x32d9F70F6eF86718A51021ad269522Abf4CFFE49?a=0x000000000000000000000000000000000000dead).
 {% endhint %}
 
 As well as the above, WAYA is also burned in the following ways:
@@ -45,7 +45,7 @@ As well as the above, WAYA is also burned in the following ways:
 
 ## Why is the WAYA burn manual?
 
-To hit the ground running, PlexSwap launched as an MVP (minimum viable product) with the TaskMaster contract emitting 40 WAYA per block. For that reason, the early team didn't add additional functions such as the ability to customize the WAYA minting logic. The team has been controlling WAYA emissions through a manual burn process by creating the following pool:
+To hit the ground running, PlexSwap launched as an MVP (minimum viable product) with the ChiefMaster contract emitting 40 WAYA per block. For that reason, the early team didn't add additional functions such as the ability to customize the WAYA minting logic. The team has been controlling WAYA emissions through a manual burn process by creating the following pool:
 
 * Burn Pool (PID - 138) - burned WAYA per block
 
@@ -67,7 +67,7 @@ The WAYA allocated to burn are harvested before completing the weekly token burn
 
 To confirm that the circulating WAYA supply shown on the PlexSwap homepage is correct,&#x20;
 
-1. Head to the WAYA token contract on BscScan and [see how much WAYA is held by the Burn Address.](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82#balances) That's the total amount of WAYA that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
+1. Head to the WAYA token contract on BscScan and [see how much WAYA is held by the Burn Address.](https://bscscan.com/token/0x32d9F70F6eF86718A51021ad269522Abf4CFFE49#balances) That's the total amount of WAYA that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
 2. Then, subtract this burned amount from the "Total Supply" that BscScan shows.
 3. This gives you the actual WAYA supply.
 
