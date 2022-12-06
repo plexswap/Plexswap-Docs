@@ -1,14 +1,12 @@
 # Liquidity Pools
 
-![](../../.gitbook/assets/liquidity-header.png)
-
 When you add your token to a Liquidity Pool you will receive Liquidity Provider (LP) tokens and share in the fees.
 
 ## LP Tokens
 
 As an example, if you deposited **WAYA** and **BNB** into a Liquidity Pool, you'd receive **WAYA-BNB LP** tokens.
 
-The number of LP tokens you receive represents your portion of the WAYA-BNB Liquidity Pool.&#x20;
+The number of LP tokens you receive represents your portion of the WAYA-BNB Liquidity Pool.
 
 You can also redeem your funds at any time by removing your liquidity.
 
@@ -16,7 +14,7 @@ You can also redeem your funds at any time by removing your liquidity.
 
 ## Liquidity Providers earn trading fees
 
-Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool.&#x20;
+Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool.
 
 Whenever someone trades on PlexSwap, the trader pays a 0.25% fee, **of which 0.17%** is added to the Liquidity Pool of the swap pair they traded on.
 
