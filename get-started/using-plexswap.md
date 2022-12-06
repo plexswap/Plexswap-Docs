@@ -72,9 +72,7 @@ Let's try moving USDT from Polygon (MATIC) blockchain to BSC using AnySwap.
 {% endtab %}
 
 {% tab title="O3 Hub" %}
-⚠️ **O3 Swap is in beta. Please trade at your own risk.**
-
-Let's try using O3 Hub to moving USDT from ERC-20 blockchain to BNB Smart Chain.
+&#x20; Let's try using O3 Hub to moving USDT from ERC-20 blockchain to BNB Smart Chain.
 
 1. Prepare your ERC-20 (Ethereum Mainnet) wallet with USDT and some ETH for gas.
 2. Since O3 Hub only supports MetaMask and O3 Wallet. If you are using other wallet apps, we recommend you to import your wallet into MetaMask.
