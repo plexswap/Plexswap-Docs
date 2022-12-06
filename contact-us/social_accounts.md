@@ -30,7 +30,7 @@ Newly launched on 24th Nov! The below is the only link for our discord server!
 
 **Official Telegram Groups:**
 
-* 📣 Announcement Channel ([http://t.me/PlexSwapAnn](http://t.me/PlexSwapAnn))
+* 📣 Announcement Channel ([http://t.me/PlexSwap](http://t.me/PlexSwap))
 * 🥞 English ([http://t.me/PlexSwap](http://t.me/PlexSwap))
 
 {% hint style="danger" %}
