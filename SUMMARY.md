@@ -34,7 +34,6 @@
 
 * [WAYA Basics](technical-specs/waya.md)
   * [WAYA Tokenomics](technical-specs/waya-tokenomics.md)
-  * [Controlling WAYA Supply](technical-specs/controlling-waya-supply.md)
 
 ## Developers
 
