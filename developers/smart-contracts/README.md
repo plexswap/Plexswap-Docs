@@ -8,7 +8,7 @@ The following links will take you to the BscScan page for PlexSwap's main smart 
 
 * [PlexSwap: Main Staking Contract/ChiefFarmer](https://bscscan.com/address/0x4Ba4EFa9C4E44b94ea232Fd5F5f7F4A4961904e5)
 * [PlexSwap: Factory](https://bscscan.com/address/0x580B12Fcc6247E7bA7a02324Ea6Aa6604d0BEC7A)
-* [PlexSwap: Router](https://bscscan.com/address/0x4bAa3F9f24B97aa67B0A0f080bA3A9c994c6AE93)
+* [PlexSwap: Router](https://bscscan.com/address/0x205ce30FB7Ef4173f05979421a73Def4f6983C47)
 * Others:
   * [Farms Contracts](./#farms-contracts)
 
