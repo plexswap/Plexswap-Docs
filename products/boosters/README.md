@@ -2,7 +2,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Automated_Farm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Boosters.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
