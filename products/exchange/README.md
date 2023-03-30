@@ -1,6 +1,6 @@
 # 🔄 Exchange
 
-![](<../../.gitbook/assets/Automated\_Farm (1).png>)
+![](../../.gitbook/assets/Automated\_Farm.png)
 
 PlexSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of PlexSwap. PlexSwap is the leading AMM on the BNB Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
 

@@ -10,7 +10,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/metamask\_850 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (10).png>)
+![](<../.gitbook/assets/metamask\_850 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (23).png>)
 
 **Chrome and Firefox**
 
@@ -52,7 +52,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (10) (1).png>)
+![](<../.gitbook/assets/coinbase\_850 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (9).png>)
 
 1. Visit the [PlexSwap website](https://swap.plexfinance.us), In the top right corner you'll see the **Connect** button. Click it.\
    ![](../.gitbook/assets/cb-desktop-3.png)
