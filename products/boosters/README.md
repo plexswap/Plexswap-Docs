@@ -1,14 +1,6 @@
 # 🚀 Boosters
 
-<div>
-
-<img src="../.gitbook/assets/Get_Started.png" alt="">
-
- 
-
-<figure><img src="../../.gitbook/assets/Automated_Farm.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/Boosters.png" alt=""><figcaption></figcaption></figure>
 
 Farm Boosters, is an automatic generated boost multiplier that allows you to boost your WAYA yield from selected farms up to 2x, taking full advantage of combining fixed-term WAYA staking and liquidity yield farming.
 
