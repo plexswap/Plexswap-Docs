@@ -2,10 +2,6 @@
 
 <div>
 
-<img src="../.gitbook/assets/Get_Started.png" alt="">
-
- 
-
 <figure><img src="../../.gitbook/assets/Automated_Farm.png" alt=""><figcaption></figcaption></figure>
 
 </div>
