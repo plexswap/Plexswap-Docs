@@ -6,13 +6,12 @@
 
 ## The basics
 
-WAYA is the delicious token that powers the PlexSwap ecosystem.
+WAYA is the challenging token that powers the PlexSwap ecosystem.
 
-Earn WAYA from Farms and Crop Silos, or [buy it on the exchange](../products/PlexSwap-exchange/), then explore its use cases:
+Earn WAYA from Farms and Crop Silos, or [buy it on the exchange](https://swap.plexfinance.us), then explore its use cases:
 
 * Stake it in [Crop Silos](../products/crop-silos/) to earn free tokens
 * Use it in [Yield Farms](https://docs.plexfinance.us/products/yield-farming) to earn more WAYA
-* [Vote on proposals](broken-reference/) relating to the PlexSwap ecosystem
 
 But that's not all -- there's much more on the horizon for WAYA!
 
