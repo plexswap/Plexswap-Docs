@@ -26,10 +26,10 @@
     * [Limit Orders FAQ](products/exchange/limit-orders/limit-orders-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
-  * [Boosters](products/boosters/README.md)
 * [🌾 Crop Silos](products/crop-silos/README.md)
   * [WAYA Silo](products/crop-silos/waya-silo/README.md)
   * [WAYA Silo FAQ](products/crop-silos/waya-silo/waya-silo-faq.md)
+* [Boosters](products/boosters/README.md)
 
 ## TECHNICAL SPECS
 
