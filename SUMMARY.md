@@ -13,7 +13,7 @@
   * [General FAQ](help-support/faq.md)
   * [Customer Support](help-support/customer-support.md)
 * [📬 Contact Us](contact-us/README.md)
-* [© Brand & Logos](plexswap/brand.md)
+* [© © Brand & Logos](plexswap/brand.md)
 
 ## Products
 
@@ -29,7 +29,7 @@
 * [🌾 Crop Silos](products/crop-silos/README.md)
   * [WAYA Silo](products/crop-silos/waya-silo/README.md)
   * [WAYA Silo FAQ](products/crop-silos/waya-silo/waya-silo-faq.md)
-* [Boosters](products/boosters/README.md)
+* [🚀 Boosters](products/boosters/README.md)
 
 ## TECHNICAL SPECS
 
