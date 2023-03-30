@@ -23,8 +23,4 @@ Check below to discover the nuts and bolts of how WAYA works.
 [waya-tokenomics.md](waya-tokenomics.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ### \*\*\*\*

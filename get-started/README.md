@@ -8,9 +8,9 @@ Using anything new can be a bit of a challenge. Don't worry though, we've create
 
 Follow these guides to get everything set up to use PlexSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
-[Create a Wallet](https://docs.plexfinance.us/get-started/wallet-guide)\
-[Get BEP20 Tokens](https://docs.plexfinance.us/get-started/bep20-guide)\
-[Connect Your Wallet to PlexSwap](https://docs.plexfinance.us/get-started/connection-guide)
+[Create a Wallet](wallet-guide)\
+[Get BEP20 Tokens](bep20-guide)\
+[Connect Your Wallet to PlexSwap](connection-guide)
 
 ## Guides for using PlexSwap features
 
