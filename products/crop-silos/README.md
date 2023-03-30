@@ -15,31 +15,11 @@ Some special pools let you stake other tokens besides WAYA, too!
 [waya-silo](waya-silo/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ### Crop Silo FAQs & Troubleshooting
 
 {% content-ref url="waya-silo/waya-silo-faq.md" %}
 [waya-silo-faq.md](waya-silo/waya-silo-faq.md)
 {% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-### **How can I run a Crop Silo for my project?**
-
-Reach out via [the application form](https://docs.plexfinance.us/contact-us/business-partnerships).
 
 ### Crop Silo Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
