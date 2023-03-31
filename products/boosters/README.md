@@ -1,10 +1,6 @@
 # 🚀 Boosters
 
-<div>
-
 <figure><img src="../../.gitbook/assets/Boosters.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 Farm Boosters, is an automatic generated boost multiplier that allows you to boost your WAYA yield from selected farms up to 2x, taking full advantage of combining fixed-term WAYA staking and liquidity yield farming.
 
@@ -32,11 +28,11 @@ The final multipliers will reflect each user’s performance against the entire 
 
 The multiplier is calculated using the following formulas:
 
-1. resultA = efficiencyFactor \* userLpStakedAmount
-2. resultB = (totalLpStakedAmount \* userLockedAmount \* userLockedDuration / slipFactor) / (totalLockedAmount \* averageLockedDuration)
+1. resultA = **lMaxBoost** \* userLpStakedAmount
+2. resultB = (totalLpStakedAmount \* userLockedAmount \* userLockedDuration / **controlDifficulties**) / (totalLockedAmount \* averageLockedDuration)
 3. boostMultiplier = min(userLpStakedAmount, (resultA + resultB)) / resultA
 
-efficiencyFactor and slipFactor are set by the Financial Controller and subject to possible adjustments based on market condition.
+**lMaxBoost** and **controlDifficulties** are parameters set by the Financial Controller and subject to possible adjustments based on market condition.
 
 ### Multiplier auto refresh
 
